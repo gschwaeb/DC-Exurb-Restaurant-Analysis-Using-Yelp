@@ -1,0 +1,573 @@
+,id,Name,Review_Count,Categories,Rating,Price,Address,state
+0,smTFfg1g_BjsUkorL_ZxLQ,Kuya Ja's Lechon Belly,593,['Filipino'],4.5,$$,"['5268-H Nicholson Ln', 'Rockville, MD 20895']",MD
+1,9nhzaAX6BdbgF4u2Zxi9RA,Kusshi,486,"['Sushi Bars', 'Japanese', 'Whiskey Bars']",4.5,$$,"['11826 Trade St', 'Rockville, MD 20852']",MD
+2,OaI2Mh2fXj_RUq7hnGV_iQ,Nada,447,"['Breakfast & Brunch', 'Mexican']",4.0,$$,"['11886 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+3,UYffA9zyxFnu8E0T2hqoNw,Akira Ramen & Izakaya,708,"['Izakaya', 'Ramen']",4.0,$$,"['1800 Rockville Pike', 'Unit H1', 'Rockville, MD 20852']",MD
+4,ExMamAA8DqKpvwupNLdCgQ,KPOT Korean BBQ & Hot Pot,634,"['Barbeque', 'Hot Pot', 'Bars']",4.0,$$,"['5550 Randolph Rd', 'Rockville, MD 20852']",MD
+5,5bfCm0OdEtSObbqUpgUmDA,Urban Hot Pot,646,"['Hot Pot', 'Chinese', 'Seafood']",4.0,$$,"['1800 Rockville Pike', 'Ste H2', 'Rockville, MD 20852']",MD
+6,hi7U1vrjvgUmg9V-sdFa7A,MoCo's Founding Farmers,2218,"['American (New)', 'Breakfast & Brunch', 'Bars']",3.5,$$,"['12505 Park Potomac Ave', 'Potomac, MD 20854']",MD
+7,NjbmBzJk41KFpFgNF4X3Qg,La Brasa Latin Cuisine,401,['Latin American'],4.5,$$,"['12401 Parklawn Dr', 'Rockville, MD 20852']",MD
+8,bq0lwI3Cnx_Vbf5IpMk3OQ,JINYA Ramen Bar,464,['Ramen'],4.0,$$,"['910 Prose St', 'North Bethesda, MD 20852']",MD
+9,XXzx6wpCs5LbwmeAoC5pEA,Summer House Santa Monica,986,"['American (New)', 'Diners']",3.5,$$,"['11825 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+10,jDlt9018e_R-dTsfGbqnSw,Kiin Imm Thai Restaurant - Rockville,590,"['Thai', 'Asian Fusion', 'Noodles']",4.5,$$,"['785 D Rockville Pike', 'Rockville, MD 20852']",MD
+11,vHrByWYXFRMWD0MJhtJiVw,The Big Greek Cafe - Kensington,261,['Greek'],4.5,$$,"['5268 Nicholson Ln', 'Kensington, MD 20895']",MD
+12,xxubtoZChdoiBDGzojmggQ,Maki,788,"['Sushi Bars', 'Ramen', 'Izakaya']",4.0,$$,"['842C Rockville Pike', 'Rockville, MD 20852']",MD
+13,QZFBrI_alEWnnUb8nz6ZXQ,Silver Diner,783,"['Diners', 'American (New)']",4.0,$$,"['12276 Rockville Pike', 'Rockville, MD 20852']",MD
+14,YFq_vC0QiZb-qXONM3SDJg,Temari Japanese Cafe,703,['Japanese'],4.0,$$,"['1043 Rockville Pike', 'Rockville, MD 20852']",MD
+15,P-InjlpV2DNnhMA6HVYaug,Gilly's Craft Beer & Fine Wine,282,"['Beer, Wine & Spirits', 'Delis']",4.5,$$,"['2009 Chapman Ave', 'Rockville, MD 20851']",MD
+16,sfAnfo3N5F3Kszjn7Ui1tg,Sheba Ethiopian Restaurant,338,"['Ethiopian', 'Halal']",4.5,$$,"['5071 Nicholson Ln', 'Rockville, MD 20852']",MD
+17,4_jyjExsUcWCltYdhzWrYw,Seasons 52,649,"['American (New)', 'Wine Bars', 'Seafood']",3.5,$$,"['11414 Rockville Pike', 'North Bethesda, MD 20852']",MD
+18,3-zpYxx6zmEMwiN4C3XOUA,Matchbox - Rockville,1137,"['Pizza', 'American (New)', 'Breakfast & Brunch']",3.5,$$,"['1699 Rockville Pike', 'Rockville, MD 20852']",MD
+19,Ags8Ne2wxHg-tSE8eHB4OA,Corned Beef King,299,"['Sandwiches', 'Delis', 'American (Traditional)']",4.0,$$,"['1900 Rockville Pike', 'Rockville, MD 20852']",MD
+20,wyRWdskRotNZ0jLHwXNxMQ,Mission BBQ,435,"['Barbeque', 'Sandwiches', 'Salad']",4.5,$$,"['885 Rockville Pike', 'Rockville, MD 20852']",MD
+21,NNedlgPdbXt4MF_wbHNaGQ,Amina Thai,422,"['Thai', 'Halal', 'Noodles']",4.0,$$,"['5065 Nicholson Ln', 'Rockville, MD 20852']",MD
+22,2hVKeSf2wl60VoYfCbSbGg,Slapfish,547,"['Seafood', 'Fish & Chips', 'Sandwiches']",3.5,$$,"['12033 Rockville Pike', 'Rockville, MD 20852']",MD
+23,LBcOyJSEoCgrZwGN_PhTPQ,Iron Age,1188,"['Korean', 'Barbeque', 'Steakhouses']",3.5,$$,"['1054 Rockville Pike', 'Rockville, MD 20852']",MD
+24,X-RVDVa-cGozrzIXQAaRAw,Mosaic Cuisine,519,"['Breakfast & Brunch', 'French', 'Bars']",4.0,$$,"['186 Halpine Rd', 'Rockville, MD 20852']",MD
+25,Yv3Q-hC8CsX9O3FaUuJJnA,Pho Nom Nom,771,['Vietnamese'],4.0,$$,"['842 Rockville Pike', 'Rockville, MD 20852']",MD
+26,3RK8cBMciI7NFSH7bwz5Iw,Pike Kitchen,473,"['Korean', 'Vietnamese', 'Coffee & Tea']",4.0,$$,"['1066 Rockville Pike', 'Rockville, MD 20852']",MD
+27,M51hWBVmGzwmPEz8nuipnA,Mahdang Korean Restaurant,137,"['Korean', 'Seafood', 'Barbeque']",4.5,$$,"['12300 Wilkins Ave', 'Rockville, MD 20852']",MD
+28,dLlts1qAK6r93k9H_stOOg,Yuan Fu Vegetarian,467,"['Chinese', 'Seafood', 'Gluten-Free']",4.0,$$,"['798 Rockville Pike', 'Rockville, MD 20852']",MD
+29,EHXxv_zoYzKNJni4sa9Feg,Sugo Osteria,699,"['Italian', 'Pizza', 'Bars']",4.0,$$,"['12505 Park Potomac Ave', 'Potomac, MD 20854']",MD
+30,HfFf5gcVYG8WVJTnqI3P5w,Bangkok Garden - Rockville,200,['Thai'],4.5,$$,"['891-D Rockville Pike', 'Rockville, MD 20852']",MD
+31,QOLlJiH76Vzcukbo2wuC9w,Clyde's - Tower Oaks Lodge,816,"['Bars', 'Seafood', 'American (Traditional)']",3.5,$$,"['2 Preserve Pkwy', 'Rockville, MD 20852']",MD
+32,JwJMbF3Sj9_WVXigd6SgAw,Yekta Kabobi Restaurant,396,"['Persian/Iranian', 'Wine Bars', 'Kebab']",4.0,$$,"['1488 Rockville Pike', 'Ste A', 'Rockville, MD 20852']",MD
+33,88wYn0FXwXH4pnRCaRV5Hw,La Limeña,520,"['Cuban', 'Peruvian']",4.0,$$,"['765 Rockville Pike', 'Ste B', 'Rockville, MD 20852']",MD
+34,Y_QMLknlftckbMC14z5KYg,Lighthouse Tofu,486,"['Korean', 'Barbeque', 'Soup']",3.5,$$,"['12710 Twinbrook Pkwy', 'Rockville, MD 20847']",MD
+35,W70omNTlqm2LzWXlP9m0Ag,Fogo de Chao Brazilian Steakhouse,267,"['Brazilian', 'Steakhouses']",4.0,$$$,"['11600 Old Georgetown Rd', 'North Bethesda, MD 20852']",MD
+36,FjyqwSGc_bYiemRoZkY9Ng,Frankly...Pizza!,404,['Pizza'],4.5,$$,"['10417 Armory Ave', 'Kensington, MD 20895']",MD
+37,UfLWXIUSQgQFdl3OdMFUTQ,Pinstripes,339,"['Caterers', 'Venues & Event Spaces', 'American (New)']",3.5,$$,"['11920 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+38,5WSQidslkXssUK454aqIgA,Stanford Grill- Rockville,500,"['American (New)', 'Cocktail Bars']",4.0,$$$,"['2000 Tower Oaks Blvd', 'Rockville, MD 20852']",MD
+39,y1mdlXCjC5-OWH7OXkXjAg,Sushi House,306,"['Sushi Bars', 'Japanese']",4.0,$$,"['1331 Rockville Pike', 'Ste D', 'Rockville, MD 20852']",MD
+40,3WupV-yujHBW3fG66X-7Dw,Bob's Shanghai 66,1149,"['Shanghainese', 'Seafood', 'Noodles']",4.0,$$,"['305 N Washington St', 'Rockville, MD 20850']",MD
+41,yQC1L2rCaRx_IHNQY67KEw,Quincy's South Bar & Grille,281,"['Sports Bars', 'Burgers', 'Pizza']",4.0,$$,"['11401 Woodglen Dr', 'Rockville, MD 20852']",MD
+42,pRT3JuM-y9o46Ff2IiUB4w,OM Fine Indian Cuisine,451,['Indian'],4.0,$$,"['785-K Rockville Pike', 'Rockville, MD 20852']",MD
+43,WdYoty5l_CgnGO_D4nI6RA,&pizza - Pike + Rose,266,"['Pizza', 'Vegan', 'Vegetarian']",4.0,$$,"['11626 Old Georgetown Rd', 'North Bethesda, MD 20852']",MD
+44,8dZ1pSqmfqR-Bx862-VmsQ,Los Primos Tex Mex & Grill,138,"['Tex-Mex', 'Salvadoran']",4.5,$$,"['12303 Twinbrook Pkwy', 'Rockville, MD 20852']",MD
+45,mx0lXQdMK3t6j4XfC7Wzlg,Fish Taco,335,['Mexican'],4.0,$$,"['10305 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+46,0odAg7ZzI5uupQvqGQKdHQ,Black Market Bistro,311,"['American (Traditional)', 'Desserts']",4.0,$$,"['4600 Waverly Ave', 'Garrett Park, MD 20896']",MD
+47,t43AT0Z_zNqCBz8-SbOqCw,Stella Barra Pizzeria & Wine Bar,298,"['Pizza', 'Wine Bars', 'Italian']",3.5,$$,"['11825 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+48,MF1wVHXXpH41-879MHOAjg,BurgerFi,147,['Burgers'],4.0,$$,"['11881 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+49,gyDlw-vrvBx_H8XuIWW0xg,Dog Haus Biergarten,723,"['Burgers', 'American (Traditional)', 'Beer Bar']",4.5,$$,"['7904 Woodmont Ave', 'Bethesda, MD 20814']",MD
+50,77dLh4Uw-skUg8YjcGKpZw,Mykonos Grill,294,"['Greek', 'Mediterranean']",4.0,$$,"['121 Congressional Ln', 'Rockville, MD 20852']",MD
+51,CaI48e6h-gD88ojN-W6AmQ,The Block,212,"['Asian Fusion', 'Bars', 'Sandwiches']",4.0,$$,"['967 Rose Ave', 'N. Bethesda, MD 20852']",MD
+52,GZy1ZEqtmuNTfyRVUOgm1Q,The Original Pancake House,459,"['Breakfast & Brunch', 'Creperies', 'Waffles']",3.5,$$,"['12224 Rockville Pike', 'Rockville, MD 20852']",MD
+53,rBADRasVRYXLw6rn6KwEDQ,Oh Mama Grill,163,"['Mediterranean', 'Kosher']",4.0,$$,"['188 Rollins Ave', 'Rockville, MD 20852']",MD
+54,ZPBl1VZcoeGJC3tJOeL_GQ,Joe's Noodle House,476,"['Chinese', 'Noodles']",3.5,$$,"['1488 Rockville Pike', 'Ste C', 'Rockville, MD 20852']",MD
+55,nr0mj9XQ2pIf5VxRlczKjQ,Green Bamboo Asian Bistro,319,"['Asian Fusion', 'Chinese', 'Sushi Bars']",3.5,$$,"['5751-F Fishers Ln', 'Rockville, MD 20852']",MD
+56,34SIp3olCmOFtflwPgWHmg,BAMBU,136,"['Bubble Tea', 'Coffee & Tea', 'Vietnamese']",4.0,$$,"['12242 Rockville Pike', 'Rockville, MD 20852']",MD
+57,eInp2y7gKsL4ImZo68kokQ,Talia’s Cuzina,121,['Mediterranean'],5.0,$$,"['10560 Metropolitan Ave', 'Kensington, MD 20895']",MD
+58,C2x4tgGBcIhWABpcRAC7Bw,Owen's Ordinary,335,"['Gastropubs', 'Beer Gardens']",3.5,$$,"['11820 Trade St', 'North Bethesda, MD 20852']",MD
+59,D1cVOa64ZQdSk5-lj7IVhw,Niwano Hana Japanese Restaurant,422,"['Japanese', 'Sushi Bars']",3.5,$$,"['887 Rockville Pike', 'Rockville, MD 20852']",MD
+60,cVgdIKPPyndq-0EOuDz6yg,Amalfi Ristorante Italiano,190,['Italian'],4.0,$$,"['12307 Wilkins Ave', 'Rockville, MD 20852']",MD
+61,GnXXzctaa6H8kqKRwiNvcg,Far East Restaurant,393,['Chinese'],3.5,$$,"['5055 Nicholson Ln', 'Rockville, MD 20852']",MD
+62,8f9ppDw6vOQhfDCepDcJhg,Cava Mezze - Rockville,834,"['Greek', 'Mediterranean', 'Tapas Bars']",4.5,$$,"['9713 Traville Gateway Dr', 'Rockville, MD 20850']",MD
+63,tZ4dhRQ_3C5bP01pYjqLYg,Grosvenor Market,123,"['Grocery', 'Delis']",4.5,$$,"['10401 Grosvenor Pl', 'Rockville, MD 20852']",MD
+64,t65Rb5CsJlLf1Zl_1oJO7g,Il Pizzico,608,['Italian'],4.5,$$,"['15209 Frederick Rd', 'Rockville, MD 20850']",MD
+65,U-G5q7uQrIHPlW9SV7riYw,Hot Pot Legend,301,"['Hot Pot', 'Chinese', 'Buffets']",4.5,$$,"['595 Hungerford Dr', 'Rockville, MD 20850']",MD
+66,tdUGxFny2n3yKNraAJOvdg,Trapezaria Mediterranean Kuzina,503,"['Greek', 'Mediterranean', 'Seafood']",4.0,$$,"['11 N Washington St', 'Rockville, MD 20850']",MD
+67,ty8X9wdAzzcShY9PgBDmgQ,Gringos & Mariachis,797,"['Mexican', 'Bars', 'Salad']",4.0,$$,"['4928 Cordell Ave', 'Bethesda, MD 20814']",MD
+68,yuFIGqlyznwy1dAZdqIrjQ,The Big Greek Cafe,514,['Greek'],4.5,$$,"['4007 Norbeck Rd', 'Rockville, MD 20853']",MD
+69,HSIo7MoD0tcCaAEBr5kx8Q,Full On Craft Eats & Drinks,497,"['Bars', 'Sandwiches']",4.5,$$,"['4007-D Norbeck Rd', 'Rockville, MD 20853']",MD
+70,nZJvOW3nd2-_XUuQaMfeaw,East Pearl Restaurant,388,['Chinese'],3.5,$$,"['838 B Rockville Pike', 'Rockville, MD 20852']",MD
+71,psPcuOp-vwW5LYK9UtkoNQ,Woodmont Grill,904,"['American (New)', 'Steakhouses', 'Sushi Bars']",4.0,$$$,"['7715 Woodmont Ave', 'Bethesda, MD 20814']",MD
+72,LCtLembc0EHLQe2ewuX2BQ,Eerkin's Uyghur Cuisine,86,"['Kebab', 'Desserts', 'Soup']",4.5,$$,"['1701 Rockville Pike', 'Ste B1', 'Rockville, MD 20852']",MD
+73,9HHQIQyrslWluJnBUgMmLQ,Mon Ami Gabi,1119,"['French', 'Wine Bars']",4.0,$$,"['7239 Woodmont Ave', 'Bethesda, MD 20814']",MD
+74,x5x7ovdvRTXZk8T5ZsHjig,Sadaf Halal Restaurant,145,"['Persian/Iranian', 'Halal', 'Kebab']",4.0,$$,"['1327 Rockville Pike', 'Rockville, MD 20852']",MD
+75,tSv0gmTa29irTrQwUKRtjA,Olazzo,630,['Italian'],4.0,$$,"['7921 Norfolk Ave', 'Bethesda, MD 20814']",MD
+76,D89DFEDfyVYY4UJYEXQ0Ew,honeygrow,193,"['Salad', 'Noodles', 'Vegetarian']",3.5,$$,"['12035 Rockville Pike', 'Rockville, MD 20852']",MD
+77,vM91E6v3zN2E9WbOBE1arw,Lavande Patisserie,380,"['Bakeries', 'Coffee & Tea', 'Breakfast & Brunch']",4.0,$$,"['275 N Washington St', 'Rockville, MD 20850']",MD
+78,IRNl8LnpjWbWg6GSWJLd0g,La Limeña Grill,167,"['Peruvian', 'Latin American']",4.0,$$,"['1093 Rockville Pike', 'Rockville, MD 20852']",MD
+79,weaMAuvO8W6D9Q4D7vvKsQ,Hwa Gae Jang Tuh Korean BBQ,217,['Korean'],4.0,$$,"['2104 Veirs Mill Rd', 'Rockville, MD 20851']",MD
+80,5BRYpLZoMPLJDkt2pyYC0A,Kadhai Boutique Indian Cuisine,470,['Indian'],4.5,$$,"['7905 Norfolk Ave', 'Bethesda, MD 20814']",MD
+81,Yd5eo10R5Jp9mYO-2x6Q6Q,First Watch,502,"['Breakfast & Brunch', 'Cafes', 'American (Traditional)']",4.0,$$,"['100 Gibbs St', 'Unit D', 'Rockville, MD 20850']",MD
+82,iwkdMEy5VVuKBDSiI_NFEQ,Urban Plates,152,"['Salad', 'American (New)', 'Sandwiches']",4.0,$$,"['7101 Democracy Blvd', 'Ste 2350', 'Bethesda, MD 20817']",MD
+83,znLGkALeFBpjaffrwRXOig,Java Nation,99,"['Coffee & Tea', 'American (New)', 'Breakfast & Brunch']",4.0,$$,"['11120 Rockville Pike', 'N. Bethesda, MD 20852']",MD
+84,U_5No1L279Y2Hf3K79HHgA,Live Crawfish & Seafood Restaurant,207,"['Seafood', 'Cajun/Creole', 'Bars']",4.0,$$,"['765 Rockville Pike', 'Ste F-G', 'Rockville, MD 20852']",MD
+85,-M26Ux8JIZr7wAN7tiBByw,Coastal Flats,967,"['American (Traditional)', 'Seafood', 'Sandwiches']",4.0,$$,"['135 Crown Park Ave', 'Gaithersburg, MD 20878']",MD
+86,S-QkOoOrDC6gfUXHaPeDcA,Parkway Deli & Restaurant,676,"['Delis', 'Breakfast & Brunch', 'American (Traditional)']",4.0,$$,"['8317 Grubb Rd', 'Silver Spring, MD 20910']",MD
+87,BTsb_6TwMcGKchT2wdINxw,China Bistro,704,['Chinese'],3.5,$$,"['755 Hungerford Dr', 'Rockville, MD 20850']",MD
+88,8X0Yr0J5HnV1sjAbl-b2Hg,Taipei Tokyo,248,"['Chinese', 'Sushi Bars', 'Japanese']",3.5,$$,"['11510 Rockville Pike', 'Ste A', 'Rockville, MD 20852']",MD
+89,jOmfiBW__6LHc8NUbLKtug,Bun'd Up,34,"['Korean', 'Food Stands', 'Asian Fusion']",4.5,$$,"['910 Rose Ave', 'Pike Central Farmers Market', 'North Bethesda, MD 20852']",MD
+90,RAmg7fQqq16DYohg5fu8gw,Miller's Ale House - Rockville,479,"['American (Traditional)', 'Sports Bars', 'Seafood']",3.0,$$,"['1471 Rockville Pike', 'Rockville, MD 20852']",MD
+91,i1_5OmRc3BjHMwEBdMLRBg,The Beer & Wine Cellar,43,"['Beer, Wine & Spirits', 'Pizza', 'Sandwiches']",4.5,$$,"['146 Congressional Ln', 'Rockville, MD 20852']",MD
+92,IS9u74wpxVZg7dpwuLcmYw,The Grilled Oyster Company,271,"['Seafood', 'Bars', 'Breakfast & Brunch']",3.5,$$,"['7943 Tuckerman Ln', 'Potomac, MD 20854']",MD
+93,eg7_5OAoIEnoh-5zxfDOKw,Botanero Restaurant,481,"['Tapas/Small Plates', 'Wine Bars', 'Spanish']",4.5,$$,"['800 Pleasant Dr', 'Ste 160', 'Rockville, MD 20850']",MD
+94,86Ac0sqx2yvH27CYi8M2TQ,Villa Maya,405,"['Tex-Mex', 'Latin American']",4.0,$$,"['5532 Norbeck Rd', 'Rockville, MD 20853']",MD
+95,fG2rnvyXdAM4izN7RAdVtg,Gourmet Inspirations,366,"['Dim Sum', 'Cantonese']",4.0,$$,"['2646 University Blvd W', 'Wheaton, MD 20902']",MD
+96,cTut1SDDoh7WFfUdEdpLmw,Gregorio's Trattoria,231,['Italian'],4.0,$$,"['7745 Tuckerman Ln', 'Potomac, MD 20854']",MD
+97,4PKMQrBRrVum-SxC0Kjufw,K Town Bistro,192,"['French', 'American (Traditional)']",4.0,$$$,"['3784 Howard Ave', 'Kensington, MD 20895']",MD
+98,8MObDyLiiMgzsx2TT_w92g,All Set Restaurant & Bar,793,"['American (New)', 'Seafood']",4.0,$$,"['8630 Fenton St', 'Silver Spring, MD 20910']",MD
+99,iqNoPMCRTg9YfS9cUudhYA,La Gelatteria,88,"['Gelato', 'Coffee & Tea', 'Breakfast & Brunch']",4.5,$$,"['10414 Detrick Ave', 'Ste 500', 'Kensington, MD 20895']",MD
+100,Ng1-gIQjSphXVXzL6YUMNA,The Thai Cuisine Restaurant,312,"['Thai', 'Noodles', 'Salad']",4.0,$$,"['757 Hungerford Dr', 'Rockville, MD 20850']",MD
+101,48hu96YSvKCgs6U5tYOXmw,Nava Thai,573,['Thai'],4.0,$$,"['11301 Fern St', 'Wheaton, MD 20902']",MD
+102,JaQQU-GX0RKgqlT55iSk3g,Gringos & Mariachis,214,"['Mexican', 'Bars', 'Tex-Mex']",4.0,$$,"['12435 Park Potomac Ave', 'Potomac, MD 20854']",MD
+103,0MS_nHaj5fk434u-jRNbYg,Taipei Cafe,382,"['Taiwanese', 'Chinese']",4.0,$$,"['802 Hungerford Dr', 'Rockville, MD 20850']",MD
+104,ZH6NIvlnK48s8eyoY2UjRw,Chef Tony's Restaurant,621,"['Seafood', 'Mediterranean', 'Tapas/Small Plates']",4.0,$$,"['4926 Saint Elmo Ave', 'Bethesda, MD 20814']",MD
+105,x0DTC5Ay9EHkrJWL_QLqCg,CAVA,78,"['Mediterranean', 'Salad']",4.0,$$,"['12037 Rockville Pike', 'Rockville, MD 20850']",MD
+106,LTviXHyMqzIw08eXS-6xRw,Sisters Thai,153,['Thai'],4.0,$$,"['7995 Tuckerman Ln', 'Potomac, MD 20854']",MD
+107,mdhxxtKB9aRWvhWYZEBowA,Baronessa Italian Restaurant,243,"['Italian', 'Pizza', 'Pasta Shops']",4.0,$$,"['1302 E Gude Dr', 'Rockville, MD 20850']",MD
+108,doQXw9FEHn2QNDv1U_DXvQ,El Mariachi,186,"['Latin American', 'Mexican', 'Spanish']",4.0,$$,"['765 Rockville Pike', 'Ste C', 'Rockville, MD 20852']",MD
+109,exZJZpF-fQ_SgmStumWoiA,Hanaro Sushi,562,"['Japanese', 'Asian Fusion', 'Sushi Bars']",4.0,$$,"['7820 Norfolk Ave', 'Bethesda, MD 20814']",MD
+110,_8BbwbAJIBXiu7TVTteWFQ,Armand's Pizzeria & Grille,180,"['Pizza', 'Italian', 'Sandwiches']",3.5,$$,"['190 Halpine Rd', 'Rockville, MD 20852']",MD
+111,DXMCU0U5yD2hJBQgf_omxg,Moby Dick Sushi,233,"['Japanese', 'Sushi Bars']",4.0,$$,"['11220 Triangle Ln', 'Wheaton, MD 20902']",MD
+112,R9XCvsq1AUlHjNBMqrE2pA,Sichuan Jin River,392,['Szechuan'],3.5,$$,"['410 Hungerford Dr', 'Rockville, MD 20850']",MD
+113,toLJXMKxGR2eqWp7JLCAQw,Ruan Thai,437,['Thai'],4.0,$$,"['11407 Amherst Ave', 'Wheaton, MD 20902']",MD
+114,dalIjhhgV6x-_DtLZ0fx8w,La Canela,317,"['Peruvian', 'Wine Bars', 'Desserts']",4.0,$$,"['141 Gibbs St', 'Ste D', 'Rockville, MD 20850']",MD
+115,5JECsF02-DMe38RHa9hS2w,La Malinche,517,"['Tapas Bars', 'Spanish', 'Mexican']",4.0,$$,"['8622 Colesville Rd', 'Silver Spring, MD 20910']",MD
+116,aWhmMFQ7I7Wau72S4sdAOQ,Wildwood Kitchen,167,"['American (New)', 'Mediterranean', 'Bars']",3.5,$$$,"['10223 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+117,wybY-KdKXrzzPj15KCFRrw,Poki DC,59,"['Poke', 'Hawaiian']",4.5,$$,"['10400 Old Georgetown Rd', 'Ste  6C', 'Bethesda, MD 20814']",MD
+118,reVlmxGE-zMK4rUx7lDtOA,Sam's Hookah Bar & Cafe,93,"['Hookah Bars', 'Kebab', 'Sandwiches']",4.0,$$,"['844 Rockville Pike', 'Unit C', 'Rockville, MD 20852']",MD
+119,LGG0sjxYP1OmSTbxL2RuSA,Full Key Restaurant,364,['Chinese'],4.0,$$,"['2227 University Blvd W', 'Wheaton, MD 20902']",MD
+120,NWvyExav5wZptc9NP0EnVQ,Flower Child,93,"['Salad', 'American (New)', 'Vegetarian']",4.0,$$,"['10205 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+121,0MF_IBRkZoEAhA2TIYO10Q,Black's Bar & Kitchen,563,"['American (New)', 'Bars', 'Seafood']",3.5,$$$,"['7750 Woodmont Ave', 'Bethesda, MD 20814']",MD
+122,poihzGMCcNFsGeoJ9NEIjg,House of Milae,326,['Korean'],4.0,$$,"['4932 St Elmo Ave', 'Bethesda, MD 20814']",MD
+123,hDkVA6FK67b9Gu3YBbVQhQ,Kaldi's Social House,586,"['Coffee & Tea', 'American (Traditional)', 'Cocktail Bars']",4.0,$$,"['918 Silver Spring Ave', 'Silver Spring, MD 20910']",MD
+124,2t_W-ePLkY1KysqfD4LfZA,Hot Pot City,129,"['Chinese', 'Noodles', 'Hot Pot']",4.5,$$,"['199 E Montgomery Ave', 'Ste D', 'Rockville, MD 20850']",MD
+125,cUEFxayVhg7AuU9eOX5AjQ,Banana Leaves Asian Cafe,195,"['Chinese', 'Thai', 'Malaysian']",3.5,$$,"['160 Congressional Ln', 'Rockville, MD 20852']",MD
+126,6vPNPahPY9CFjqpYAgvxww,Barrel & Crow,383,"['Wine Bars', 'American (Traditional)', 'Mexican']",4.0,$$,"['4867 Cordell Ave', 'Bethesda, MD 20814']",MD
+127,YzdDK9BCtMS_MX6s0cKT9A,Mandalay Restaurant & Cafe,616,"['Burmese', 'Cafes']",4.0,$$,"['930 Bonifant St', 'Silver Spring, MD 20910']",MD
+128,5VAQn_dEUWdgK-zduVyl1Q,True Food Kitchen,509,"['Vegetarian', 'American (New)', 'Vegan']",4.0,$$,"['7100 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+129,YOZlTp8Fe4gaBf3s8EB9Ug,Mamma Lucia,205,"['Italian', 'Pizza']",3.5,$$,"['12274 Rockville Pike', 'Rockville, MD 20852']",MD
+130,VpL5J_KAseN7Y9sZ5-rXqA,El Patio,215,"['Latin American', 'Argentine']",3.0,$$,"['5240 Randolph Rd', 'Rockville, MD 20852']",MD
+131,LSKItLLe_erDq96AO9WMKA,CAVA,385,"['Mediterranean', 'Salad']",4.0,$$,"['4832 Bethesda Ave', 'Bethesda, MD 20814']",MD
+132,15HIs0kvCPvREMuG7uKwzA,Kantutas Restaurant,133,['Latin American'],4.5,$$,"['2462 Ennalls Ave', 'Wheaton, MD 20902']",MD
+133,qfQ8FRhXuZJY2Qnl2xiviQ,Saffron Indian Cuisine,152,"['Indian', 'Halal', 'Buffets']",3.5,$$,"['1321 Rockville Pike', 'Rockville, MD 20852']",MD
+134,cvHouR1ESe5QM5WgsKeTFw,The Spot,327,"['Taiwanese', 'Sushi Bars', 'Ramen']",3.5,$$,"['255 N Washington St', 'Rockville, MD 20850']",MD
+135,Tb_bs2TfKfyEhrgtaAeoxA,St. Veg,196,"['Vegan', 'Vegetarian', 'Gluten-Free']",4.5,$$,"['14929 Shady Grove Rd', 'Unit M', 'Rockville, MD 20850']",MD
+136,dA7pFYw-zX748OHOvm6rdA,Peter Chang,378,['Szechuan'],3.5,$$,"['20 A Maryland Ave', 'Rockville, MD 20850']",MD
+137,eezUfN6NaNdYHfvJ4msW1g,Fontina Grille,444,"['Italian', 'Seafood']",4.0,$$,"['801 Pleasant Dr', 'Rockville, MD 20850']",MD
+138,DhTPZ_VO6Pj-b6r3KlWdfg,Quarry House Tavern,681,"['Dive Bars', 'Burgers']",4.0,$$,"['8401 Georgia Ave', 'Silver Spring, MD 20910']",MD
+139,X-wf47DTOAx5NC2CmEBPIA,Love Sushi,436,"['Japanese', 'Sushi Bars']",4.0,$$,"['9031 Gaither Rd', 'Gaithersburg, MD 20877']",MD
+140,9FswVDA9r-66DNB_km1JQg,Bonchon Rockville,512,"['Korean', 'Chicken Wings', 'Asian Fusion']",3.5,$$,"['107 Gibbs St', 'Rockville, MD 20850']",MD
+141,j90XgqmEckVlXA_uEzTfzg,Duck Duck Goose,299,"['Tapas/Small Plates', 'Cocktail Bars', 'French']",4.0,$$,"['7929 Norfolk Ave', 'Bethesda, MD 20814']",MD
+142,HM6IR0lJ3OHcvM71LR0V4Q,Sushi Jin,620,"['Japanese', 'Sushi Bars']",4.0,$$,"['8555-A Fenton St', 'Silver Spring, MD 20910']",MD
+143,gJR-AOeH_gRyE9pW7BwYww,The Cheesecake Factory,525,"['Desserts', 'American (Traditional)']",3.0,$$,"['7101 Democracy Blvd', 'Bethesda, MD 20817']",MD
+144,JmqXHl4hsfzRZGDg58hxaA,Olazzo,493,"['Italian', 'Cocktail Bars']",4.0,$$,"['8235 Georgia Ave', 'Silver Spring, MD 20910']",MD
+145,niwgqHBVOf0Pu8bkrQ95Uw,Bombay Bistro,311,"['Indian', 'Diners']",4.0,$$,"['98 W Montgomery Ave', 'Rockville, MD 20850']",MD
+146,TFzooMiqhZKceHYP3ATcqw,Seoul Food DC,442,"['Korean', 'Bars', 'Noodles']",4.5,$$,"['7302 Carroll Ave', 'Takoma Park, MD 20912']",MD
+147,J5LDvX9jEOy21G1Lh59SFA,Hinode Restaurant,229,"['Sushi Bars', 'Japanese']",3.0,$$,"['134 Congressional Ln', 'Rockville, MD 20852']",MD
+148,bH0_EluGlnUdtwmE_EImGw,Al Ha'esh,68,"['Barbeque', 'Middle Eastern', 'Kosher']",4.0,$$,"['4860 Boiling Brook Pkwy', 'Rockville, MD 20852']",MD
+149,xAXgH-DvV-UyAz-ZYRwf6A,Luke's Lobster Bethesda,358,['Seafood'],4.0,$$,"['7129 Bethesda Ln', 'Bethesda, MD 20814']",MD
+150,Nsj3aXcvJyQ4F0Z9BcN-MA,Mussel Bar & Grille Bethesda,655,"['Wine Bars', 'Pizza', 'Sandwiches']",3.5,$$,"['7262 Woodmont Ave', 'Bethesda, MD 20814']",MD
+151,xgCsuE2_dNHe_fhSbrSkGQ,Cubano's Restaurant,514,['Cuban'],4.0,$$,"['1201 Fidler Ln', 'Silver Spring, MD 20910']",MD
+152,wLtovJHXjEza6hkLC-P8VQ,Shanghai Taste,405,['Shanghainese'],3.5,$$,"['1121 Nelson St', 'Rockville, MD 20850']",MD
+153,Kv_arqKPbYk2e2jBdBd_aQ,Cooper's Hawk Winery & Restaurant - Rockville,269,"['American (New)', 'Wine Bars', 'Seafood']",4.0,$$,"['1403 Research Blvd', 'Rockville, MD 20850']",MD
+154,EjnWkKyEyVQP1GaRLaEm5g,Ikko Sushi,512,"['Sushi Bars', 'Japanese']",4.0,$$,"['1215 E West Hwy', 'Silver Spring, MD 20910']",MD
+155,HAOof722s1tRbOcFZFZZ5g,Bacchus of Lebanon,221,['Middle Eastern'],4.0,$$,"['7945 Norfolk Ave', 'Bethesda, MD 20814']",MD
+156,vfduHQg7P2aigBwLYSn2Bg,Flor De Luna Restaurant,61,['Latin American'],4.0,$$,"['11417 Woodglen Dr', 'Rockville, MD 20852']",MD
+157,sp7dvSG_e89w_e9Z2LBY3A,Guapo's,347,"['Mexican', 'Tex-Mex']",4.0,$$,"['8130 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+158,_R-0Js3p7_Yhie1mcmx4FQ,Meleket Restaurant,133,"['Ethiopian', 'Italian']",4.5,$$,"['1907 Seminary Rd', 'Silver Spring, MD 20910']",MD
+159,YKtwncPT9qg4z5Qt7CqDTg,Copper Canyon Grill,727,['American (Traditional)'],4.0,$$,"['928 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+160,J97jp4R93lrKB4-fDq9Rmg,Vibes Hookah Lounge,81,"['Hookah Bars', 'Cafes']",4.5,$$,"['1 Dawson Ave', 'Rockville, MD 20850']",MD
+161,OrO2_zOlNSNvCYwUmzDKBQ,Boca Botanas,286,"['Tapas/Small Plates', 'Bars']",4.5,$$,"['239 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+162,upGj3Lctyprf15yDesn4Gg,Siena's,67,"['Pizza', 'Kosher']",4.0,$$,"['4840 Boiling Brook Pkwy', 'Rockville, MD 20852']",MD
+163,9_QiMVzWR4915kroJTNynw,Vegetable Garden,197,"['Vegan', 'Vegetarian', 'Chinese']",4.0,$$,"['3830 International Dr', 'Silver Spring, MD 20906']",MD
+164,qg6r2qImys4tbD-74zWLWw,Wang Ja Jang,205,['Korean'],4.0,$$,"['1613 E Gude Dr', 'Rockville, MD 20850']",MD
+165,bgii5acOYzw27PZIRrWw3w,Guardado's Restaurant,263,"['Spanish', 'Latin American', 'Tapas/Small Plates']",4.0,$$,"['4918 Del Ray Ave', 'Bethesda, MD 20814']",MD
+166,59ffm99iNdha-73sKwyfJw,China Garden Han Gong,156,"['Dim Sum', 'Cantonese']",3.0,$$,"['11333 Woodglen Dr', 'Rockville, MD 20852']",MD
+167,MZdokox2DCm_ygRinPjeVA,Cristina Italian Ristorante,186,['Italian'],4.0,$$,"['2666 University Blvd W', 'Silver Spring, MD 20902']",MD
+168,pv98wV3pPMHak94yAIIU9g,Charm Thai,450,['Thai'],4.0,$$,"['8408 Georgia Ave', 'Silver Spring, MD 20910']",MD
+169,5RdITuWczQlC_SI6pzQEVw,Jaleo,746,"['Spanish', 'Tapas Bars', 'Basque']",3.5,$$,"['7271 Woodmont Ave', 'Bethesda, MD 20814']",MD
+170,5YQml3SA5QR4Wtcir04yuQ,Ren's Ramen,697,['Ramen'],3.0,$$,"['11403 Amherst Ave', 'Wheaton, MD 20902']",MD
+171,6FCoN_eglT6MP3N7ahL7NA,East Dumpling House,423,"['Dim Sum', 'Asian Fusion', 'Karaoke']",3.5,$$,"['12 N Washington St', 'Ste 14G', 'Rockville, MD 20850']",MD
+172,kqTuSJdMOxm2CS8s5j-PBg,Panida Thai & Sushi Bar,295,"['Sushi Bars', 'Japanese', 'Thai']",4.0,$$,"['15106 Frederick Rd', 'Ste C', 'Rockville, MD 20850']",MD
+173,bqcZzEDqDINYJhVTxS70Sw,City Perch Kitchen + Bar,745,"['American (New)', 'Cocktail Bars']",3.5,$$,"['11830 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+174,1gJj2U8D_ZW2trTvAynUBg,Hinata Sushi Carry Out,145,"['Grocery', 'Sushi Bars']",4.5,$$,"['4947 St Elmo Ave', 'Bethesda, MD 20814']",MD
+175,rSeGQxqpfFmeECNN81TEfw,Gyroland,104,"['Greek', 'Mediterranean']",3.5,$$,"['1701 Rockville Pike', 'Ste B3', 'Rockville, MD 20852']",MD
+176,Htt5awGIDNUdu9mxI6z_IQ,Silver,445,"['American (New)', 'Desserts', 'Burgers']",4.0,$$,"['7150 Woodmont Ave', 'Bethesda, MD 20815']",MD
+177,RUnkBziktbzoD9h3Q9OE9w,Poki DC,229,"['Poke', 'Hawaiian']",4.5,$$,"['236 Boardwalk Pl', 'Gaithersburg, MD 20878']",MD
+178,lF8-gTgvan58iAiAKOeyew,GISELE'S Creole Cuisine,155,"['Bars', 'Haitian', 'Cajun/Creole']",4.0,$$,"['2407 Price Ave', 'Silver Spring, MD 20902']",MD
+179,LLF52GRt1nIJz8tNLZni3Q,Manoli Canoli,185,"['Italian', 'Greek', 'Pizza']",4.0,$$,"['8540 Connecticut Ave', 'Chevy Chase, MD 20815']",MD
+180,0HkNpi8bA_DvNeOFDyFOqg,Pacci's Trattoria & Pasticceria,251,"['Italian', 'Breakfast & Brunch', 'Buffets']",4.0,$$,"['6 Post Office Rd', 'Silver Spring, MD 20910']",MD
+181,DTaXv-671G9Irbzvnd12Hg,Silver Fountain,317,"['Dim Sum', 'Buffets', 'Cantonese']",3.0,$$,"['13533 Connecticut Ave', 'Silver Spring, MD 20906']",MD
+182,ATKvjaGHX34WajD3xJBh6Q,Debab Restaurant,272,"['Ethiopian', 'Seafood', 'Breakfast & Brunch']",4.5,$$,"['952 Sligo Ave', 'Silver Spring, MD 20910']",MD
+183,Z4w79612MrI9CtI1ttAd7w,Raku,468,"['Asian Fusion', 'Sushi Bars', 'Japanese']",3.5,$$,"['7240 Woodmont Ave', 'Bethesda, MD 20814']",MD
+184,YSjqpo9vj9xFmRNiDveV_w,Ruth's Chris Steak House,359,"['Steakhouses', 'Seafood', 'Wine Bars']",4.0,$$$,"['7315 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+185,8CvbIz91Wygz9IdgPTDy5A,Pizzeria Da Marco,286,['Pizza'],4.0,$$,"['8008 Woodmont Ave', 'Bethesda, MD 20814']",MD
+186,avyz1tLuh11GRCooq8zQ9A,Super Bowl Noodle House,132,"['Chinese', 'Noodles']",3.5,$$,"['785-G Rockville Pike', 'Rockville, MD 20852']",MD
+187,J_LWMwyQNLZzWvkyby3VFw,LEBTAV,175,"['Mediterranean', 'Fast Food', 'Lebanese']",3.0,$$,"['1629 Rockville Pike', 'Rockville, MD 20852']",MD
+188,WqqgAWxD1ItnEW6zO2JZ9Q,Thai Taste by Kob,242,['Thai'],4.0,$$,"['11315 Fern St', 'Wheaton, MD 20902']",MD
+189,QKBpf_qL1Jo-pfffmo9LsA,Sushi Damo,357,"['Sushi Bars', 'Japanese']",3.5,$$,"['36-G Maryland Ave', 'Rockville, MD 20850']",MD
+190,oXfJYTs24m9ghnJPnVH4Pw,Satsuma,322,"['Sushi Bars', 'Japanese', 'Korean']",3.5,$$,"['8003 Norfolk Ave', 'Bethesda, MD 20814']",MD
+191,-u0xH5hDORl-tm4WHKZ6LA,The Wine Harvest,53,"['Wine Bars', 'Soup', 'Sandwiches']",4.0,$$,"['12525-B Park Potomac Ave', 'Potomac, MD 20854']",MD
+192,lOMtF28RAxoQ8NziidtkMA,Bangkok Garden Restaurant,316,['Thai'],3.5,$$,"['4906 St Elmo Ave', 'Bethesda, MD 20814']",MD
+193,RCEz7Grp3_0Cg6tia6hfgg,Spicelife Indian Fare,193,"['Indian', 'Himalayan/Nepalese', 'Desserts']",4.5,$$,"['128 Ellington Blvd', 'Gaithersburg, MD 20878']",MD
+194,lGDdDb1-yyE-F9hGe0uIQg,Attman's Potomac Deli,205,"['Delis', 'Breakfast & Brunch']",3.0,$$,"['12505 Park Potomac Ave', 'Potomac, MD 20854']",MD
+195,RV7hzUQ2jD4a92R3pqcdPg,Finnegan's Wake,164,"['Irish', 'Pubs']",4.0,$$,"['100 Gibbs St', 'Rockville, MD 20850']",MD
+196,74KaF-srSm6-88vKkHPZmg,Dulcinea Bar & Grill Gaithersburg,215,"['Mexican', 'Halal']",4.0,$$,"['9103 Gaither Rd', 'Gaithersburg, MD 20877']",MD
+197,mWz677VCqNae947HUXd5qg,Honey Pig BBQ,228,"['Korean', 'Barbeque']",2.5,$$,"['12015 G Rockville Pike', 'Rockville, MD 20852']",MD
+198,dY6v05dK7K6fYRoiAJ-xdw,European Delight,34,"['Delis', 'Imported Food']",4.5,$$,"['1488 Rockville Pike', 'Ste 1', 'Rockville, MD 20852']",MD
+199,pwmui8hCvzzBUm-iZ6UN1g,Guapo's Restaurant,597,['Mexican'],3.5,$$,"['9811 Washington Blvd', 'Gaithersburg, MD 20878']",MD
+200,nXsGpqFu3w-68Z1Y3Svbow,The Dish & Dram,113,"['Comfort Food', 'Bars', 'Breakfast & Brunch']",4.0,$$,"['10301 Kensington Pkwy', 'Kensington, MD 20895']",MD
+201,bxvzEbNKaJzpp1oj7ePnng,Matthew's Grill,255,"['Filipino', 'Asian Fusion']",4.5,$$,"['213 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+202,kClUGhspIXDm6ncyDciHzA,Cielo Rojo,200,['Mexican'],4.5,$$,"['7056 Carroll Ave', 'Takoma Park, MD 20912']",MD
+203,6M316lQBFXv1Bf2HLgHVbw,Sushi Oishii,263,"['Japanese', 'Sushi Bars']",4.0,$$,"['9706 Traville Gateway Dr', 'Rockville, MD 20850']",MD
+204,6bfDZEjSErFv1rjErlZvrw,Spice Xing,261,['Indian'],3.5,$$,"['100 Gibbs St', 'Unit B', 'Rockville, MD 20850']",MD
+205,0aPDPQ1vXWm1aIrCZwl4WA,Uncle Julio's,664,"['Mexican', 'Tex-Mex']",3.5,$$,"['4870 Bethesda Ave', 'Bethesda, MD 20814']",MD
+206,fFsTh421pLqI6HxzTMvWOw,Stained Glass Pub,248,"['Pizza', 'Sports Bars']",3.5,$$,"['12510 Layhill Rd', 'Silver Spring, MD 20906']",MD
+207,OvF69uGni0lM38iNap32ug,The Big Greek Cafe- Bethesda,106,['Greek'],4.5,$$,"['4806 Rugby Ave', 'Bethesda, MD 20814']",MD
+208,GIeEa7VcbiaXpU0NPZVpZw,The Limerick Pub,194,"['Pubs', 'Irish', 'American (Traditional)']",4.0,$$,"['11301 Elkin St', 'Wheaton, MD 20902']",MD
+209,dxLYRI1lVozOnMix71Bezg,The Original Pancake House,356,['Breakfast & Brunch'],3.5,$$,"['7700 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+210,uS5Eugdu5ekKjdQiZ7zF9A,Plaza Azteca,97,['Tex-Mex'],3.5,$$,"['10430 Auto Park Ave', 'Bethesda, MD 20817']",MD
+211,92Qn-bIQmYRzDWu2-90aqQ,Maki Maki,269,"['Japanese', 'Sushi Bars', 'Breakfast & Brunch']",3.5,$$,"['8023 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+212,UR-zjBvWeAO-BjoCAYar2w,Island Pride,268,['Caribbean'],3.5,$$,"['823 Hungerford Dr', 'Rockville, MD 20850']",MD
+213,9eE6Qz_AvFygGCtvV-4GLw,World Of Beer,206,"['American (Traditional)', 'Pubs', 'Breakfast & Brunch']",3.5,$$,"['196 E Montgomery Ave', 'Ste B', 'Rockville, MD 20850']",MD
+214,7Rias6Np7FHE-MnTlEDOmg,Trattoria Da Lina,174,['Italian'],4.5,$$,"['7000 Carroll Ave', 'Takoma Park, MD 20912']",MD
+215,N_8GZg7v2Y5td1fdNCeEjQ,Pho & Banh Mi Saigonese,65,['Vietnamese'],4.5,$$,"['11232 Grandview Ave', 'Wheaton-Glenmont, MD 20902']",MD
+216,l7ZtmGYmSab15Yx6OGh2Rw,BurgerFi,485,"['Burgers', 'Hot Dogs', 'American (New)']",4.0,$$,"['8504 Fenton Ave', 'Silver Spring, MD 20910']",MD
+217,9zASqL1qZ_YF2x9nyUV93Q,Farmsook Happiness Thai Kitchen,95,"['Thai', 'Salad', 'Noodles']",4.5,$$,"['800 King Farm Blvd', 'Ste 125', 'Rockville, MD 20850']",MD
+218,NsDSQ31DUT93s-BrNh5M9w,Q By Peter Chang,288,"['Chinese', 'Wine Bars']",3.5,$$,"['4500 East West Hwy', 'Ste 100', 'Bethesda, MD 20814']",MD
+219,S2ucmQkGxgB95ZIrUZk1oQ,Pho Tan Vinh,256,['Vietnamese'],4.0,$$,"['8705 Colesville Rd', 'Ste A', 'Silver Spring, MD 20910']",MD
+220,KoSFdf-y0JmeVoeMane4wA,Tavira Restaurant,172,"['Mediterranean', 'Portuguese']",4.0,$$$,"['8401 Connecticut Ave', 'Chevy Chase, MD 20815']",MD
+221,lo7auRgPVfN3hsiwkK8sLg,TTT Restaurant,297,['Mexican'],4.0,$$,"['8407 Ramsey Ave', 'Silver Spring, MD 20910']",MD
+222,Tke2U4ILqf3OVLaooOAWdg,Tandoori Nights,259,"['Indian', 'Seafood']",3.5,$$,"['7236 Woodmont Ave', 'Bethesda, MD 20814']",MD
+223,l156iudkOVmTdM9lhRcTDA,Paladar Latin Kitchen & Rum Bar,589,"['Bars', 'Latin American', 'Mexican']",3.5,$$,"['203 Crown Park Ave', 'Gaithersburg, MD 20878']",MD
+224,_LMy_Em2cTUtZy-jgkH1hQ,Paul Kee Restaurant,201,['Chinese'],3.5,$$,"['11305 Georgia Ave', 'Ste B', 'Wheaton, MD 20902']",MD
+225,tiKa2Pt7ITUzZGEO3YllhQ,Casa Oaxaca,146,['Mexican'],4.0,$$,"['4905 Fairmont Ave', 'Bethesda, MD 20814']",MD
+226,5lEj0A6WtxFWpZt4IIsomw,Bethesda Crab House,297,['Seafood'],3.5,$$$,"['4958 Bethesda Ave', 'Bethesda, MD 20814']",MD
+227,VgIanDKwbpi8Og__fgX8AQ,Jonathan's Sports Pub,61,"['American (Traditional)', 'Pizza']",4.0,$$,"['820 Baltimore Rd', 'Rockville, MD 20851']",MD
+228,9ZX-CcSiCmCwDr-1xasxwA,Chopt Creative Salad Co.,103,"['Salad', 'Vegetarian']",3.0,$$,"['1625 Rockville Pike', 'Rockville, MD 20852']",MD
+229,M43V_le8cJPWHlJVZFlHXQ,Copper Canyon Grill,528,"['American (Traditional)', 'Wine Bars']",3.5,$$,"['100 Boardwalk Pl', 'Gaithersburg, MD 20877']",MD
+230,d-WMWJYLiC8iRs14x5NHuQ,Tara Thai,226,"['Thai', 'Japanese']",2.5,$$,"['12071 Rockville Pike', 'Rockville, MD 20852']",MD
+231,cPpOHUXORCICyV3aL9F-Eg,Beteseb Restaurant,156,"['Ethiopian', 'Gluten-Free', 'Breakfast & Brunch']",4.5,$$,"['8201 Georgia Ave', 'Silver Spring, MD 20910']",MD
+232,1gEoCM4tU1g_gyriD2J0kA,Cornucopia,106,"['Delis', 'Specialty Food']",4.0,$$,"['8102 Norfolk Ave', 'Bethesda, MD 20814']",MD
+233,TZS25sn2qsq_HU8v0coyoA,Lahinch Tavern & Grill,132,"['Irish', 'American (New)', 'Sports Bars']",3.5,$$,"['7747 Tuckerman Ln', 'Potomac, MD 20854']",MD
+234,fWvMfg5TVXJZsor30VEA5g,Yett Gol,87,['Korean'],4.0,$$,"['12337 Georgia Ave', 'Ste C', 'Silver Spring, MD 20906']",MD
+235,1KWPppmtRGK3WdgmX7ak6w,Sushiko Chevy Chase,386,"['Sushi Bars', 'Japanese', 'Cocktail Bars']",3.5,$$,"['5455 Wisconsin Ave', 'Chevy Chase, MD 20815']",MD
+236,jwBAtw_8zJrYItm7s5hfLQ,Santucci's Deli,211,"['Delis', 'Sandwiches', 'Pasta Shops']",4.0,$$,"['10107 Colesville Rd', 'Silver Spring, MD 20901']",MD
+237,oU-QmgtA2b18dym_u7Uu1Q,Wang Dynasty,127,['Chinese'],4.0,$$,"['4929 Bethesda Ave', 'Bethesda, MD 20814']",MD
+238,_4s4pJLPLUokFZ-sMx2_xg,The Woodside Deli & Catering,196,['Delis'],3.5,$$,"['4 N Washington St', 'Rockville, MD 20850']",MD
+239,ceZ51M4A-SKYI854kbv6Yg,Arirang,197,['Korean'],3.5,$$,"['1326 E Gude Dr', 'Rockville, MD 20850']",MD
+240,HA2-EdViqYyRaLVKM1WBUQ,PLNT Burger,109,['Burgers'],4.5,$$,"['833 Wayne Ave', 'Inside Whole Foods', 'Silver Spring, MD 20910']",MD
+241,TaY5wrLyJ5WU4Ngl07y32Q,Ledo Pizza,99,"['Pizza', 'Chicken Wings', 'Italian']",4.0,$$,"['2638 University Blvd W', 'Wheaton, MD 20902']",MD
+242,l7epOVShWPvWL_LfXj_CQQ,TGI Fridays,290,['American (Traditional)'],2.5,$$,"['12147 Rockville Pike', 'Rockville, MD 20852']",MD
+243,8jCgZ2kA-NNXLyjY-nVfgA,Kabuto,155,"['Sushi Bars', 'Teppanyaki', 'Ramen']",3.5,$$,"['220 E Middle Ln', 'Rockville, MD 20850']",MD
+244,8f_tkfkkLuEw9LqeypcTUw,Urban Bar-B-Que,284,"['Barbeque', 'Burgers', 'American (Traditional)']",3.5,$$,"['5566 Norbeck Rd', 'Rockville, MD 20853']",MD
+245,qkOGi77TNpLWsHLGl-duZQ,Republic,477,"['Bars', 'Seafood']",4.0,$$,"['6939 Laurel Ave', 'Takoma Park, MD 20912']",MD
+246,NxMN98HGPLhg7MpCd-6sxA,Hollywood East Cafe,246,"['Dim Sum', 'Cantonese']",3.5,$$,"['11160 Veirs Mill Rd', 'Wheaton, MD 20902']",MD
+247,7owdI8bszWYj_ae5iGiUMg,Momo,286,"['Korean', 'Asian Fusion', 'Chicken Wings']",3.5,$$,"['4862 Cordell Ave', 'Bethesda, MD 20814']",MD
+248,VHjUduYxeNr3Mb8-KGBeGw,McGinty's Public House,443,"['Irish', 'Irish Pub', 'Sandwiches']",3.5,$$,"['911 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+250,VpFlDReJ10OW21pp30Ozeg,Aden Pizza,106,"['Mediterranean', 'Pizza', 'Middle Eastern']",4.0,$$,"['7812 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+251,md2EH6z8oH6xaCsBRtMQtQ,Philz Coffee,94,"['Coffee & Tea', 'Breakfast & Brunch']",4.5,$$,"['7247 Woodmont Ave', 'Bethesda, MD 20814']",MD
+252,ds2haU9uEJiF80aKlH0q3Q,Amina Thai - Silver Spring,223,"['Thai', 'Halal']",4.0,$$,"['8624 Colesville Rd', 'Silver Spring, MD 20910']",MD
+253,efib-mxAc-qX2zvKuV3M2g,Takoma Bev,154,"['Cocktail Bars', 'Coffee & Tea', 'Breakfast & Brunch']",4.5,$$,"['6917 Laurel Ave', 'Takoma Park, MD 20912']",MD
+254,1kzVNEh_EZ6n1BmQc0kS_w,Lanzhou Hand Pull Noodle,293,"['Noodles', 'Chinese', 'Soup']",4.0,$$,"['3 Grand Corner Ave', 'Gaithersburg, MD 20878']",MD
+255,FXqhqaWKkxYeR4MpcrI6yQ,Los Chorros Restaurant,188,"['Mexican', 'Salvadoran']",3.5,$$,"['2420 Blueridge Ave', 'Silver Spring, MD 20902']",MD
+256,n1YK9ngkY370jTs0yZgGWQ,Medium Rare,189,"['Steakhouses', 'American (New)']",4.0,$$,"['4904 Fairmont Ave', 'Bethesda, MD 20814']",MD
+257,QDbqpuYb25rAxlS4Qjdc_Q,BBQ Chicken and Beer,150,"['Korean', 'Chicken Wings', 'Beer Bar']",4.0,$$,"['9712 Traville Gateway Dr', 'Rockville, MD 20850']",MD
+258,m5XlJ3bWwIvRN6LRNoQHkA,Five Guys,56,"['Burgers', 'Fast Food']",3.5,$$,"['12029 Rockville Pike', 'North Bethesda, MD 20852']",MD
+259,ZkElvi8M49xEzM_Vr8UtHQ,Nando's Peri-Peri,74,"['Portuguese', 'Chicken Shop', 'South African']",3.0,$$,"['922 Rose Ave', 'North Bethesda, MD 20852']",MD
+260,fhEXaIClYofYgIu06KO07A,Passage To India,211,"['Indian', 'Vegan']",3.5,$$,"['4931 Cordell Ave', 'Bethesda, MD 20814']",MD
+261,Knpb3GsMdCk4x9jvGBV_Hw,Ted's Bulletin,594,"['American (New)', 'Comfort Food', 'Breakfast & Brunch']",3.5,$$,"['220 Ellington Blvd', 'Gaithersburg, MD 20878']",MD
+262,Fi5LiCC1AbXCgZgL2__6FQ,La Panetteria Ristorante,204,['Italian'],3.5,$$,"['4921 Cordell Ave', 'Bethesda, MD 20814']",MD
+263,vBOKL0KIDKYXZIGUcEwKiA,Red Maple,302,"['Sushi Bars', 'Asian Fusion', 'Thai']",4.0,$$,"['10110 Colesville Rd', 'Silver Spring, MD 20901']",MD
+264,Oo5Q90v1XRYSzejDg85lQA,Lotus Cafe,299,"['Vietnamese', 'Vegetarian', 'Seafood']",4.0,$$,"['8077 Georgia Ave', 'Silver Spring, MD 20910']",MD
+265,UQponbXzQOXPPsKLq04y9Q,Uncle Julio's,726,"['Mexican', 'Tex-Mex']",3.5,$$,"['231 Rio Blvd', 'Gaithersburg, MD 20878']",MD
+266,b2fYDBUo0CzGmnKjciWKEw,Nando's Peri-Peri,395,"['Portuguese', 'South African', 'Chicken Shop']",3.5,$$,"['924 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+267,vOeuPepnDzIiVGkxQ0Gx3A,Brooklyn's Deli,178,"['Delis', 'Caterers']",3.0,$$,"['1089 Seven Locks Rd', 'Potomac, MD 20854']",MD
+268,uLyggvXFfRvlX8JAwbP7Aw,Eathai,131,['Thai'],4.0,$$,"['4011 E Norbeck Rd', 'Rockville, MD 20853']",MD
+269,vspHrUahsQcaZfYduV_7Gg,Yiku Sushi,219,"['Sushi Bars', 'Japanese']",4.0,$$,"['818 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+270,H30qu_1ngtuKXikbLA7vWg,Tastee Diner,338,['Diners'],3.5,$$,"['7731 Woodmont Ave', 'Bethesda, MD 20814']",MD
+271,qGuxAr2Ul3evT1d3QdcMOw,Yirasai Sushi & Cafe,170,"['Sushi Bars', 'Japanese']",4.0,$$,"['5110 Ridgefield Rd', 'Ste 215', 'Bethesda, MD 20816']",MD
+272,KqBb3AtLAWyy-668c4oHMw,Bete Ethiopian Cuisine & Cafe,165,"['Ethiopian', 'Gluten-Free']",4.0,$$,"['811 Roeder Rd', 'Silver Spring, MD 20910']",MD
+273,btJ2CJwGqg3sHC2lQLqBLw,Fenton Cafe,279,"['Creperies', 'Coffee & Tea']",4.0,$$,"['8311 Fenton St', 'Silver Spring, MD 20910']",MD
+274,FNqg_OKv63_NRzKoNCq3Eg,First Watch,411,"['Cafes', 'American (Traditional)', 'Breakfast & Brunch']",3.5,$$,"['802 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+275,8cWGbg0KZX_Fky8brV6Yag,Shake Shack,140,"['Burgers', 'Ice Cream & Frozen Yogurt', 'Hot Dogs']",3.0,$$,"['7997 Tuckerman Ln', 'Potomac, MD 20854']",MD
+276,QpDy7UbjhsTIAUiWdu19CA,Minerva,435,['Indian'],3.5,$$,"['16240 Frederick Rd', 'Gaithersburg, MD 20877']",MD
+277,M-mtmmSOYIt4hW5VOEjiLQ,Nando's PERi-PERi,251,"['Portuguese', 'South African', 'Chicken Shop']",3.5,$$,"['4839 Bethesda Ave', 'Bethesda, MD 20814']",MD
+278,R0IO05sQEeBj-BfqtKqoCA,sweetgreen,219,"['Salad', 'Vegetarian']",3.5,$$,"['4831 Bethesda Ave', 'Bethesda, MD 20814']",MD
+279,W-v1uWTbTUEKGARRYl9NUQ,Mark's Kitchen,428,"['Vegetarian', 'Korean', 'American (Traditional)']",4.0,$$,"['7006 Carroll Ave', 'Takoma Park, MD 20912']",MD
+280,lNYaLFlZfKLUbx-qkd3TWA,Himalayan Heritage Restaurant,198,['Himalayan/Nepalese'],3.5,$$,"['4925 Bethesda Ave', 'Bethesda, MD 20814']",MD
+281,pXx76QK81UPmEyBW0kqApg,Amici Miei Ristorante,136,['Italian'],3.5,$$,"['6 N Washington St', 'Rockville, MD 20850']",MD
+282,x1hi0jExi9cbMQvWxWJPdA,Rock Bottom Restaurant & Brewery,429,"['Brewpubs', 'Pizza', 'Sandwiches']",3.0,$$,"['7900 Norfolk Ave', 'Bethesda, MD 20814']",MD
+283,ye-poOOPOqkX7_oDxOkeAA,Le Pain Quotidien,136,"['Coffee & Tea', 'Breakfast & Brunch', 'Bakeries']",3.0,$$,"['10217 Old Georgetown Rd', 'Ste 22', 'Bethesda, MD 20814']",MD
+284,pw_ZXnlTwDuNqPQ1vSm7jQ,Masa Hibachi Steakhouse & Sushi,460,"['Japanese', 'Sushi Bars', 'Steakhouses']",3.5,$$,"['921 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+285,ev0qfmJqjydMChOKy4QLpg,The Melting Pot,259,['Fondue'],4.0,$$$,"['9021 Gaither Rd', 'Gaithersburg, MD 20877']",MD
+286,rwgB2D1V-PTwXX8ysSb20Q,Cooper's Mill,63,"['American (New)', 'Lounges']",3.5,$$,"['5151 Pooks Hill Rd', 'Bethesda, MD 20814']",MD
+287,zzi0KjdCzY4yC3KObXFC7A,Taylor Gourmet,32,"['Salad', 'Sandwiches', 'Cheesesteaks']",3.5,$$,"['926 Rose Ave', 'North Bethesda, MD 20852']",MD
+288,xy3t9AwPnx-JqG9kYNv5qQ,Ledo Pizza - Westlake,96,"['Pizza', 'Chicken Wings', 'Italian']",3.5,$$,"['10301 Westlake Dr', 'Bethesda, MD 20817']",MD
+289,GmF0Ndwjvhzr1vJOib0JBA,New Kam Fong,143,"['Chinese', 'Seafood']",3.5,$$,"['2400 University Blvd W', 'Wheaton, MD 20902']",MD
+290,mh9ij4mdlW5vRByS2PYzdQ,The Society Lounge,528,"['Caribbean', 'Lounges', 'American (New)']",3.5,$$,"['8229 Georgia Ave', 'Silver Spring, MD 20910']",MD
+291,gxgv3vZRKIX8epnKJ3Wxew,Pholuscious Vietnamese Grill,228,"['Vietnamese', 'Asian Fusion']",3.5,$$,"['10048 Darnestown Rd', 'Rockville, MD 20850']",MD
+292,hWVawLFJPgYwm6bVt0tr4w,Positano Ristorante Italiano,197,"['Italian', 'Venues & Event Spaces', 'Performing Arts']",3.5,$$,"['4948-4940 Fairmont Ave', 'Bethesda, MD 20814']",MD
+293,sbidaE4wanaGL_T0njJW4w,Morton's The Steakhouse,215,"['Steakhouses', 'American (Traditional)', 'Bars']",3.5,$$$$,"['7400 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+294,ZpC28oGCZiIHkXu997HK2Q,Kao Thai Restaurant,292,['Thai'],3.5,$$,"['8650 Colesville Rd', 'Silver Spring, MD 20910']",MD
+295,Zy01quFYesptEJt1dhBe0Q,Arepas Pues,181,"['Venezuelan', 'Cuban', 'Colombian']",4.0,$$,"['8555 Fenton St', 'Silver Spring, MD 20910']",MD
+296,mmqAhFnqAK3xz2wrb6JlMA,Mi Rancho,459,['Tex-Mex'],3.5,$$,"['8701 Ramsey Ave', 'Silver Spring, MD 20910']",MD
+297,vM9IyxCvQm72uVJKTdn6FQ,The Kosher Pastry Oven Restaurant,75,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",4.5,$$,"['1372 Lamberton Dr', 'Silver Spring, MD 20902']",MD
+298,pgXb8N3p0PJLc9Hq16nwNA,MOD Pizza,201,"['Pizza', 'Fast Food']",4.0,$$,"['909 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+299,QsCmhVT-6t9Q_bmhv0rW6g,Vocelli Pizza,58,['Pizza'],3.5,$$,"['1331 Rockville Pike', 'Ste A', 'Rockville, MD 20852']",MD
+300,1dx7RMNMEAUpfttd8L5l1g,Poki DC,55,"['Poke', 'Hawaiian']",4.0,$$,"['255 N Washington St', 'Rockville, MD 20850']",MD
+301,T3zomZ9m1UYLccZdEEdwLA,Five Guys,37,"['Burgers', 'Fast Food']",4.0,$$,"['10510 Connecticut Ave', 'Kensington, MD 20895']",MD
+302,VpAz1W-Lvh_qmXhK3O0dtw,Knowles Station Wine & Co,50,"['Beer, Wine & Spirits', 'Salad', 'Sandwiches']",4.0,$$,"['10414 Detrick Ave', 'Ste 100', 'Kensington, MD 20895']",MD
+303,L2WyYjbnVFHBJ9ViswLP1g,California Pizza Kitchen at Bethesda,147,"['Pizza', 'American (New)', 'Salad']",3.0,$$,"['7101 Democracy Blvd', 'Bethesda', 'Bethesda, MD 20817']",MD
+304,PnbOO_fsVvz6WmP8abq3WQ,Hard Times Cafe,198,"['American (Traditional)', 'Sports Bars', 'Chicken Wings']",3.5,$$,"['1117 Nelson St', 'Rockville, MD 20850']",MD
+305,6cF_sTiz1Nam1z5wJymPFg,Yuzu Japanese Dining,188,['Japanese'],3.5,$$,"['7345 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+306,Du9Sb3TAFWKGUOYBY4iJCA,H Mart - Wheaton,145,"['Korean', 'Grocery', 'Food Court']",3.5,$$,"['12015 Georgia Ave.', 'Wheaton, MD 20902']",MD
+307,O1tNo3uAqOjJGK42Q-_WKg,Brickside Food & Drink,248,"['American (New)', 'Bars', 'Breakfast & Brunch']",3.5,$$,"['4866 Cordell Ave', 'Bethesda, MD 20814']",MD
+309,PkmfeC-t6VKCvJILtRj8yg,Fish Taco,83,['Mexican'],4.0,$$,"['7251 Woodmont Ave', 'Bethesda, MD 20814']",MD
+310,Py1mAk9lF-J_0GRHDi4wJA,Lebanese Taverna,164,['Middle Eastern'],3.5,$$,"['115 A Gibbs St', 'Rockville, MD 20847']",MD
+311,nySfhkDv-u-975YB_Me-FQ,Angelo's Pasta and Deli,131,"['Delis', 'Italian']",4.0,$$,"['4011 Norbeck Rd', 'Rockville, MD 20853']",MD
+312,062CC_NuxAQ9cWXqRjfxxA,CAVA,135,"['Mediterranean', 'Salad']",4.0,$$,"['8515 Fenton St', 'Silver Spring, MD 20910']",MD
+313,oXBHH0Ha-FnNN3sXwVx1WA,Pieology Pizzeria,182,"['Pizza', 'Vegan', 'Fast Food']",4.0,$$,"['15780 Shady Grove Rd', 'Gaithersburg, MD 20877']",MD
+314,5YopCkXsjko6KnXzJUUojw,sweetgreen,123,"['Salad', 'Vegetarian']",4.0,$$,"['8517 Georgia Ave', 'Silver Spring, MD 20910']",MD
+315,7lCiMh7ac5Gwo7AtWqgifA,Nando's Peri-Peri,372,"['Portuguese', 'South African', 'Chicken Shop']",3.5,$$,"['224 Boardwalk Pl', 'Gaithersburg, MD 20878']",MD
+316,Y4QRKuS6BCCTcoGK19MTSw,BGR The Burger Joint,343,['Burgers'],3.0,$$,"['4827 Fairmont Ave', 'Bethesda, MD 20814']",MD
+317,-JfyYYYMzprFsBGmM2FUjg,Pines of Rome,198,"['Italian', 'Pizza', 'Seafood']",3.5,$$,"['4918 Cordell Ave', 'Bethesda, MD 20814']",MD
+318,cCOliBy1_NvQkyg8ghtsKA,Grill Kabob,74,"['Middle Eastern', 'Afghan', 'Halal']",3.5,$$,"['7101 Democracy Blvd', 'Ste 2367', 'Bethesda, MD 20817']",MD
+319,qYsxya1M4KfXRMnZ5WwGuw,Crisfield Seafood,291,"['Seafood', 'Sandwiches']",3.5,$$,"['8012 Georgia Ave', 'Silver Spring, MD 20910']",MD
+320,DlTI_CAnsWD_rqoGavQyTA,Fish Taco,201,['Mexican'],3.5,$$,"['7945 MacArthur Blvd', 'Cabin John, MD 20818']",MD
+321,IsKFJ8jji6alQFYs_ON1Mw,Persimmon Restaurant,151,['American (New)'],3.5,$$$,"['7003 Wisconsin Ave', 'Bethesda, MD 20815']",MD
+322,aHfZieklvIu5PFuHMelukw,Alatri Bros.,64,"['Pizza', 'Salad', 'Sandwiches']",4.0,$$,"['4926 Cordell Ave', 'Bethesda, MD 20814']",MD
+323,L3xyUgvhO9RHbvwYR88oTw,Curry Place,149,"['Indian', 'Himalayan/Nepalese', 'Asian Fusion']",4.0,$$,"['385 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+324,iIGiMbS8fih25nxPf1gf1w,Yard House,467,"['Vegetarian', 'American (New)', 'Bars']",3.5,$$,"['211 Rio Blvd', 'Gaithersburg, MD 20878']",MD
+325,6T_2Inxg70bo9oU_4J00xA,Thai At Silver Spring,327,['Thai'],3.5,$$,"['921 E Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+326,vp-V_uMIRnpi7RLSmQvOuA,Laugh Riot at Positano,43,"['Comedy Clubs', 'Bars', 'Italian']",4.5,$$,"['4948 Fairmont Ave', 'Bethesda, MD 20814']",MD
+327,Y7TSFsFzDScM0_JIgtDddg,Hakuna Matata Grill,47,['African'],4.5,$$,"['2405 Price Ave', 'Silver Spring, MD 20902']",MD
+328,5u6WKw5pTOCtC1DX3gicUw,Broadway Pizza,79,['Pizza'],3.5,$$,"['7965 Tuckerman Ln', 'Potomac, MD 20854']",MD
+329,bgKDG06xZoiTWrMo5seb-g,Chettinadu Indian Cuisine,189,"['Indian', 'Desserts', 'Coffee & Tea']",3.5,$$,"['15124 N Fredrick Rd', 'Rockville, MD 20850']",MD
+330,JKTLBY-xQWzeM_VFbF_Rpw,Ruth's Chris Steak House,269,"['Steakhouses', 'Seafood', 'Wine Bars']",3.5,$$$,"['106 Crown Park Ave', 'Gaithersburg, MD 20878']",MD
+332,FnnJKEr3mlqI5M45LrZmVg,matchbox,191,"['American (New)', 'Pizza', 'Breakfast & Brunch']",4.0,$$,"['919 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+333,2m81i84g7dpxK3A808t-0Q,Mackie's Southern Barbecue - Gaithersburg,98,"['Barbeque', 'Southern']",4.0,$$,"['8547 Ziggy Ln', 'Gaithersburg, MD 20877']",MD
+334,Qit0yZYijFDcohzigrtO6w,CherCher Ethiopian Cuisine & Bar,70,"['Ethiopian', 'Bars']",4.5,$$,"['4921 Bethesda Ave', 'Bethesda, MD 20814']",MD
+335,gO8XOzk-FlmgFCLU_vLK4g,IHOP,138,"['Breakfast & Brunch', 'American (Traditional)', 'Burgers']",3.0,$$,"['775 Rockville Pike', 'Rockville, MD 20852']",MD
+336,Abv-XpxWSeoYsBg6hVnd3g,Wong Gee Asian Restaurant,195,"['Dim Sum', 'Cantonese']",3.0,$$,"['2417 University Blvd', 'Wheaton, MD 20902']",MD
+337,utWAbId4TrHref56pJsx7g,El Sapo,294,"['Cuban', 'Social Clubs', 'Cocktail Bars']",3.5,$$,"['8455 Fenton St', 'Silver Spring, MD 20910']",MD
+338,c5693jUuZuHXUq9SjBREpA,Don Pollo,68,"['Peruvian', 'Seafood', 'Chicken Shop']",3.5,$$,"['10321 Westlake Dr', 'Bethesda, MD 20817']",MD
+339,DN094kuCEWxv8YWls-N3-w,The Daily Dish,211,['American (Traditional)'],3.5,$$,"['8301 A Grubb Rd', 'Silver Spring, MD 20910']",MD
+340,1E4YmaMSrLVTw0H3FhggYQ,Asia Nine,248,"['Sushi Bars', 'Thai', 'Chinese']",3.5,$$,"['254 Crown Park Ave', 'Gaithersburg, MD 20878']",MD
+341,bYjnyNmzgVxDMJaFKsT21A,Methi Indian and Nepalese Cuisine,117,"['Indian', 'Himalayan/Nepalese']",3.5,$$,"['2509 University Blvd W', 'Silver Spring, MD 20902']",MD
+342,eNZHvLKuRHKIlhLsu2dT2g,China Gourmet  Bistro,119,"['Chinese', 'Noodles', 'Soup']",3.0,$$,"['7945 Tuckerman Ln', 'Potomac, MD 20854']",MD
+344,B3m50hRDWw11xha1PiqAcA,Chili Talk,48,['Szechuan'],4.0,$$,"['313 N Washington St', 'Rockville, MD 20850']",MD
+345,4LXoNMiPZCMyMiLV_wt-qA,Marketplace Cafe,62,"['American (New)', 'Cafes']",3.5,$$,"['7111 Democracy Blvd', 'Nordstrom', 'Bethesda, MD 20817']",MD
+346,lAwA9IAnB66Sc5w3sVvA_g,La Casa Del Mofongo,168,"['Dominican', 'Puerto Rican']",3.5,$$,"['9441 Georgia Ave', 'Silver Spring, MD 20910']",MD
+347,-HFG7EOMJ_no-rKdYxbojg,Clyde's of Chevy Chase,462,"['American (Traditional)', 'Bars', 'Breakfast & Brunch']",3.0,$$,"['5441 Wisconsin Ave', 'Chevy Chase, MD 20815']",MD
+348,BDiuRQ791uq5H91qxFVzBA,House Of Foong Lin,142,['Chinese'],3.5,$$,"['4613 Willow Ln', 'Bethesda, MD 20815']",MD
+349,7LdMr7Gu5B5G_BIEKrcjkA,Mamma Lucia,284,['Italian'],3.0,$$,"['4916 Elm St', 'Bethesda, MD 20814']",MD
+350,mVIWKHhFE7TqmaUMHNMtxw,Roscoe's Pizzeria,265,['Pizza'],4.0,$$,"['7040 Carroll Ave', 'Takoma Park, MD 20912']",MD
+351,JZu8lqMk2tNDBTQRmlLMPQ,Olive Lounge & Grill,101,"['Lounges', 'American (Traditional)', 'Tapas/Small Plates']",4.5,$$,"['7006 Carroll Ave', 'Takoma Park, MD 20912']",MD
+352,osCPvCZ4-m_OXpH5yqzzBg,LOCAVINO,43,"['Cafes', 'Wine Bars', 'American (New)']",4.5,$$,"['8519 Fenton St', 'Silver Spring, MD 20910']",MD
+353,trOEbB-4HntBwhTPT17DhQ,Nagoya Sushi,203,['Sushi Bars'],3.5,$$,"['402 King Farm Blvd', 'Ste 130', 'Rockville, MD 20850']",MD
+354,jfaQ7_iEwTJTCbWAdzz-gA,Oishii Bluefin,115,"['Sushi Bars', 'Japanese']",4.0,$$,"['9613-G Medical Center Dr', 'Rockville, MD 20850']",MD
+355,GFVjaHz3gjvyOpTdxW5hPg,Xi'an Gourmet,109,['Chinese'],3.5,$$,"['316 N Washington St', 'Rockville, MD 20850']",MD
+356,yk4HmXK1zf73vDDKlF5SyA,Bistro Provence,181,"['French', 'Breakfast & Brunch']",3.5,$$$,"['4933 Fairmont Ave', 'Bethesda, MD 20814']",MD
+357,j4hYQ3F5iBhCd0HCed2spg,Pho An & Grill,108,['Vietnamese'],3.5,$$,"['13854 Georgia Ave', 'Aspen Hill, MD 20906']",MD
+358,EQH1_JgWJMXH-rTeWOxsdg,Emily's Kitchen,16,['Cafes'],4.0,$$,"['11200 Rockville Pike', 'Ste 100', 'Rockville, MD 20852']",MD
+359,RnmWL0ciRETbTccGYbC-aA,Mamma Lucia,305,"['Italian', 'Pizza']",3.0,$$,"['14921 Shady Grove Rd', 'Rockville, MD 20850']",MD
+360,IODBdzVg_mrll8np6gAtIw,Ghar- E- Kabab,306,"['Indian', 'Himalayan/Nepalese', 'Vegetarian']",3.5,$$,"['944 Wayne Ave', 'Silver Spring, MD 20910']",MD
+361,ImLfCLBGGp6k7jHGGnHHcA,Maki Bar,100,"['Japanese', 'Sushi Bars', 'Bars']",4.0,$$,"['6831 Wisconsin Ave', 'Ste 300', 'Bethesda, MD 20815']",MD
+362,2sBOJkIMMj3QaSfi3O77eA,Caddies On Cordell,183,"['American (Traditional)', 'Sports Bars']",3.5,$$,"['4922 Cordell Ave', 'Bethesda, MD 20814']",MD
+363,mNe4Wx3mj91yCFlQUeg-fw,The Barking Dog,183,"['Bars', 'American (New)', 'Venues & Event Spaces']",3.5,$$,"['4723 Elm St', 'Bethesda, MD 20814']",MD
+364,3lHjYkWjgxoiE3h54LMojg,Grand Fusion,66,['Asian Fusion'],3.0,$$,"['350 E Fortune Ter', 'Potomac, MD 20854']",MD
+365,Zw3pFCG1RXrY87C2XAGxGQ,Tastee Diner,339,"['Diners', 'Burgers', 'Breakfast & Brunch']",3.0,$$,"['8601 Cameron St', 'Silver Spring, MD 20910']",MD
+366,1kvoaRylOJ2fbL2zSR4guQ,The 4 Corners Pub,129,"['Pubs', 'Pizza', 'Sports Bars']",4.0,$$,"['10111 Sutherland Rd', 'Silver Spring, MD 20901']",MD
+367,jDkBAW8h3kAGQ_JcwrEVIw,Moko Sushi,70,"['Sushi Bars', 'Japanese']",3.5,$$,"['5550 Norbeck Rd', 'Rockville, MD 20853']",MD
+368,yGAC3opDXUOdwcMBwUoPyw,Ted's Montana Grill - Downtown Crown,233,"['Steakhouses', 'Burgers', 'American (Traditional)']",3.5,$$,"['105 Ellington Blvd', 'Gaithersburg, MD 20878']",MD
+369,_BBrqALPhHBiVLvjiTFtBw,Trattoria Sorrento,98,['Italian'],3.5,$$,"['4930 Cordell Ave', 'Bethesda, MD 20814']",MD
+371,_pty06KHXlHXsrY9x41VwA,Not Your Average Joe's,441,"['American (New)', 'Bars', 'Seafood']",3.5,$$,"['10400 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+372,CKcDGJ94lCb4abTNAHXVQg,Pizza Boli's,53,"['Pizza', 'Italian', 'Sandwiches']",3.0,$$,"['11540 E Rockville Pike', 'North Bethesda, MD 20852']",MD
+373,OLMjTF5VuTRAh1YKJYn_ZA,Wild Tomato,145,"['American (New)', 'Pizza', 'Burgers']",3.5,$$,"['7945 MacArthur Blvd', 'Cabin John, MD 20818']",MD
+374,AjuSSsUWy_DKMQtaRALBRA,Tara Thai Montgomery Mall,69,['Thai'],3.0,$$,"['7101 Democracy Blvd', 'Ste 2702', 'Bethesda, MD 20817']",MD
+375,1UuOXBpsgVrHYOCUdyfs2g,Bite of Asia,54,"['Chinese', 'Japanese', 'Thai']",4.0,$$,"['7613 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+376,YJ4FkTwwYPdLKgO871nckA,Roger Miller Restaurant,166,['African'],3.5,$$,"['941 Bonifant St', 'Silver Spring, MD 20910']",MD
+377,rWB7PqvsADk8_9eHEEx8xQ,Hampden Cafe,48,"['Breakfast & Brunch', 'American (Traditional)']",4.0,$$,"['4800 Hampden Ln', 'Ste 103', 'Bethesda, MD 20814']",MD
+378,hVnSOmZ_CLdv3uWOO-Lkaw,China Gourmet,73,['Chinese'],3.0,$$,"['3739 University Blvd W', 'Kensington, MD 20895']",MD
+379,O8SE8dU8udwVuU1oxVCyhw,Il Porto Restaurant,176,['Italian'],4.0,$$,"['245 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+380,IDfJ1rK2kOY2OeynYm5L_Q,Smoke BBQ,162,"['Barbeque', 'Desserts', 'Chicken Wings']",3.5,$$,"['4858 Cordell Ave', 'Bethesda, MD 20814']",MD
+381,3FtiEY9GuDd_JPOWmEZCKw,sweetgreen,33,"['Vegetarian', 'Salad']",3.0,$$,"['11875 Grand Park Ave', 'North Bethesda, MD 20852']",MD
+382,z8alkCKUbMojH0-jJQ1lXw,Tako Grill,73,"['Japanese', 'Sushi Bars']",4.0,$$,"['4914 Hampden Ln', 'Bethesda, MD 20814']",MD
+383,QIIOtX9IJD35qwTvQN7CQg,The Irish Inn,206,"['Irish', 'Venues & Event Spaces', 'American (Traditional)']",3.5,$$,"['6119 Tulane Ave', 'Glen Echo, MD 20812']",MD
+384,FF4LwvB1taPybbhia8YLcg,La Viña Mexican Grill,120,"['Mexican', 'Latin American', 'Tex-Mex']",4.0,$$,"['16533 S Frederick Ave', 'Gaithersburg, MD 20877']",MD
+386,ZJ6SNIHEm1IxwxBa_DjH4g,Azucar Restaurant Bar and Grill,207,"['Latin American', 'Mexican', 'Bars']",3.0,$$,"['14418 Layhill Rd', 'Silver Spring, MD 20906']",MD
+387,WNP-Vq1EQxZDwDQsj_XDjw,Cesco Osteria & Co2 Lounge,181,"['Italian', 'Pizza', 'Cocktail Bars']",3.0,$$,"['7401 Woodmont Ave', 'Bethesda, MD 20814']",MD
+388,iDZBF2ZDDGZyiyWIbPw8Og,Nando's Peri-Peri,75,"['South African', 'Chicken Shop', 'Portuguese']",3.5,$$,"['11160 Veirs Mill Rd', 'Wheaton, MD 20902']",MD
+389,4kucC08PuYzvP9ZnrZEwLQ,Chuck E. Cheese,35,"['Pizza', 'Arcades', 'Kids Activities']",3.0,$$,"['5270 Randolph Rd', 'Rockville, MD 20852']",MD
+390,ZZfneLyTnndMhQ994DRhLA,California Pizza Kitchen at Washingtonian Center,257,"['American (New)', 'Pizza', 'Salad']",3.0,$$,"['136 Boardwalk Pl', 'Gaithersburg, MD 20878']",MD
+391,SBk9MBSvwI8p4pSMOlRjyg,Le Pain Quotidien,244,"['Bakeries', 'Breakfast & Brunch', 'Coffee & Tea']",3.0,$$,"['7140 Bethesda Ln', 'Bethesda, MD 20814']",MD
+392,_-5tDzcwylu7MyKsmXDD6Q,Kin Da Thai And Sushi Restaurant,186,"['Sushi Bars', 'Thai']",3.5,$$,"['6923 Laurel Ave', 'Takoma Park, MD 20912']",MD
+393,9q7B8N2-yq62R-FQG0q8yQ,Normandie Farm,202,"['French', 'Seafood', 'Breakfast & Brunch']",3.0,$$$,"['10710 Falls Rd', 'Potomac, MD 20854']",MD
+394,3pca3kUj_0DZQIcdc8hH8A,Jetties,135,"['Sandwiches', 'Salad', 'Ice Cream & Frozen Yogurt']",3.5,$$,"['4829 Fairmont Ave', 'Bethesda, MD 20814']",MD
+395,h5NtmC4M5Q5CLjqo6G-Hxg,Tara Thai - RIO,250,['Thai'],3.0,$$,"['9811 Washingtonian Blvd', 'Ste L9', 'Gaithersburg, MD 20878']",MD
+396,fIPL20j7uUp0kB1H_UMSmw,Sala Thai,210,"['Thai', 'Seafood', 'Noodles']",3.0,$$,"['4828 Cordell Ave', 'Bethesda, MD 20814']",MD
+397,A3bngudcRBk6BYx488zQIg,Meiwah,260,"['Chinese', 'Sushi Bars', 'Seafood']",3.0,$$,"['4457 Willard Ave', 'Chevy Chase, MD 20815']",MD
+398,jYc-O8IuPqzEe_83pwKo-Q,Potomac Grocer,41,"['Grocery', 'Pizza', 'Sandwiches']",4.5,$$$,"['10107 River Rd', 'Potomac, MD 20854']",MD
+399,nub-95vS5XDfGY57k0Yr-Q,Bethesda Curry Kitchen,123,"['Indian', 'Halal']",3.5,$$,"['4860 Cordell Ave', 'Bethesda, MD 20814']",MD
+400,K62Jwa764eS6lPVr4rf3aw,"King's Craft Beer, Wine, & Deli",29,"['Delis', 'Beer, Wine & Spirits']",4.5,$$,"['402 King Farm Blvd', 'Ste 100', 'Rockville, MD 20850']",MD
+401,8MhixyhIHSKRS1AowXIvSQ,Anthony's Coal Fired Pizza,68,"['Pizza', 'Italian', 'Chicken Wings']",4.0,$$,"['7776 Norfolk Ave', 'Bethesda, MD 20814']",MD
+402,E9GlTSRxgQ7OyPSh1a49zw,Moby Dick House of Kabob,185,"['Middle Eastern', 'Persian/Iranian', 'Mediterranean']",3.0,$$,"['7023 Wisconsin Ave', 'Bethesda, MD 20815']",MD
+403,ePQi2ZVBoUPK_hvhEUT5KQ,Corner Bakery Cafe,132,"['Bakeries', 'Breakfast & Brunch', 'Sandwiches']",2.5,$$,"['10327 Westlake Dr', 'Bethesda, MD 20817']",MD
+405,rl74v7LF-TFOzV2BnnK1ZA,Saphire Cafe,100,"['Dive Bars', 'American (Traditional)', 'Asian Fusion']",3.5,$$,"['7940 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+406,KIMoWLkTE6wRdMBc1Gr5zw,Buffalo Wild Wings,328,"['Chicken Wings', 'Sports Bars', 'American (Traditional)']",2.5,$$,"['33 Maryland Ave', 'C', 'Rockville, MD 20850']",MD
+407,_kY4N7bcmkrC9J4dyLTuzA,China Jade,123,['Chinese'],3.5,$$,"['16805 Crabbs Branch Way', 'Rockville, MD 20855']",MD
+408,HbGLQRgroh3YpbAF8yEAVQ,Unplugged Restaurant & Sports Bar,66,"['Sports Bars', 'American (Traditional)', 'Latin American']",3.5,$$,"['11305C Georgia Ave', 'Wheaton, MD 20902']",MD
+409,jPJ1pt9tQEVNXZ7e__UO3g,Benihana,364,['Japanese'],2.5,$$$,"['7935 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+410,AvOouo8C3Y69MLzrIQyjVw,Ruang Khao Thai Cuisine,104,['Thai'],4.0,$$,"['939 Bonifant St', 'Silver Spring, MD 20910']",MD
+412,MOEv3CICW_6zbsqCxlS5hQ,Brazilian Place,44,"['Buffets', 'Brazilian', 'Breakfast & Brunch']",4.0,$$,"['2412 University Blvd W', 'Silver Spring, MD 20902']",MD
+413,RGgQXphj7BIPcaXSBukBqA,City Taste,115,"['Sushi Bars', 'Thai', 'Chinese']",3.5,$$,"['930 Wayne Ave', 'Ste 100', 'Silver Spring, MD 20910']",MD
+414,QhqywTCy_sx50Z7NfZvxzg,Milano's Pizza Pasta,119,"['Italian', 'Pizza']",3.5,$$,"['16123 Shady Grove Rd', 'Gaithersburg, MD 20877']",MD
+415,IZCUWioHx0uZ8-IjITUgIg,Tomatillo Mexican Grill,27,"['Tex-Mex', 'Latin American', 'Mexican']",3.5,$$,"['2232 Viers Mill Rd', 'Rockville, MD 20851']",MD
+417,RquBmf3gNMVG-u7inp4brA,Lock 72 Kitchen & Bar,108,"['American (New)', 'Bars', 'Seafood']",3.5,$$$,"['10128 River Rd', 'Potomac, MD 20854']",MD
+418,J1GwMXhkPFS9kRGEQRedNg,Joe & The Juice,26,"['Juice Bars & Smoothies', 'Coffee & Tea', 'Breakfast & Brunch']",3.5,$$,"['10301 Old Georgetown Rd', 'Bethesda, MD 20814']",MD
+419,sQurbBK7JkkfqAtZUxCrMg,Moby Dick House of Kabob,227,"['Middle Eastern', 'Persian/Iranian', 'Mediterranean']",3.0,$$,"['14929-A Shady Grove Rd', 'Rockville, MD 20850']",MD
+420,ixYuPGAtLconwERIOz5UVA,Kensington Pizza & Kabob House,77,"['Persian/Iranian', 'Mediterranean', 'Pizza']",3.0,$$,"['3701 University Blvd W', 'Kensington, MD 20895']",MD
+421,ToL3j65yPCIPQz-JIpIH0A,Mamma Lucia,234,"['Italian', 'Pizza']",3.0,$$,"['1302 E West Hwy', 'Silver Spring, MD 20910']",MD
+422,fgFERocMqXAWYQRUZOkBPA,CAVA,93,"['Mediterranean', 'Salad']",3.5,$$,"['28 Upper Rock Cir', 'Rockville, MD 20850']",MD
+424,QWCsSgE8BgM1ZkToprB6_g,CAVA,11,"['Mediterranean', 'Salad']",4.5,$$,"['7991 Tuckerman Ln', 'Potomac, MD 20854']",MD
+425,V0j5lRW1evOdRmWvQErcEw,Vicino Restaurante Italiano,113,['Italian'],4.0,$$,"['959 Sligo Ave', 'Silver Spring, MD 20910']",MD
+426,qnOTjNKkfkTpGmIa3D_ycg,Promenade Market & Deli,19,"['Delis', 'Beer, Wine & Spirits', 'Convenience Stores']",4.0,$$,"['5225 Pooks Hill Rd', 'Bethesda, MD 20814']",MD
+427,JnquzUsxxOFPvYUlKc0Njg,Fire Station 1,517,"['Bars', 'American (Traditional)', 'Barbeque']",2.5,$$,"['8131 Georgia Ave', 'Silver Spring, MD 20910']",MD
+428,1vVDBE3YoSLzVhtQ4PA_zg,Aji-Nippon Restaurant,69,['Japanese'],3.5,$$,"['6937 Arlington Rd', 'Bethesda, MD 20814']",MD
+429,98BgA1g4J0fFHlCdemMkIw,That's Amore,194,['Italian'],3.0,$$,"['15201 Shady Grove Rd', 'Rockville, MD 20850']",MD
+430,JZTA2jSPUxlaLwhyBniuKw,En Bistro & Sushi,82,"['Sushi Bars', 'Japanese', 'Chinese']",3.5,$$,"['9945 Falls Rd', 'Potomac, MD 20854']",MD
+431,eMrVMfDgdU1MXoYHAagADA,Nova Europa Restaurant,46,"['Portuguese', 'Modern European']",4.0,$$,"['1311 Lamberton Dr', 'Silver Spring, MD 20902']",MD
+434,Zpv21u8l1YOO2rRGH20oCw,Daily Grill,172,"['Steakhouses', 'American (Traditional)', 'Breakfast & Brunch']",3.0,$$,"['1 Bethesda Metro Ctr', 'Bethesda, MD 20814']",MD
+435,QqZobeu0Eykay4OFbmmDOw,Lebanese Taverna,186,['Middle Eastern'],3.0,$$,"['8535 Fenton St', 'Silver Spring, MD 20910']",MD
+436,y0tFFCLbfGp-gnVPv03AuA,iSushi,28,"['Sushi Bars', 'Japanese', 'Food Court']",4.0,$$,"['11160 Veirs Mill Rd', 'Silver Spring, MD 20902']",MD
+437,YgkqNDZ38oJOWF-kH-2xgg,City Lights of China,86,['Chinese'],3.5,$$,"['4953 Bethesda Ave', 'Bethesda, MD 20814']",MD
+439,qxAK_2-l9gZbTYeh7N2eQA,Taipei Tokyo,216,"['Chinese', 'Sushi Bars', 'Japanese']",3.0,$$,"['14921 Shady Grove Rd', 'Ste D', 'Rockville, MD 20850']",MD
+440,6OPF3jcRQSIXf2wmOvtJPA,Sal's Italian Kitchen,63,['Italian'],4.0,$$,"['7945 Macarthur Blvd NW', 'Cabin John, MD 20818']",MD
+441,kPGw6ugbEtK6KWm7hnZ43g,Tia Queta,127,['Mexican'],3.0,$$,"['4839 Del Ray Ave', 'Bethesda, MD 20814']",MD
+442,CE0sGC2NYNgxX5H8OLkmSg,Silver Diner,97,"['Diners', 'Breakfast & Brunch', 'American (New)']",3.5,$$,"['9811 Washingtonian Blvd', 'Ste L -10', 'Gaithersburg, MD 20878']",MD
+443,vkiriRgMvK0AF0doN_2JBA,China King,81,['Chinese'],3.0,$$,"['3827 Aspen Hill Rd', 'Silver Spring, MD 20906']",MD
+444,WywNJ9xfj7ChnmquC_XA7g,World of Beer,62,"['American (Traditional)', 'Beer Bar']",3.5,$$,"['7200 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+445,ZgnUZF7Yk0DtMsWg073Qsg,Langano Ethiopian Restaurant,85,['Ethiopian'],3.5,$$,"['8305 Georgia Ave', 'Silver Spring, MD 20910']",MD
+446,MWHBrZMb6FTsq9yShu4h_g,Outback Steakhouse,258,['Steakhouses'],2.5,$$,"['13703 Georgia Ave', 'Silver Spring, MD 20906']",MD
+447,iPZhak_miPwjuWOrzu_3vA,Democracy Grille,25,['American (Traditional)'],3.5,$$,"['6711 Democracy Blvd', 'Bethesda, MD 20817']",MD
+448,qqJ53AxMfsGMRJtsPLE9dw,Cubano’s,26,['Cuban'],4.0,$$,"['4907 Cordell Ave', 'Bethesda, MD 20814']",MD
+449,ZXfo74KJSddoLCr5E0S7bA,Wingstop,81,['Chicken Wings'],2.5,$$,"['13633 Connecticut Ave', 'Silver Spring, MD 20906']",MD
+450,KqZVI2cPq6j0LgEF080MBg,The Girl and The Vine,48,"['Bars', 'Delis', 'Sandwiches']",4.5,$$,"['7071 Carroll Ave', 'Takoma Park, MD 20912']",MD
+452,G4WtH5P5FUsQfvPJwDU7fg,Laredo Grill,74,"['Mexican', 'Tex-Mex', 'Seafood']",4.0,$$,"['347 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+454,qpLUkLN00SH3rD5UbCePIQ,la Madeleine French Bakery & Cafe,169,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",3.0,$$,"['242 Crown Park Ave', 'Gaithersburg, MD 20878']",MD
+455,dYZ7IvM89T4zIxvgAZNPbw,matchbox,69,"['American (New)', 'Pizza', 'Breakfast & Brunch']",3.5,$$,"['7278 Woodmont Ave', 'Bethesda, MD 20814']",MD
+456,UlG9veTEIdWTlORgnhh07w,Potomac Pizza,82,"['Pizza', 'Italian', 'American (Traditional)']",3.5,$$,"['9709 Traville Gateway Dr', 'Rockville, MD 20850']",MD
+457,Ssf01HnaFxr5KOuKYslJAw,Abyssinia Ethiopian Restaurant,82,['Ethiopian'],3.5,$$,"['8221 Georgia Ave', 'Silver Spring, MD 20910']",MD
+458,E3QdB741T2FqWfhMgQc_hw,Hershey's Restaurant,157,"['American (Traditional)', 'Chicken Wings']",3.5,$$,"['17030 Oakmont Ave', 'Gaithersburg, MD 20877']",MD
+459,Mcnx2LEt_mp5JdD0NBfgwQ,Old Anglers Inn,416,"['American (New)', 'Venues & Event Spaces']",3.0,$$$,"['10801 MacArthur Blvd', 'Potomac, MD 20854']",MD
+460,ZEyeTAAbPYSpbRSwm5z37A,Dessie Ethiopian Restaurant & Market,33,['Ethiopian'],3.5,$$,"['2655 University Blvd', 'Wheaton, MD 20902']",MD
+461,D9b-3p_2SHqbmAtl2pP15g,Renatos,76,"['Salad', 'Soup', 'Pizza']",3.5,$$,"['10120 River Rd', 'Potomac, MD 20854']",MD
+462,ec1IsJUr6V1yPQFycxLxMw,Port-au-Prince Authentic Haitian Cuisine by Don Berto's Kitchen,78,['Haitian'],3.5,$$,"['7912 Georgia Ave', 'Silver Spring, MD 20910']",MD
+463,pkQSQwwglHPfp-N-wQpD7Q,Fu Lin Restaurant,71,['Chinese'],3.5,$$,"['2235 Bel Pre Rd', 'Silver Spring, MD 20906']",MD
+464,h_D6xJh9wYVcwVjwXe68mA,Island Pride Oasis,63,['Caribbean'],4.0,$$,"['617 S Frederick Ave', 'Gaithersburg, MD 20877']",MD
+465,9mvM0EZo7yfgrhA33oiDtA,Lee's Kitchen,88,['Chinese'],3.5,$$,"['14448 Layhill Rd', 'Silver Spring, MD 20906']",MD
+466,am2loStv4qv5A4AMlqNJ_g,BGR The Burger Joint,247,['Burgers'],3.0,$$,"['229 Boardwalk Pl', 'Gaithersburg, MD 20878']",MD
+467,IkNl4t352EK2xcp-oFGGlg,Lucy Ethiopian Restaurant,110,"['Ethiopian', 'Bars']",3.5,$$,"['8301 Georgia Ave', 'Silver Spring, MD 20910']",MD
+468,kt2RexZ7wzOIAhpDJgsLIg,Friendship BBQ,65,"['Hot Pot', 'Barbeque', 'Seafood']",3.0,$$,"['33E Maryland Ave', 'Unit 345', 'Rockville, MD 20850']",MD
+469,zubTsEmfRZS7tSnsAdRbaA,Asia Cafe,40,['Chinese'],3.0,$$,"['703 1st St', 'Rockville, MD 20851']",MD
+470,6VU9D1XJ_GYfW-2UEyzinQ,Erta Ale Ethiopian Restaurant And Cafe,25,"['Ethiopian', 'Cafes']",4.0,$$,"['2310 Price Ave Wheaton Md', 'Ste 20902', 'Silver Spring, MD 20902']",MD
+471,IVuL8h5yK6EqDgv0UMBhZg,Potomac Pizza,147,"['Pizza', 'Italian']",3.0,$$,"['19 Wisconsin Cir', 'Chevy Chase, MD 20815']",MD
+472,hDgNCEzJlIyXCSJngorfPQ,Kobo,19,"['Japanese', 'Sushi Bars']",4.5,$$$$,"['5455 Wisconsin Ave', 'Chevy Chase, MD 20815']",MD
+474,1hOeEh3L_57VW5M4Q_ARyg,The Eleanor,29,"['Bowling', 'Bars', 'American (Traditional)']",4.0,$$,"['931 Ellsworth Dr', 'Silver Spring, MD 20910']",MD
+475,mACIjEZd3BSOz4jVooiCug,Corner Bakery Cafe,164,"['Sandwiches', 'Breakfast & Brunch']",3.0,$$,"['1 Grand Corner Ave', 'Gaithersburg, MD 20878']",MD
+476,XIVBcTGgBq61egJzcwldSg,Tiger Beer Wine & Deli,14,"['Beer, Wine & Spirits', 'Delis']",4.5,$$,"['303 N Washington St', 'Rockville, MD 20850']",MD
+477,e3I01NljdBwTNLjsf8OmMw,Q'viva,19,"['Tapas/Small Plates', 'Latin American', 'Lounges']",4.0,$$,"['2322 University Blvd W', 'Silver Spring, MD 20902']",MD
+478,iFNNil4Z5t68V6kRNr6ixQ,La Mexicana,89,"['Bars', 'Mexican']",3.5,$$,"['16143 Shady Grove Rd', 'Gaithersburg, MD 20877']",MD
+479,rIdNNexL4NazCR9uPcPJDQ,Paul French Bakery And Cafe - Bethesda,159,"['Cafes', 'Bakeries', 'Sandwiches']",2.5,$$,"['4760 Bethesda Ave', 'Bethesda, MD 20814']",MD
+480,qQWX-9XA2MAL1Ido4s2Kzg,Bamboo Buffet,92,"['Buffets', 'Chinese']",2.0,$$,"['2010 Veirs Mill Rd', 'Rockville, MD 20851']",MD
+481,sIx4wmdZO_SOHTXWvHpJ4A,California Tortilla,86,"['Tex-Mex', 'Mexican', 'Salad']",2.5,$$,"['199 E Montgomery Ave', 'Rockville, MD 20850']",MD
+483,n_VIQvFXJ3D1fhVRDfaosw,Sole D'Italia Pizza,118,"['Italian', 'Pizza']",3.0,$$,"['14324 Layhill Rd', 'Silver Spring, MD 20906']",MD
+485,92_xAY17Oz4wmrwKMQmNig,Wingstop,54,['Chicken Wings'],2.5,$$,"['891 Rockville Pike', 'Rockville, MD 20852']",MD
+486,BZb_cMazO71eWqnAK88njQ,Tasty Grill To Go,8,"['Mediterranean', 'Kebab', 'Sandwiches']",5.0,$$,"['10562 Metropolitan Ave', 'Kensington, MD 20895']",MD
+488,3_JkcKgupFjr0Uo_3RWYjA,Tommy Joe's,110,"['American (Traditional)', 'Bars']",3.0,$$,"['7940 Norfolk Ave', 'Bethesda, MD 20814']",MD
+489,HEXyWsoCXlpiLSpOQbV6HQ,Mama Wok,154,"['Chinese', 'Sushi Bars']",3.0,$$,"['9900 Key W Ave', 'North Potomac, MD 20850']",MD
+490,diiTk_c3XjFUEi3kjFpikw,On A Roll Deli,5,['Delis'],4.5,$$,"['1 Preserve Pkwy', 'Ste 140', 'Rockville, MD 20852']",MD
+493,xzmoENecs6inc5M843xhOQ,Seminary Beer Wine & Deli,21,"['Beer, Wine & Spirits', 'Delis']",4.0,$$,"['9456 Georgia Ave', 'Silver Spring, MD 20910']",MD
+494,ID6jNl6lH26Xn_1DOFG0PA,Cole's Palette,12,"['Chicken Wings', 'Desserts', 'Caterers']",3.0,$$,"['Rockville, MD 20852']",MD
+495,ovQqTJmuBfj1R0cTFEx_zw,Lesaac Ethiopian Cafe,69,['Ethiopian'],3.5,$$,"['8200 Fenton St', 'Silver Spring, MD 20910']",MD
+496,3hXFmtqasF0pTk_hSPsRcw,IHOP,103,"['Breakfast & Brunch', 'American (Traditional)', 'Burgers']",2.5,$$,"['2526 University Blvd W', 'Wheaton, MD 20902']",MD
+497,YmESigU55WVDke71xzJzWQ,Red Lobster,240,"['Seafood', 'American (Traditional)']",2.5,$$,"['15700 Shady Grove Rd', 'Gaithersburg, MD 20877']",MD
+498,rQTQZy4qiLdbHqrmtt2z3A,Potomac Pizza,96,"['Pizza', 'Italian']",3.0,$$,"['9812 Falls Rd', 'Ste 108', 'Potomac, MD 20854']",MD
+499,N52m0qjr8VhCFtXfOe9EJQ,Alfio's La Trattoria,75,['Italian'],3.5,$$,"['4515 Willard Ave', 'Chevy Chase, MD 20815']",MD
+500,14Z5fHYBRI8RLwTJGBbY6w,Hunter's Bar and Grill,86,"['American (Traditional)', 'Burgers', 'Wine Bars']",3.0,$$,"['10123 River Rd', 'Potomac, MD 20854']",MD
+501,MPPROfyyB9KGRlVO2DB3dA,Urban Butcher,742,"['Bars', 'Steakhouses', 'Burgers']",3.5,$$$,"['8226 Georgia Ave', 'Silver Spring, MD 20910']",MD
+502,LbPFrZqFjc8TTcxkehfjRw,Sprout Cafe,22,['Cafes'],3.0,$$,"['5635 Fishers Ln', 'Ste 101', 'Rockville, MD 20852']",MD
+503,361TL_CyO-4CuR4_KN7pKQ,Seafood In the Buff,84,['Seafood'],2.5,$$,"['12132 Georgia Ave', 'Silver Spring, MD 20902']",MD
+505,f82G2WYrCbUMAdC27lCWyA,Tally-Ho Restaurant,80,['Pizza'],3.0,$$,"['9923 Falls Rd', 'Potomac, MD 20854']",MD
+506,kw38xSRMFs5xtbKO2lH38Q,Cafe Rio Mexican Grill,85,['Mexican'],3.0,$$,"['10062 Darnestown Rd', 'Rockville, MD 20850']",MD
+507,_RTrvW7KC9KiWUIjQbnP4w,Mix Bar and Grille,129,"['Lounges', 'American (Traditional)', 'Sports Bars']",2.5,$$,"['8241 Georgia Ave', 'Silver Spring, MD 20910']",MD
+509,6ipL2CR7dh_LRepHbX6GcQ,Little Beet Table,24,"['Gluten-Free', 'American (New)', 'Cocktail Bars']",4.0,$$,"['5471 Wisconsin Ave', 'Chevy Chase, MD 20815']",MD
+510,0lFVAMfIcSQatHGzEqrr4w,Research Cafe,16,['Delis'],4.0,$$,"['1901 Research Blvd', 'Ste 130', 'Rockville, MD 20850']",MD
+511,DjUJwGR19fzDvOkUY4uvcA,East Grill Karaoke,31,"['Karaoke', 'Chinese']",3.0,$$,"['7 N Washington St', 'Rockville, MD 20850']",MD
+512,gVWSphswCkNqD9uokUOKIA,A Bite of China,58,['Chinese'],3.0,$$,"['15106 Frederick Rd', 'Rockville, MD 20850']",MD
+513,JndzI63laFLapKi9Tus5cg,Tijuana's Mexican Cafe,37,['Mexican'],2.5,$$,"['2007 Veirs Mill Rd', 'Rockville, MD 20851']",MD
+514,e84sNgV1RbgmtGAIAxQRgA,Boston Market,26,"['Comfort Food', 'American (Traditional)', 'Sandwiches']",3.5,$$,"['3825 Aspen Hill Rd', 'Aspen Hill, MD 20906']",MD
+515,qhh9gxWtdjBN3CQXMjjfsQ,Caravan Market & Deli,17,"['Grocery', 'Delis', 'Caterers']",4.5,$$$,"['615 S Frederick Ave', 'Gaithersburg, MD 20877']",MD
+516,mLxK8H0ixnjkdUvXvUe2bw,China Cafe,36,['Chinese'],3.5,$$,"['5436 Westbard Ave', 'Bethesda, MD 20816']",MD
+518,s1bt7NlU1wTQfgdMkN5x4A,Manny & Olga's Pizza,87,"['Pizza', 'Greek', 'Sandwiches']",2.5,$$,"['11222 Georgia Ave', 'Silver Spring, MD 20902']",MD
+520,mOM93xGUOMedMOD_brs2lQ,Sarita's Chicken & Restaurant,18,['Peruvian'],3.5,$$,"['2545 Ennalls Ave', 'Silver Spring, MD 20902']",MD
+522,dmWA-jxeC_8w2SviLDXWxw,Chopt Creative Salad Co.,34,"['Salad', 'Vegetarian']",3.0,$$,"['4766 Bethesda Ave', 'Bethesda, MD 20814']",MD
+523,BEztEUY45FifHkSR8_CsxQ,Denise Bakery,10,"['Bakeries', 'Latin American']",3.5,$$$,"['2009 Veirs Mill Rd', 'Rockville, MD 20851']",MD
+524,canGGUCtoW_i4kQGiwnamg,Red Lobster,174,"['Seafood', 'American (Traditional)']",2.5,$$,"['8533 Georgia Ave', 'DOWNTOWN SILVER SPRING', 'Silver Spring, MD 20910']",MD
+525,0fTXxnjCajmyLUOQCmNtzA,Giant Food,32,"['Grocery', 'Drugstores', 'Delis']",3.0,$$,"['625 Hungerford Dr', 'Rockville, MD 20850']",MD
+526,LjjQnGdolSMdbgjo6V94rw,Golf Ultra Lounge,35,"['African', 'Lounges', 'Venues & Event Spaces']",3.5,$$,"['8123 Georgia Ave', 'Silver Spring, MD 20910']",MD
+527,kmaI2KNOYMTgILkBWcm4wA,Wieland's BBQ,80,"['Barbeque', 'Food Trucks']",4.5,$$,"['1715 Edmondson Ave', 'Catonsville, MD 21228']",MD
+528,QMVY4XCRljArHWMuca68MA,Sarku Japan,18,['Japanese'],3.0,$$,"['13509 Connecticut Ave', 'Silver Spring, MD 20906']",MD
+529,66N_hUkKI2WJDTFOZFlY2g,Old Town Pour House - Gaithersburg,467,"['Sports Bars', 'American (Traditional)']",3.5,$$,"['212 Ellington Blvd', 'Gaithersburg, MD 20878']",MD
+530,GGwS5gHYvt1RePYUrXNEIw,The Kosher Kitchen Catering,5,"['Caterers', 'Kosher']",4.0,$$,"['6301 Montrose Rd', 'North Bethesda, MD 20852']",MD
+533,Lphs-CFBZ2z1Y1CoNUiGdw,Odalis Restaurant,24,"['Latin American', 'Breakfast & Brunch', 'Tapas Bars']",3.5,$$,"['8215 Georgia Ave', 'Silver Spring, MD 20910']",MD
+534,mAIdc2LPpctFFt1q7s7eEA,El Aguila Restaurant,77,"['Mexican', 'Tex-Mex']",3.0,$$,"['7926 Georgia Ave', 'Silver Spring, MD 20910']",MD
+535,uFPvkGNWYcPyAIt1Ty2rNw,Honey Baked Ham Company,21,"['Meat Shops', 'Sandwiches', 'Delis']",3.5,$$,"['3820 International Drive', 'Silver Spring, MD 20906']",MD
+536,s5CKecz7IPjyXDaOB6lksw,La Rumba Restaurant,15,['Mexican'],3.5,$$,"['2311 Price Ave', 'Silver Spring, MD 20902']",MD
+537,iFlsULVTRJDu6zerZBUXlQ,Hunan City Restaurant,36,['Chinese'],3.0,$$,"['9429 Georgia Ave', 'Silver Spring, MD 20910']",MD
+538,J5YMUUh-lznPlug3RbL2Ww,Blue Pearl Buffet & Grill,108,['Buffets'],2.5,$$,"['8661 Colesville Rd', 'Silver Spring, MD 20993']",MD
+539,gGjN9kuRcEoLfrElsT03CA,La Ferme,160,['French'],3.5,$$$,"['7101 Brookville Rd', 'Chevy Chase, MD 20815']",MD
+540,BtoxY7-PkddbULg1eonr3g,Jerry's Subs and Pizza,31,"['Pizza', 'Cheesesteaks', 'Chicken Wings']",2.5,$$,"['13645 Connecticut Ave', 'Silver Spring, MD 20906']",MD
+542,dE3O3PITyZfup42rXDf4tg,Nancy's Kitchen,41,"['Diners', 'Breakfast & Brunch']",3.0,$$,"['3808 International Dr', 'Silver Spring, MD 20906']",MD
+543,_G00_l7bysiCINEOUIrvbg,Sprout Cafe,16,['Cafes'],3.5,$$,"['4350 E W Hwy', 'Bethesda, MD 20814']",MD
+544,ian9dhkwA6lITKF1JeSDmg,El Meson,43,['Peruvian'],3.0,$$,"['616 S Frederick Ave', 'Gaithersburg, MD 20877']",MD
+545,ReKdVdEmqTCxqXwkQDfVBg,Rock Cafe,4,"['Delis', 'Sandwiches', 'Cafes']",4.0,$$,"['6600 Rockledge Dr', 'Ste Ll', 'Bethesda, MD 20817']",MD
+546,EBBxE1Y9AQEXwl8ORixmIw,Lucky Strike - Bethesda,152,"['Bowling', 'Venues & Event Spaces', 'American (Traditional)']",2.5,$$,"['7101 Democracy Blvd', 'Ste 1022', 'Bethesda, MD 20817']",MD
+547,PVGH1fncxeS4n8zEp908Lw,Danny's Sub Shop,22,"['Chinese', 'Sandwiches']",3.0,$$,"['2306 Shorefield Rd', 'Silver Spring, MD 20902']",MD
+548,sYQmoEhbkK1mFBWvBOEPRQ,Besta Pizza,25,['Pizza'],3.0,$$,"['4707 Chase Ave', 'Bethesda, MD 20814']",MD
+549,2cYBlnWBn9q4nGJrAGTmCA,BurgerIM,55,['Burgers'],3.0,$$,"['200 Ellington Blvd', 'Gaithersburg, MD 20878']",MD
+550,tUAA1DP4XnX48weWBgkRoA,Ay Jalisco Mexican Restaurant,44,['Mexican'],3.0,$$,"['425 S Frederick Ave', 'Gaithersburg, MD 20877']",MD
+551,PTBHKX6KbVpnasszhoMLPA,Los Cobanos Restaurant,12,"['Latin American', 'Mexican', 'Tex-Mex']",3.5,$$,"['11210 Grandview Ave', 'Silver Spring, MD 20902']",MD
+552,SU4eHxNuPE__eHJmSfWPlg,Pizza Boli's,25,"['Italian', 'Pizza', 'Sandwiches']",2.0,$$,"['12216 Veirs Mill Rd', 'Wheaton, MD 20906']",MD
+553,D5qStQ9ID9jBGlodMBYjxw,Max Cafeteria & Grill,6,"['Cafeteria', 'American (Traditional)', 'Salvadoran']",4.5,$$,"['11200 Grandview Ave', 'Silver Spring, MD 20902']",MD
+554,I9ylGWJ8O4R9X7M1P2UyuA,Moby Dick House of Kabob,31,"['Middle Eastern', 'Persian/Iranian', 'Mediterranean']",3.0,$$,"['9812 Falls Rd', 'Potomac, MD 20854']",MD
+555,lpU-hUPOFHtGOejm5g_sgA,Kaveri,24,"['Indian', 'Southern']",3.5,$$,"['9011 Gaither Rd', 'GAITHERSBURG, MD 20877']",MD
+556,jmqmC_F4QGAdV_p0fiDiKw,Silver Strings,27,"['Bars', 'American (Traditional)']",3.0,$$,"['8630 Colesville Rd', 'Silver Spring, MD 20910']",MD
+557,fkDUi1wxPsIqcBotDtzuwQ,Piazza Beer Garden,12,"['Italian', 'Pizza', 'Beer Gardens']",3.5,$$,"['7401 Woodmont Ave', 'Bethesda, MD 20814']",MD
+559,7wbNvaXOc0vKL5ULB9PTKg,Sun Spot Cafe & Deli,4,"['Delis', 'Cafeteria']",4.0,$$,"['10411 Motor City Dr', 'Bethesda, MD 20817']",MD
+560,84myOYvrb_4Tj6V-hkm9IQ,Asi Es Mi Tierra,23,"['Peruvian', 'Latin American']",2.5,$$,"['2559 Ennalls Ave', 'Silver Spring, MD 20902']",MD
+561,njgbQ8y-TjULTKVu18GtbQ,The Bench,23,['American (New)'],3.0,$$,"['9751 Washingtonian Blvd', 'Gaithersburg Marriott Washingtonian Center', 'Gaithersburg, MD 20878']",MD
+562,gYrnbaYJCutgQidPA4t09w,Carvings Cafe,18,"['Sandwiches', 'Breakfast & Brunch', 'Soup']",3.5,$$,"['702 King Farm Blvd', 'Ste 135', 'Rockville, MD 20850']",MD
+563,fFVec_aYEEkHEhCo7r2uvg,Ledo Pizza,40,"['Chicken Wings', 'Pizza', 'Italian']",2.5,$$,"['3850 International Dr', 'Silver Spring, MD 20906']",MD
+564,PEs4zTHVo_0yDRwEU2aqEA,Irenes Pupusas,34,"['Latin American', 'Spanish']",2.5,$$,"['12391GEORGIA Ave', 'Silver Spring, MD 20906']",MD
+565,fCmnPtMV6KqWAqOGz6rwQA,Ogei's Hookah Bar & Grill,62,"['Chicken Wings', 'Sandwiches', 'American (New)']",2.5,$$,"['293 Muddy Branch Rd', 'Gaithersburg, MD 20878']",MD
+567,y8EFLp_4adviotbBZO1KNg,Giant,15,"['Grocery', 'Drugstores', 'Delis']",3.5,$$,"['9812 Falls Rd', 'Potomac Promenade', 'Potomac, MD 20854']",MD
+568,VI8_4X77eTIZy_STaI7SvQ,The Pony Express,11,"['American (New)', 'Beer, Wine & Spirits']",3.5,$$,"['9600 Newbridge Dr', 'Potomac, MD 20854']",MD
+569,Pjevmllkmc2KEsTXKAbJnw,King Farm Grill,12,"['American (Traditional)', 'Lounges']",3.5,$$,"['920 King Farm Blvd', 'Rockville, MD 20850']",MD
+570,3YK9x5aOrHxE27WKzGSw2g,Sheger Spring Cafe,23,"['Ethiopian', 'Bars']",3.0,$$,"['900 Silver Spring Ave', 'Ste B', 'Silver Spring, MD 20910']",MD
+571,Z3HyD5hXr7krlnUuivJotw,TPC Potomac at Avenel Farm,6,['Seafood'],4.5,$$$,"['10000 Oaklyn Dr', 'Potomac, MD 20854']",MD
+572,e3Pl9hWvdv8DaRudBdCgWg,The Smoking Swine,64,"['Food Trucks', 'Barbeque']",4.5,$$,"['Baltimore, MD 21231']",MD
+573,d6Mp-e2S27MYC0kLnE0F1g,"Metro Beer, Wine, & Deli",7,"['Delis', 'Beer, Wine & Spirits']",4.0,$$,"['15921 Frederick Rd', 'Rockville, MD 20855']",MD
+574,Q9_JoHtQOLQB2gyMzlfNmw,Osgood's Dining,7,['American (New)'],3.5,$$,"['9600 Newbridge Dr', 'Potomac, MD 20854']",MD
+575,iGapz9M7e3uoSeFMnw5Fhw,Palisades Lounge,15,"['Restaurants', 'Lounges']",3.0,$$,"['8211 Georgia Ave', 'Silver Spring, MD 20910']",MD
+576,ksJjCJRlW4Ig0Wsys0knPQ,Twinbrook Grille,4,['American (New)'],2.5,$$,"['Hilton Rockville', '1750 Rockville Pike', 'Rockville, MD 20852']",MD
+577,x7DXTfzTgHfxUcyfYds4SA,Young's Deli,3,"['Delis', 'Breakfast & Brunch', 'Bagels']",5.0,$$,"['9715 Medical Ctr Dr', 'Ste 101', 'Rockville, MD 20850']",MD
+578,x6aty3EpPv7nlyanajz0Iw,Charming Nomad,5,"['Food Trucks', 'Afghan']",5.0,$$,"['1001 Fell St Baltimore', 'Baltimore, MD 21231']",MD
+579,ie2k_eUUhVznxytOedxz6g,Smoke Stack's House Of Bbq,36,"['Barbeque', 'Food Trucks']",4.0,$$,"['Upper Marlboro, MD 20772']",MD
+580,y-Pg-KXG5Wv_z2ylaP627A,Mica's Restaurant,17,['American (New)'],3.0,$$,"['8777 Georgia Ave', 'Silver Spring, MD 20910']",MD
+581,h29tex_Eea17C7GBpk3eNw,Intipuqueño Restaurant,7,['Latin American'],3.0,$$,"['2504 Ennalls Ave', 'Silver Spring, MD 20902']",MD
+583,fZ99lIIW1UnusxL5HVSsBQ,Panera Bread,55,"['Salad', 'Sandwiches', 'Soup']",3.0,$$,"['219 E Middle Ln', 'Rockville, MD 20850']",MD
+584,ovilz4tZvbE6ynLTlGxbaQ,Safeway,30,"['Grocery', 'Bakeries', 'Delis']",2.0,$$,"['116 University W Blvd', 'Silver Spring, MD 20901']",MD
+585,oEOSqle2v-KeEHT67h1iEQ,Glen Echo Pizza & Subs,17,"['Pizza', 'Sandwiches']",3.0,$$,"['7307 MacArthur Blvd', 'Bethesda, MD 20816']",MD
+586,L5ZqZgzXkD2MLYIDn3DOrg,Honeybee's,6,"['Food Trucks', 'Japanese', 'Creperies']",4.0,$$,"['9640 Horizon Run Rd', 'Montgomery Village, MD 20886']",MD
+587,uHmqi435T_EC-x6-sgczAw,Dave & Buster's,72,"['Arcades', 'American (Traditional)', 'Bars']",3.5,$$,"['9811 Washingtonian Blvd', 'Gaithersburg, MD 20878']",MD
+588,F7YyWA2DBMeuSyZLKRdYPA,La Colombiana Restaurant & Bar,7,['Colombian'],2.5,$$,"['11216 Grandview Ave', 'Wheaton, MD 20902']",MD
+589,9RTYTH7DQoo82u87RHFa2Q,Dave & Buster's,185,"['Bars', 'American (Traditional)', 'Arcades']",2.5,$$,"['8661 Colesville Rd', 'Ste E102', 'Silver Spring, MD 20910']",MD
+590,cLT7wv_SM7wGjVz340pXMw,Cafe Crossroads Rio,3,['Cafes'],4.5,$$,"['9801 Washingtonian Blvd', 'Gaithersburg, MD 20878']",MD
+591,aFGhUWZFlamciNzCPNVznQ,Express Gourmet,2,['Cafes'],4.0,$$,"['1801 Research Blvd', 'Ste Lvl 1', 'Rockville, MD 20850']",MD
+592,sHMUE-eZHThGEOgzHO-yfg,El Norteno,12,['Mexican'],2.0,$$,"['8917 Brookville Rd', 'Silver Spring, MD 20910']",MD
+593,0RXuYHzevwRAx6j903_GLg,ELA Dinner,5,['American (New)'],3.0,$$,"['451 Hungerford Dr', 'Rockville, MD 20850']",MD
+594,tRPs30AvTOgqYqoyWa10VQ,Rockville Metro Center Deli,2,['Delis'],3.5,$$,"['250 Hungerford Dr', 'Rockville, MD 20850']",MD
+595,uM5vi-bT8pjUxJT-IJgsuw,Thai City,14,['Thai'],2.0,$$,"['7026 Wisconsin Ave', 'Bethesda, MD 20815']",MD
+596,SRQHDjuicXeqa3zZWKTciA,7501 Cafe,7,['Food Court'],2.0,$$,"['7501 Wisconsin Ave', 'Bethesda, MD 20814']",MD
+597,-4B2Bm0hXrr043xOj85dog,Cancun Grill Restaurant,3,['Mexican'],3.5,$$,"['11220 Georgia Ave', 'Silver Spring, MD 20902']",MD
+600,mD6OnxNHMfKyRTmEYDuXTw,Soul Baby Cafe,9,"['Food Trucks', 'Soul Food']",4.5,$$,"['Frederick, MD 21704']",MD
+601,5UtO2yZ7DhK5pZ3KxZv7Wg,Praline at Glen Echo Park,4,"['Cafes', 'Coffee & Tea', 'Bakeries']",3.5,$$,"['7300 Macarthur Blvd', 'Glen Echo, MD 20312']",MD
+602,l0prEdAqMFvQXRm1dHmIEA,"Market to Market, An Uncommon Cafe",1,['Buffets'],1.0,$$,"['5600 Fishers Ln', 'US Dept of Health and Human Services', 'Rockville, MD 20852']",MD
+603,jtN1g6nvsQIubYFDt8OYaw,To Market To Market,1,['Buffets'],1.0,$$,"['5600 Fishers Ln', 'Ste 5', 'Rockville, MD 20852']",MD
+605,joY2tjvlNqrdPfk0UTW4IQ,Country Chicken,3,['Chicken Wings'],2.0,$$,"['11216 Grandview Ave', 'Silver Spring, MD 20902']",MD
+606,AZQn_LIn650udstIkfsi8g,Capital Bleu,3,['American (New)'],1.5,$$$,"['8727 Colesville Rd', 'Silver Spring, MD 20910']",MD

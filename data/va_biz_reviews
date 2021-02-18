@@ -1,0 +1,570 @@
+,id,Name,Review_Count,Categories,Rating,Price,Address,state
+0,Vg0-NSHUe0wNASHTqv0GfQ,Sushi 2 Go,221,['Sushi Bars'],4.5,$$,"['901 N Stuart St', 'Ste 117', 'Arlington, VA 22203']",VA
+1,duer52a0aMheoSXUNZmnTQ,Mark's Duck House,726,"['Dim Sum', 'Cantonese', 'Seafood']",3.5,$$,"['6184 Arlington Blvd', 'Falls Church, VA 22044']",VA
+2,RCEBOEAvyqU63CPfdBOgUg,Duangrat's Thai Restaurant,444,['Thai'],4.0,$$,"['5878 Leesburg Pike', 'Falls Church, VA 22041']",VA
+3,Bb5Gu3zUSnZ59PQNuyTfNw,Rustico Restaurant & Bar,776,"['American (New)', 'Italian', 'Pizza']",3.5,$$,"['4075 Wilson Blvd', 'Arlington, VA 22203']",VA
+4,v8Osqs0OKQfWw4Yo0Oauwg,Bawadi Mediterranean Grill,285,"['Middle Eastern', 'Mediterranean', 'Halal']",4.0,$$,"['6304 Leesburg Pike', 'Falls Church, VA 22044']",VA
+5,bcr3PNV-bZrjUGJ45P61hA,Thai Curry,416,"['Thai', 'Noodles', 'Soup']",4.0,$$,"['307 N Glebe Rd', 'Arlington, VA 22203']",VA
+6,7FS5Vh8tfVsqDxWSXDAM8Q,Hai Duong,325,"['Vietnamese', 'Noodles', 'Soup']",4.0,$$,"['6795 Wilson Blvd', 'Ste 9', 'Falls Church, VA 22044']",VA
+7,H9cmHstKHjuFPVUC3K93Fw,Sushi Rock,1205,"['Sushi Bars', 'Japanese', 'Venues & Event Spaces']",3.5,$$,"['1900 Clarendon Blvd', 'Arlington, VA 22201']",VA
+8,MXlddvoKWBEtNWBAxeY_YA,Don Tito,808,"['Mexican', 'Bars']",3.5,$$,"['3165 Wilson Blvd', 'Arlington, VA 22201']",VA
+9,viE72gC8UdY-rk_9zwGxqw,El Paso Cafe,458,"['Mexican', 'Tex-Mex', 'Cocktail Bars']",4.0,$$,"['4235 N Pershing Dr', 'Arlington, VA 22203']",VA
+10,ai8mX8VXkkMPaUaTNswbhw,Istanbul Grill,157,['Turkish'],4.5,$$,"['4617 Wilson Blvd', 'Arlington, VA 22203']",VA
+11,ZORmIIKt6UmITGq-r5FHyA,Busboys and Poets - Shirlington,1470,"['American (Traditional)', 'Mediterranean', 'Breakfast & Brunch']",4.0,$$,"['4251 S Campbell Ave', 'Arlington, VA 22206']",VA
+12,8XT5WO3qs3ByiEnIdd15DA,Eden Center,190,"['Shopping Centers', 'Vietnamese']",4.0,$$,"['6751 Wilson Blvd', 'Falls Church, VA 22044']",VA
+13,yTDjgTgqR9YubrKCP95wnQ,Uncle Julio's,773,"['Tex-Mex', 'Mexican']",3.5,$$,"['4301 Fairfax Dr', 'Ste 100', 'Arlington, VA 22203']",VA
+14,fJzrQD-doRptfSHIh53HWQ,Kogiya Korean BBQ,1648,"['Korean', 'Barbeque']",4.0,$$,"['4220-A Annandale Rd', 'Annandale, VA 22003']",VA
+15,RNARWsTi-1qhg1fdgmp2Hg,German Gourmet,187,"['Specialty Food', 'German', 'Delis']",4.5,$$,"['5838 Columbia Pike', 'Falls Church, VA 22041']",VA
+16,obpWMAjO-YMDmlqmHFxWdw,Spacebar,404,"['Bars', 'Sandwiches']",4.0,$$,"['709 W Broad St', 'Falls Church, VA 22046']",VA
+17,YB92vXpB2zYM1OA78UzzuQ,Silver Diner,628,"['American (New)', 'Breakfast & Brunch', 'Vegetarian']",3.5,$$,"['3200 Wilson Blvd', 'Arlington, VA 22201']",VA
+18,aHVlB01xoYLDBUwoYnGTZw,Hanabi Ramen Clarendon,339,['Ramen'],4.0,$$,"['3024 Wilson Blvd', 'Arlington, VA 22201']",VA
+19,vt-dZqlnU99qo_ivTOt0Gg,Kao Sarn Thai Street Food,169,"['Thai', 'Noodles']",4.0,$$,"['6795 Wilson Blvd', 'Unit 12', 'Falls Church, VA 22044']",VA
+20,bKRzYuvRL6Cl4jiOTfwy6A,Peter Chang,493,['Szechuan'],3.5,$$,"['2503 N Harrison St', 'Arlington, VA 22207']",VA
+21,nuvu967M94ORtElQPw31OQ,Loving Hut,661,"['Vegan', 'Vietnamese']",4.5,$$,"['2842 Rogers Dr', 'Falls Church, VA 22042']",VA
+22,waqeV74OenbbneTvlJdkgw,Kabob Palace,1896,"['Halal', 'Pakistani']",4.0,$$,"['2315 S Eads St', 'Arlington, VA 22202']",VA
+23,rQKablrIou5oMVT-eegH8g,CIRCA at Clarendon,515,"['American (New)', 'Wine Bars', 'Breakfast & Brunch']",4.0,$$,"['3010 Clarendon Blvd', 'Arlington, VA 22201']",VA
+24,634vdaCiJ2GZ7xDss-WN1g,Maya Bistro,103,"['Mediterranean', 'Turkish']",4.5,$$,"['5649 Lee Hwy', 'Arlington, VA 22207']",VA
+25,I1cwajsgXPzfFCsekznsqA,Bar Bao,591,['Asian Fusion'],4.0,$$,"['3100 N Clarendon Blvd', 'Arlington, VA 22201']",VA
+26,7cWSQZ3VLNnGf9UDWyupMA,Fire Works Pizza,728,"['Pizza', 'Italian', 'Bars']",4.0,$$,"['2350 Clarendon Blvd', 'Arlington, VA 22201']",VA
+27,9vNmUIpGcVgilBXnvAWLuA,Boru Ramen,443,['Ramen'],4.0,$$,"['2915 Columbia Pike', 'Arlington, VA 22204']",VA
+28,0U9MXL8xjkg2qvJjPhcz9w,Grand Cru Wine Bar and Bistro,339,"['French', 'Wine Bars', 'American (Traditional)']",4.0,$$,"['4301 Wilson Blvd', 'Arlington, VA 22203']",VA
+29,GlNlePB2Pmp67dZWm59qHg,City Diner Restaurant,339,"['American (Traditional)', 'Diners', 'Greek']",4.0,$$,"['5616 Leesburg Pike', 'Falls Church, VA 22041']",VA
+30,eD0HfGjdlAypnJIsNRf-Vg,Present Restaurant,394,['Vietnamese'],4.0,$$,"['6678 Arlington Blvd', 'Falls Church, VA 22042']",VA
+31,aChzKpSSY34ji2CoyfJXzg,First Down Sports Bar & Grill,335,"['Sports Bars', 'American (Traditional)']",4.0,$$,"['4213 Fairfax Dr', 'Arlington, VA 22203']",VA
+33,q3c6PR_-yt0pTi40rWiIyA,Detour Coffee,207,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",4.0,$$,"['946 N Jackson St', 'Arlington, VA 22201']",VA
+34,TRrkXjO9r10Sh4Ag6icTXQ,Nha Trang Restaurant,175,['Vietnamese'],4.0,$$,"['6757 Wilson Blvd', 'Ste 7', 'Falls Church, VA 22044']",VA
+36,NkO4vmvwzTFgxhwXuyG5qA,The Italian Store,239,"['Italian', 'Sandwiches', 'Pizza']",4.0,$$,"['5837 Washington Blvd', 'Arlington, VA 22205']",VA
+37,aksHrN8WijIRbErzdBD28g,Clare and Don's,552,"['Seafood', 'American (Traditional)']",3.5,$$,"['130 N Washington St', 'Falls Church, VA 22046']",VA
+38,Y-Kavonmx2mImngrjOTZkA,Rocklands Barbeque and Grilling- Arlington,637,['Barbeque'],3.5,$$,"['3471 Washington Blvd', 'Arlington, VA 22201']",VA
+40,jx_q-STeOpRYxxWSW0vsEw,SER,334,"['Spanish', 'Coffee & Tea', 'Cocktail Bars']",3.5,$$,"['1110 N Glebe Rd', 'Arlington, VA 22201']",VA
+41,Q0UIznn5mdGJ3DIRx9lBLQ,The Block,842,"['Asian Fusion', 'Cocktail Bars', 'Food Stands']",4.5,$$,"['4221 John Marr Dr', 'Annandale, VA 22003']",VA
+42,XQIoT11_Ou5PedBhVruH8A,Kabob Bazaar,370,"['Middle Eastern', 'Persian/Iranian']",4.0,$$,"['3133 Wilson Blvd', 'Arlington, VA 22201']",VA
+43,XbVyhDQVNPezG4-I0pvx-Q,Urban Tandoor,264,"['Indian', 'Himalayan/Nepalese']",4.0,$$,"['801 N Quincy St', 'Arlington, VA 22203']",VA
+44,TEFTsQjgsWA-ZQhhOfGkGg,sweetgreen,305,"['Vegetarian', 'Salad']",4.0,$$,"['4075 Wilson Blvd', 'Arlington, VA 22203']",VA
+45,7wsznNeMxSxysuz5e1i4XQ,Pamplona,416,"['Spanish', 'Tapas/Small Plates', 'Cocktail Bars']",4.0,$$,"['3100 Clarendon Blvd', 'Arlington, VA 22201']",VA
+46,9oAjjM88jiZnB-BQlctleg,Lost Dog Cafe,735,"['Sandwiches', 'Pizza', 'Bars']",3.5,$$,"['2920 Columbia Pike', 'Arlington, VA 22204']",VA
+47,kcmZ7Um2BMsTHvwxPs1elg,Rabieng Thai Restaurant,201,['Thai'],4.0,$$,"['5892 Leesburg Pike', 'Falls Church, VA 22041']",VA
+48,48jBfe5_HSt-_QxodywBHg,Bamian,403,"['Afghan', 'Buffets', 'Halal']",4.0,$$,"['5634 Leesburg Pike', 'Falls Church, VA 22041']",VA
+49,aDrlnNcZtCmHyfFVu4_G9Q,Whitlow's On Wilson,855,"['Bars', 'American (Traditional)']",3.5,$$,"['2854 Wilson Blvd', 'Arlington, VA 22201']",VA
+50,ee-Oe0b9kPiMjWxehQQ_Fw,FIREPAN Korean BBQ,247,"['Korean', 'Barbeque', 'Asian Fusion']",4.0,$$,"['6793 Wilson Blvd', 'Ste C', 'Falls Church, VA 22044']",VA
+51,iLXqkMbsLQq_DY91f2qUYg,Sawatdee Thai Restaurant,632,['Thai'],3.5,$$,"['2250 Clarendon Blvd', 'Arlington, VA 22201']",VA
+52,KP6kEstrmtAclA8kg3iwgQ,The Melting Pot,349,['Fondue'],3.5,$$$,"['1110 N Glebe Rd', 'Arlington, VA 22201']",VA
+53,sc0SXG5m_P4_BICvm16KmQ,True Food Kitchen,179,"['American (New)', 'Vegan', 'Vegetarian']",4.0,$$,"['4238 Wilson Blvd', 'Arlington, VA 22203']",VA
+55,WXnP225tYL8AKEXQE2xzQA,Dominion Wine and Beer,132,"['Beer, Wine & Spirits', 'Gastropubs']",5.0,$$,"['107 Rowell Ct', 'Falls Church, VA 22046']",VA
+56,Vhm9lH7mFR4wRP8hKHHwBA,Thai Noy Restaurant,173,['Thai'],4.0,$$,"['5880 N Washington Blvd', 'Arlington, VA 22205']",VA
+58,b7wJmX7VsqAhptfIdlelYg,X.O. Taste,333,"['Chinese', 'Thai', 'Asian Fusion']",3.5,$$,"['6124 Arlington Blvd', 'Falls Church, VA 22044']",VA
+59,94GIEYlrLFLv64lgk9Oi0Q,Royal Nepal,390,"['Himalayan/Nepalese', 'Desserts', 'Bars']",4.5,$$,"['3807 Mount Vernon Ave', 'Alexandria, VA 22305']",VA
+60,QeNI3K2Eg-UMP5odJ4fU7Q,Takohachi,286,"['Japanese', 'Sushi Bars']",4.0,$$,"['3249 Columbia Pike', 'Arlington, VA 22204']",VA
+61,S1MZUJ8MKb1zrjHRWJb-Hw,pie-tanza,228,"['Pizza', 'Sandwiches', 'Italian']",4.0,$$,"['2503 N Harrison St', 'Arlington, VA 22207']",VA
+62,K8vG-n2hOUY85xjGEiSPqw,Ted's Bulletin,234,"['Breakfast & Brunch', 'American (New)', 'Comfort Food']",4.0,$$,"['4238 Wilson Blvd', 'Ste 1130', 'Arlington, VA 22203']",VA
+64,PrRvHu-VJ6fDNV3sJb7gXA,Fava Pot,310,"['Mediterranean', 'Egyptian']",4.5,$$,"['7393-D Lee Hwy', 'Falls Church, VA 22042']",VA
+65,r7zjaaf5mPTzH63ShtkzBg,Lighthouse Tofu,860,"['Korean', 'Imported Food']",4.0,$$,"['4121 Chatelain Rd', 'Ste 100', 'Annandale, VA 22003']",VA
+66,wpBxMfebuJ7-0gTrBAj8lw,Gaijin Ramen Shop,407,['Ramen'],3.5,$$,"['3800 Lee Hwy', 'Arlington, VA 22207']",VA
+67,47-Aiewqh7tb8Ppup20OvQ,Bracket Room,516,"['Sports Bars', 'American (Traditional)']",3.5,$$,"['1210 N Garfield St', 'Arlington, VA 22201']",VA
+68,-wYoNl8kHBUa6z60sHFcQA,Little Saigon Restaurant,184,['Vietnamese'],4.0,$$,"['6218 Wilson Blvd', 'Ste B', 'Falls Church, VA 22044']",VA
+69,nIgDD3Gtq8Ya1ddJ1w1IMQ,TNR Cafe,629,"['Chinese', 'Coffee & Tea']",3.5,$$,"['2049 Wilson Blvd', 'Arlington, VA 22201']",VA
+70,n_97tVbPby5vDKrAMSQyIw,IndAroma,636,['Indian'],4.0,$$,"['6548C Little River Tpke', 'Alexandria, VA 22312']",VA
+71,YpbDUSsXKl7RlVR8TGLm-w,Mala Tang,635,"['Chinese', 'Hot Pot']",3.5,$$,"['3434 Washington Blvd', 'Arlington, VA 22201']",VA
+72,DwN-ieVAMwLwtz51v0ynRQ,Plaka Grill - Falls Church,364,['Greek'],4.5,$$,"['1216 W Broad St', 'Falls Church, VA 22046']",VA
+73,MO9YrznJMuQA0bAgOvzryw,Barley Mac,676,"['Bars', 'American (New)']",4.0,$$,"['1600 Wilson Blvd', 'Ste 100', 'Arlington, VA 22209']",VA
+74,DcD98fxatvfYrHAUz0GpyQ,Pizzeria Orso,498,"['Pizza', 'Italian', 'Tapas/Small Plates']",3.5,$$,"['400 S Maple Ave', 'Falls Church, VA 22046']",VA
+76,Cwt0sWSZu5euvgbyXoqCmA,Layalina Restaurant,200,"['Mediterranean', 'Lebanese', 'Salad']",3.5,$$,"['5216 Wilson Blvd', 'Arlington, VA 22205']",VA
+77,ANt7nPCz6yCTrklwnMpnsw,Lebanese Taverna,212,"['Lebanese', 'Cocktail Bars']",3.5,$$,"['5900 Washington Blvd', 'Arlington, VA 22205']",VA
+78,ga5yrdwfyDdwaq8yRxJCDg,Crystal Thai Restaurant,205,['Thai'],4.0,$$,"['4819 1st St N', 'Arlington, VA 22203']",VA
+79,qE5YkRpfMAOOUbg12pl0Lw,Metro 29 Diner Restaurant,605,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",3.5,$$,"['4711 Lee Hwy', 'Arlington, VA 22207']",VA
+80,PavvtPMgJez1pH6aZ6UArA,Bistro 1521,277,"['Filipino', 'Cocktail Bars', 'American (Traditional)']",3.5,$$,"['900 N Glebe Rd', 'Arlington, VA 22203']",VA
+81,O0TlitkGzUBmwg9WhfxnkA,Ireland's Four Provinces,315,"['Irish', 'Pubs']",4.0,$$,"['105 W Broad St', 'Falls Church, VA 22046']",VA
+82,gpPl66Gtuh8Uff-W-3xVwQ,Dogwood Tavern,433,"['American (Traditional)', 'Seafood', 'Southern']",3.5,$$,"['132 W Broad St', 'Falls Church, VA 22046']",VA
+84,ngHw1WsEIWaJacB6UHMQlQ,Sibarita Restaurant,255,"['Latin American', 'Burgers']",4.0,$$,"['2716 Washington Blvd', 'Arlington, VA 22201']",VA
+85,9RHjU6ACR7rUMfSE-OX_Cw,Nam Viet Restaurant,369,['Vietnamese'],3.5,$$,"['1127 N Hudson St', 'Arlington, VA 22201']",VA
+89,XYqFgO66WG2q8mc2mOwVig,Dama Pastry and Restaurant,335,['Ethiopian'],4.5,$$,"['1503 Columbia Pike', 'Arlington, VA 22204']",VA
+90,y5gxbppHLehTcnQsUI6-lg,Sushi-Zen,215,"['Japanese', 'Sushi Bars']",4.0,$$,"['2457 N Harrison St', 'Arlington, VA 22207']",VA
+91,koS8uGPsZIuSUSyQK4nI8w,Jerusalem Restaurant & Catering,272,"['Middle Eastern', 'Mediterranean']",3.5,$$,"['3400 Washington Dr', 'Unit A', 'Falls Church, VA 22041']",VA
+92,g2vQ20OJdtPaKyGjG4K3hg,Copperwood Tavern,881,"['American (New)', 'Breakfast & Brunch', 'Bars']",4.0,$$,"['4021 Campbell Ave', 'Arlington, VA 22206']",VA
+93,OEY00wUdp53ybB0Pkfx1fw,Lucky Thai Restaurant,183,"['Thai', 'Salad', 'Soup']",4.0,$$,"['240 W Broad St', 'Falls Church, VA 22046']",VA
+94,JNPJBvyQrtd8OotwAw3hMA,Burger District Gourmet Burgers and Bar,213,"['Burgers', 'Chicken Wings', 'Sports Bars']",4.0,$$,"['2024 Wilson Blvd', 'Arlington, VA 22201']",VA
+95,w_KIG8bsFwHmbcJ_aNb-4A,Yechon,1676,"['Korean', 'Japanese', 'Barbeque']",3.5,$$,"['4121 Hummer Rd', 'Annandale, VA 22003']",VA
+97,9WfQ9pS8hcytMrfewmg5Gg,City Kabob & Curry House- Arlington,214,"['Indian', 'Halal', 'Pakistani']",4.0,$$,"['3007 Columbia Pike', 'Arlington, VA 22204']",VA
+98,u35mUlHQ-3BwC3hbHisthA,Philz Coffee,102,"['Coffee & Tea', 'Breakfast & Brunch']",4.0,$$,"['4121 Wilson Blvd', 'Arlington, VA 22203']",VA
+99,I-_Q2aymqyppY_38ae9Wrg,BIBIMIX,194,"['Korean', 'Barbeque', 'Chicken Wings']",4.5,$$,"['1910 Wilson Blvd', 'Arlington, VA 22201']",VA
+100,_SjKrjRYGld3vUQZ82ExBQ,Endo Sushi,338,"['Sushi Bars', 'Japanese', 'Salad']",3.5,$$,"['3000 Washington Blvd', 'Arlington, VA 22201']",VA
+101,6A0DodSUHF64eCYyCLlcWA,2941 Restaurant,880,"['American (New)', 'French', 'Cocktail Bars']",4.0,$$$,"['2941 Fairview Park Dr', 'Falls Church, VA 22042']",VA
+102,DHyTfpWOfORnISTE8nx8cA,Ireland's Four Courts,392,"['Breakfast & Brunch', 'Irish', 'Irish Pub']",4.0,$$,"['2051 Wilson Blvd', 'Arlington, VA 22201']",VA
+103,_8LcvkRDMs19VZFVBM5uxw,Guapo's,882,['Mexican'],3.5,$$,"['4028 Campbell Ave', 'Arlington, VA 22206']",VA
+104,ADsR2_m16_2fv6KkwJCkqw,Northside Social - Falls Church,226,"['Coffee & Tea', 'American (Traditional)', 'Wine Bars']",4.0,$$,"['205 Park Ave', 'Falls Church, VA 22046']",VA
+105,SUokZE-eIboa2-GrO9rZVg,Maneki Neko,291,['Japanese'],3.5,$$,"['238 W Broad St', 'Falls Church, VA 22046']",VA
+106,rXWyOMcmaST5UfI4QRVU0w,Fairfax Inn Restaurant,147,"['Sandwiches', 'Diners', 'Filipino']",4.0,$$,"['2946 Sleepy Hollow Rd', 'Falls Church, VA 22044']",VA
+107,E8H_A0GWZX5Ju4OLi5yFQA,Cheesetique,697,"['Cheese Shops', 'Sandwiches', 'Wine Bars']",4.5,$$,"['2411 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+110,_feW25VKRppuE0LAhjFt4g,Cajun Boil & Pho,87,"['Vietnamese', 'Cajun/Creole', 'Seafood']",4.0,$$,"['6783 Wilson Blvd', 'Falls Church, VA 22044']",VA
+111,2jdWEuEZGsCQnWh46OB-CA,Verre Wine Bar,87,"['Wine Bars', 'Breakfast & Brunch', 'Tapas/Small Plates']",4.5,$$,"['2415 Wilson Blvd', 'Arlington, VA 22201']",VA
+112,_gVtSH9A5r-RSiD0pIQQKQ,Haifa Grill,192,"['Halal', 'Mediterranean', 'Hookah Bars']",4.0,$$,"['3541 Carlin Springs Rd', 'Falls Church, VA 22041']",VA
+113,mJl1EQXcyOo-WJNZm3bN1Q,Clyde's at Mark Center,499,"['American (Traditional)', 'Bars', 'Seafood']",3.5,$$,"['1700 N Beauregard St', 'Alexandria, VA 22311']",VA
+114,Y0R31RDfxn0ZVii9AJBs0A,Koi Koi Sushi and Roll,306,"['Sushi Bars', 'Japanese']",4.0,$$,"['450 W Broad St', 'Falls Church, VA 22046']",VA
+115,kLAzKsMTQWk3snb3Yg2Oqg,T.H.A.I. in Shirlington,658,['Thai'],4.0,$$,"['4029 Campbell Ave', 'The Village at Shirlington', 'Arlington, VA 22206']",VA
+116,O_Lv6K_iGH4mtLi7IaX4mQ,Sloppy Mama's BBQ,150,"['Barbeque', 'Sandwiches', 'Bars']",4.0,$$,"['5731 Lee Hwy', 'Arlington, VA 22207']",VA
+117,45-hHP6WAEKxnyst59I-Cg,Meaza Restaurant,249,['Ethiopian'],3.5,$$,"['5700 Columbia Pike', 'Falls Church, VA 22041']",VA
+118,t1hnP2qlCUKLoZJ5TxA-qg,Chicago's Pizza With A Twist,78,"['Pizza', 'Gluten-Free']",4.5,$$,"['5645 Lee Hwy', 'Arlington, VA 22207']",VA
+119,XceRhqfiQd1bfAoGv12msw,Mocha Cafe & Pastry,206,"['Cafes', 'Pizza', 'Desserts']",4.0,$$,"['2720 Washington Blvd', 'Arlington, VA 22201']",VA
+120,0H01dKPAmfjeMpI1xki6MA,William Jeffrey's Tavern,404,"['American (Traditional)', 'Seafood', 'Sports Bars']",3.5,$$,"['2301 Columbia Pike', 'Ste 101', 'Arlington, VA 22204']",VA
+121,ntE2YAtq_ymtmqWOek_cvg,Wilson Hardware Kitchen & Bar,271,"['American (Traditional)', 'American (New)', 'Cocktail Bars']",4.0,$$,"['2915 Wilson Blvd', 'Arlington, VA 22201']",VA
+123,HKUSjwekiXLCxs8-Z1IRPQ,The Bronson Bierhall,116,"['American (New)', 'German', 'Sandwiches']",4.0,$$,"['4100 Fairfax Dr', 'Arlington, VA 22203']",VA
+125,Uu6A4edyD6NUlqqAo2Cehw,&pizza - Ballston,145,"['Pizza', 'Vegan', 'Vegetarian']",4.0,$$,"['3924 Wilson Blvd', 'Arlington, VA 22203']",VA
+126,3AUrNZj_o_vYTwrbPtcD8g,Atilla's Restaurant,197,"['Turkish', 'Pizza', 'Sandwiches']",4.0,$$,"['2705 Columbia Pike', 'Arlington, VA 22204']",VA
+127,U6A73EqLhljcxjRrAvK2MA,Osteria da Nino,426,['Italian'],4.0,$$,"['2900 S Quincy St', 'Arlington, VA 22206']",VA
+128,Gw8GCgHx0atCy-lDZCEV9w,Tachibana Japanese Restaurant,800,"['Japanese', 'Sushi Bars', 'Seafood']",4.0,$$,"['6715 Lowell Ave', 'McLean, VA 22101']",VA
+130,xDUqNvH3XP_yAKOeciRpSw,New Orleans Live Crawfish & Seafood,296,"['Seafood', 'Cajun/Creole']",3.0,$$,"['6168 Arlington Blvd', 'Falls Church, VA 22044']",VA
+131,RgofqLNm_ZyJv50ryRFoDA,Panjshir,179,['Afghan'],4.0,$$,"['114 E Fairfax St', 'Falls Church, VA 22046']",VA
+133,kUdte0_oEgkbOfheu9PUTQ,SLAPFISH,120,"['Seafood', 'Specialty Food', 'Burgers']",4.0,$$,"['671 N Glebe Rd', 'Level M1, Ballston Quarters', 'Arlington, VA 22203']",VA
+135,aU3V9cQjhNsvjaGQeimUcQ,Cafe Rio Mexican Grill,297,['Mexican'],3.0,$$,"['6108-A Arlington Blvd', 'Falls Church, VA 22044']",VA
+136,2S8-xI6JkldBX4PkWbiKhA,Quarterdeck,692,"['Seafood', 'Burgers']",3.5,$$,"['1200 Fort Myer Dr', 'Arlington, VA 22209']",VA
+137,8K3kSxfpHGURRs4w6HOrKw,Enjera Restaurant,425,['Ethiopian'],4.0,$$,"['549 23rd St S', 'Arlington, VA 22202']",VA
+138,MhTVv-PQ9KlluPW25Tvjlg,Courthaus Social,346,"['Sports Bars', 'American (Traditional)', 'Beer Gardens']",3.5,$$,"['2300 Clarendon Blvd', 'Arlington, VA 22201']",VA
+139,wDe7Tev1YnugT3c8XZdhog,Westover Market,104,"['Desserts', 'Salad', 'Sandwiches']",4.0,$$,"['5836 Washington Blvd', 'Arlington, VA 22205']",VA
+140,w9qUGXXhXTm6j4k9677f1A,Ravi Kabob House II,133,"['Pakistani', 'Halal']",4.0,$$,"['250 N Glebe Rd', 'Arlington, VA 22203']",VA
+141,Lv3DF7bqVdtWWUC7WFOURA,Pistone's Italian Inn,174,"['Italian', 'Music Venues', 'Party & Event Planning']",3.5,$$,"['6320 Arlington Blvd', 'Falls Church, VA 22044']",VA
+142,Jy-Z0BY-CRbhpimv098q6w,Ichiban Sushi & Ramen - Arlington,470,"['Sushi Bars', 'Ramen', 'Seafood']",4.0,$$,"['4251 Campbell Ave', 'Arlington, VA 22206']",VA
+144,uXgRi2zqY_NmrwMRoZ80GQ,Balo Kitchen,306,"['Comfort Food', 'Asian Fusion']",4.5,$$,"['4221 John Marr Dr', 'Annandale, VA 22003']",VA
+145,dSKvHIkc1SEn9-mxzkYaDw,Honey Pig Gooldaegee Korean Grill,1641,['Korean'],3.5,$$,"['7220 Columbia Pike', 'Ste C', 'Annandale, VA 22003']",VA
+146,M1jM4kiwfiMmWVZENkkELg,Poké it Up,44,"['Hawaiian', 'Poke']",4.5,$$,"['4401 Fairfax Dr', 'Arlington, VA 22203']",VA
+147,Qc09Y-P78XX6n8cyL3Kf6w,Mele Bistro,406,"['French', 'Italian', 'Cocktail Bars']",4.0,$$,"['1723 Wilson Blvd', 'Arlington, VA 22209']",VA
+148,Nt38RoV9RZnL6x3kl00BKw,Yamazato Sushi & Spice,580,"['Sushi Bars', 'Japanese', 'Thai']",4.0,$$,"['6303 Little River Tpke', 'Ste 120', 'Alexandria, VA 22312']",VA
+149,8XRXAEfcoaaS-w0Z_B9HbQ,Cowboy Cafe,158,"['Burgers', 'American (Traditional)', 'Music Venues']",4.0,$$,"['4792 Lee Hwy', 'Arlington, VA 22207']",VA
+150,nmqs6EByhb7ASZMV9xmTuA,Full Kee Restaurant,295,['Chinese'],3.5,$$,"['5830 Columbia Pike', 'Falls Church, VA 22041']",VA
+151,EQK0WAJaTIjbIopUtnc_3g,Hunan Gate,267,"['Chinese', 'Buffets']",3.5,$$,"['4233 Fairfax Dr', 'Arlington, VA 22203']",VA
+152,DSq6JVH0ttByY7lp1d08Hg,Pokeworks,334,"['Poke', 'Salad', 'Sushi Bars']",4.0,$$,"['4221 John Marr Dr', 'Annandale, VA 22003']",VA
+153,oiQsBpU3yEkvgCOEH3p8Pg,Haandi Indian Cuisine,438,"['Indian', 'Buffets']",4.0,$$,"['1222 W Broad St', 'Falls Church, VA 22046']",VA
+154,bdJ3ScXP1i5FBF_UpRwvLg,Asahi Japanese Restaurant,218,"['Japanese', 'Sushi Bars', 'Asian Fusion']",4.0,$$,"['2250 Clarendon Blvd', 'Ste G', 'Arlington, VA 22201']",VA
+155,y3-fR1ne7slpo2dkcudVyw,RT's Restaurant,469,"['Cajun/Creole', 'American (New)', 'Seafood']",4.0,$$,"['3804 Mt Vernon Ave', 'Alexandria, VA 22305']",VA
+156,vA0rn7fdRaXW2UkhYWWLGg,Silverado,457,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",4.0,$$,"['7052 Columbia Pike', 'Annandale, VA 22003']",VA
+157,dqS2gz4KttzE7w04NJ6ubw,Rhodeside Grill,366,"['American (Traditional)', 'Sports Bars']",3.5,$$,"['1836 Wilson Blvd', 'Arlington, VA 22201']",VA
+158,QB8bdYi9_GMIT-jku9XQTw,Enat Restaurant,232,['Ethiopian'],4.5,$$,"['4709 N Chambliss St', 'Alexandria, VA 22312']",VA
+159,ZyWlSNSx08Ybf50izJtkng,Stomping Ground,547,"['Coffee & Tea', 'Breakfast & Brunch', 'American (New)']",4.0,$$,"['2309 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+160,sbvdYH8FKx5Am63EgZoPgw,Basic Burger,355,['Burgers'],4.0,$$,"['1101 Joyce St', 'Arlington, VA 22202']",VA
+162,ifIB1AES88sldX3fXxJ2vA,To Sok Jip,531,['Korean'],4.0,$$,"['7211 Columbia Pike', 'Annandale, VA 22003']",VA
+163,72H5yryNiWQJRDCu0dgZOQ,Valentino's NY Pizzeria,917,"['Pizza', 'Italian', 'Seafood']",3.5,$$,"['4813 Beauregard St', 'Alexandria, VA 22312']",VA
+165,A1GW3DrXcdIsxgCXZFKaxA,Turu's By Timber Pizza,50,['Pizza'],4.5,$$,"['4238 Wilson Blvd', 'Ste 135', 'Arlington, VA 22203']",VA
+166,kRf-JvMnCC1AGAnhMB-OcA,Zoes Kitchen,132,"['Greek', 'Mediterranean', 'Sandwiches']",3.5,$$,"['4245 N Fairfax Dr', 'Ste 150', 'Arlington, VA 22203']",VA
+167,hPCBRWDKZSn8OFOJBwRgPQ,Guajillo Mexican Cuisine,537,"['Mexican', 'Cocktail Bars', 'Breakfast & Brunch']",3.5,$$,"['1727 Wilson Blvd', 'Arlington, VA 22209']",VA
+168,AyJ8BLknv1Pa7DYF7IcBNQ,Spider Kelly's,429,"['Bars', 'American (Traditional)']",3.0,$$,"['3181 Wilson Blvd', 'Arlington, VA 22201']",VA
+169,e3XROcah0_nDFMI9tsaCYg,Chi Mc,372,"['Korean', 'Chicken Wings', 'Beer Bar']",4.0,$$,"['6653 Little River Tpke', 'Annandale, VA 22003']",VA
+170,TN2Ihp-pPPTJZIImxGukVA,Ragtime,282,"['Pubs', 'American (Traditional)']",3.5,$$,"['1345 N Court House Rd', 'Arlington, VA 22201']",VA
+171,Af_2Qf5xTUvDyEyj6776zQ,Brick's Pizza,124,['Pizza'],4.0,$$,"['4809 N 1st St', 'Arlington, VA 22203']",VA
+172,SI3yzpe0-OtNCfhNx3DcPw,Atlacatl and Pupuseria,95,['Latin American'],4.0,$$,"['4701 Columbia Pike', 'Arlington, VA 22204']",VA
+173,wcyX9mKxVGZF8OBNu21i_A,Big Buns Damn Good Burger Co,351,"['Burgers', 'Beer Bar']",4.0,$$,"['4251 Campbell Ave', 'Arlington, VA 22206']",VA
+174,Xx-xx4f4YA09zBiNlv4WnQ,Liberty Barbecue,321,"['Barbeque', 'Bars']",3.5,$$,"['370 W Broad St', 'Falls Church, VA 22046']",VA
+175,Ep62ZpRQI_oEkD3HER-aag,Lena's Wood-Fired Pizza & Tap,816,"['Pizza', 'Italian']",4.0,$$,"['401 E Braddock Rd', 'Alexandria, VA 22301']",VA
+177,oRptzbCPHRdA1alQuPJL9Q,Il Radicchio,299,"['Italian', 'Pizza', 'Tapas/Small Plates']",3.5,$$,"['1801 Clarendon Blvd', 'Arlington, VA 22201']",VA
+178,5aJx6R5qQ69lVcVJq7J1Jw,J. Gilbert's,771,"['Steakhouses', 'Seafood', 'Bars']",4.0,$$$,"['6930 Old Dominion Dr', 'McLean, VA 22101']",VA
+179,7u5q7bfjMkrN4itYGzSbfA,Los Tios Grill,770,"['Mexican', 'Salvadoran', 'Tex-Mex']",4.0,$$,"['2615 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+181,LL4UO0wECjl6b5-A50Qr3A,La Côte d'Or Café,160,['French'],3.5,$$$,"['6876 Lee Hwy', 'Arlington, VA 22213']",VA
+182,I67xVaFVUjqQSE4FwgXFow,Freddie's Beach Bar & Restaurant,401,"['Gay Bars', 'Karaoke', 'Breakfast & Brunch']",4.0,$$,"['555 23rd St S', 'Arlington, VA 22202']",VA
+184,ORGiC2f7UxaUvK_NZSHPdQ,The Cheesecake Factory,546,"['Desserts', 'American (Traditional)']",3.0,$$,"['2900 Clarendon Blvd', 'Arlington, VA 22201']",VA
+185,BV2E2-sE2EG7IqWWqz-Ckg,Northside 10,304,"['Bars', 'American (Traditional)', 'Breakfast & Brunch']",4.5,$$,"['10 E Glebe Rd Alexandria', 'Alexandria, VA 22305']",VA
+186,Y5KdONDo5sWkRv8aVK4H5Q,Del Ray Cafe,692,"['French', 'Seafood', 'Breakfast & Brunch']",4.0,$$,"['205 E Howell Ave', 'Alexandria, VA 22301']",VA
+187,gGJbWQ_4smiVAfSNkd4qoA,Nando's Peri-Peri,417,"['Portuguese', 'South African', 'Chicken Shop']",4.0,$$,"['1301 S Joyce St', 'Ste D10', 'Arlington, VA 22202']",VA
+188,q4forca2s9QNRA3bXRWG5Q,Miso,495,"['Japanese', 'Asian Fusion']",4.0,$$,"['7410 Little River Tpke', 'Annandale, VA 22003']",VA
+189,-HWp0CjPAEGKvbAqlBynDg,The Stray Cat Cafe,122,"['American (Traditional)', 'Wine Bars', 'Beer Bar']",3.5,$$,"['5866 Washington Blvd', 'Arlington, VA 22205']",VA
+190,7fG93WOQ8xXsW_wxtFreMg,Lebanese Taverna Market,126,"['Delis', 'Middle Eastern']",4.0,$$,"['4400 Old Dominion Dr', 'Arlington, VA 22207']",VA
+191,SSzSaE_sh2u_eYCj6du4kw,El Tio Tex Mex Grill,416,"['Tex-Mex', 'Bars', 'Mexican']",4.0,$$,"['7630 Lee Hwy', 'Falls Church, VA 22042']",VA
+192,1ctsXD-rj0ctn9QCplLVmw,Medium Rare,202,"['Steakhouses', 'Breakfast & Brunch']",3.5,$$,"['3601 Fairfax Dr', 'Arlington, VA 22201']",VA
+193,sO3r9ur2WM5I6QURrdvnYg,Le Pain Quotidien,307,"['Bakeries', 'Breakfast & Brunch', 'Coffee & Tea']",3.5,$$,"['2900 Clarendon Blvd', 'Arlington, VA 22201']",VA
+194,VtVDWPmK7iPxYNeAxA5uVg,Holy Cow,643,['Burgers'],4.0,$$,"['2312 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+195,fhDqvOVxAZZVUTRAqXwK4w,Five Guys,166,"['Fast Food', 'Burgers']",4.0,$$,"['2300 Wilson Blvd', 'Arlington, VA 22201']",VA
+196,vzvuB2t9-t3kqtINjjhPig,Buuz Thai Eatery,205,"['Thai', 'Mongolian']",4.0,$$,"['1926 Wilson Blvd', 'Arlington, VA 22201']",VA
+197,085M24RRGm9PpcOV65xUhA,O My Hot Pot & Bar,257,"['Hot Pot', 'Beer Bar', 'Seafood']",4.5,$$,"['4230 Annandale Rd', 'Ste 110', 'Annandale, VA 22003']",VA
+198,Fc_OuXUhNga9BQ4HKgNzig,TTT Clarendon,201,"['Tacos', 'Latin American', 'Bars']",4.0,$$,"['2900 Wilson Blvd', 'Ste 103', 'Arlington, VA 22201']",VA
+200,VnwPxT5XZyRiBvRnyW9d-g,Two Chefs Pizza,94,"['Pizza', 'Greek', 'Italian']",3.5,$$,"['5019 Wilson Blvd', 'Arlington, VA 22203']",VA
+202,nFCmXU-z_s5Ci_f6_990Zw,Saffron Indian Cuisine,270,['Indian'],4.0,$$,"['1077 W Broad St', 'Falls Church, VA 22046']",VA
+203,ZOHox7jeV3T0_D-R85bCMA,Eyo Restaurant and Sports Bar,91,"['Ethiopian', 'Italian', 'Sports Bars']",4.0,$$,"['3821-B S George Mason Dr', 'Falls Church, VA 22041']",VA
+205,tncF1z3fOoOeYuGWDPO-Ig,Extreme Pizza - Arlington,478,"['Pizza', 'Salad', 'Sandwiches']",4.0,$$,"['1419 S Fern St', 'Arlington, VA 22202']",VA
+207,ZFUJz6QWMF3W7dTcOs6cBQ,Choong Hwa Won,390,"['Korean', 'Chinese']",4.0,$$,"['4409 John Marr Dr', 'Annandale, VA 22003']",VA
+209,bfW5hicmgKscjmYU7ExRXA,Sfizi Cafe,224,"['Italian', 'Cafes', 'Delis']",3.5,$$,"['800 W Broad St', 'Falls Church, VA 22046']",VA
+210,qZokuBkcS9IzPFSWDATpKQ,Tosokchon,267,['Korean'],4.0,$$,"['7031 Little River Turnpike', 'Annandale, VA 22003']",VA
+211,Zd3VoNce6jXffGVkBsdSCw,Miu Kee,306,"['Chinese', 'Seafood']",3.0,$$,"['6653 Arlington Blvd', 'Falls Church, VA 22042']",VA
+215,LbDissG11bYd64pg-ktpRQ,Oegadgib,796,"['Korean', 'Barbeque', 'Buffets']",3.5,$$,"['7331 Little River Tpke', 'Annandale, VA 22003']",VA
+217,QsUGCouawJ9LeP4129V4Mg,P.F. Chang's,409,['Chinese'],2.5,$$,"['901 N Glebe Rd', 'Arlington, VA 22203']",VA
+218,u3QNhKFUS4amvN3DP0v_MQ,Laze cafe,40,"['Hookah Bars', 'Sandwiches', 'Middle Eastern']",4.5,$$,"['5820 Seminary Rd', 'Ste N', 'Falls Church, VA 22041']",VA
+220,Ov8YvTNxYPYZu-XWh10WAA,The Union,107,"['American (New)', 'Bars', 'Burgers']",5.0,$$,"['1379 Beverly Rd', 'McLean, VA 22101']",VA
+221,cb_N1RaZI5CEv-yEi4eR9A,Noori Chicken,192,"['Korean', 'Chicken Wings', 'Pizza']",4.0,$$,"['4300 Evergreen Ln', 'Ste 102', 'Annandale, VA 22003']",VA
+224,yQzW32WxvRxGt0ukL58Ycw,Abi Azteca Grill & Bar,144,"['Latin American', 'Mexican', 'Seafood']",3.5,$$,"['3005 Columbia Pike', 'Arlington, VA 22204']",VA
+226,maWRKEGgS1dXIqPlUTd90Q,Kulan Cafe,23,['Somali'],5.0,$$,"['3821 S George Mason Dr', 'Falls Church, VA 22041']",VA
+229,ubpMW-6cTY88U-f6SMCOHA,Dal Grano,203,"['Pasta Shops', 'Italian', 'Sandwiches']",4.5,$$,"['1386 Chain Bridge Rd', 'McLean, VA 22101']",VA
+230,edzE_1Rg2ncOhNz3xQa34Q,Troys Italian Kitchen,116,"['Pizza', 'Italian', 'Vegan']",4.0,$$,"['2710-B Washington Blvd', 'Arlington, VA 22201']",VA
+231,NtObeMJ48j4qr8Pz-csNtA,The Cue Club,115,"['Sports Bars', 'American (Traditional)', 'Korean']",4.5,$$,"['7014 Columbia Pike', 'Annandale, VA 22003']",VA
+232,Addp5AbaNq3-I1NjrV_xaA,Delhi Dhaba,298,"['Indian', 'Pakistani']",3.5,$$,"['2424 Wilson Blvd', 'Arlington, VA 22201']",VA
+233,cSDCS9l9sY5tc_ULQQMogA,Crafthouse,142,"['Burgers', 'Sandwiches', 'Bars']",3.5,$$,"['901 N Glebe Rd', 'Arlington, VA 22203']",VA
+236,WCoIW94VWz73_d9Lx9V4RQ,Quinn's On The Corner,231,"['Bars', 'American (Traditional)', 'Salad']",4.0,$$,"['1776 Wilson Blvd', 'Arlington, VA 22209']",VA
+237,IvWIICceHhyt0TSQ7wADLg,SPICE KRAFT Indian Bistro,138,"['Indian', 'Desserts', 'Vegan']",4.5,$$,"['2607 Mount Vernon Ave', 'Alexandria, VA 22305']",VA
+238,u7sy12z9LERr7Uice0sUZQ,Moby Dick Of Arlington,184,['Fast Food'],3.5,$$,"['3000 Washington Blvd', 'Arlington, VA 22201']",VA
+239,xrnu84SMY2thHkFWJ64qlQ,Epic SmokeHouse,529,"['Smokehouse', 'American (New)']",3.5,$$,"['1330 S Fern St', 'Arlington, VA 22202']",VA
+240,22aD4k6tzbm5bIpiNBhkOg,Meridian Pint,54,"['American (Traditional)', 'Bars']",4.0,$$,"['6035 Wilson Blvd', 'Arlington, VA 22205']",VA
+242,3_5dvDWhGbDIr2_2zZwS9g,The Original Pancake House,423,"['Creperies', 'Waffles', 'Pancakes']",3.5,$$,"['7395 Lee Hwy', 'Falls Church, VA 22042']",VA
+243,7X4xDkPlbze4Tibl-958cQ,Four Seasons Restaurant,105,['Vietnamese'],3.5,$$,"['6767 Wilson Blvd', 'Falls Church, VA 22044']",VA
+245,qu_uRTqAFCRd26037g2AyA,Rice Crook,56,"['Korean', 'Salad', 'Wraps']",4.0,$$,"['4238 Wilson Blvd Suite', 'Ste 104', 'Arlington, VA 22203']",VA
+246,M2ybSvtF8HFAZ92b-doIsA,Idylwood Grill & Wine Bar,194,"['Wine Bars', 'American (New)', 'Italian']",4.5,$$$,"['2190 Pimmit Dr', 'Falls Church, VA 22043']",VA
+247,7bpNGXkFUKDR__bkG5ZNeQ,Pupatella,97,"['Pizza', 'Gelato', 'Italian']",4.0,$$,"['1621 S Walter Reed Dr', 'Arlington, VA 22204']",VA
+248,-JdOButHwsdCxV7PocnSdg,Nando's Peri-Peri,129,"['South African', 'Portuguese', 'Chicken Shop']",3.0,$$,"['4401 Wilson Blvd', 'Arlington, VA 22203']",VA
+249,2b17LnV3seZM1LxhTaHh0Q,Red Robin Gourmet Burgers and Brews,270,"['Burgers', 'American (Traditional)']",3.0,$$,"['6331 Seven Corners Ctr', 'Falls Church, VA 22044']",VA
+250,tiqB0OTT-BcQ-Fa3PBpnOQ,Rice Pot Asian Cuisine,303,"['Chinese', 'Thai', 'Asian Fusion']",4.0,$$,"['4709 Backlick Rd', 'Annandale, VA 22003']",VA
+251,LbG_tDi7WAcvA-LlS9tMUA,Saigon Saigon,366,['Vietnamese'],3.5,$$,"['1101 S Joyce St', 'Ste B16', 'Arlington, VA 22202']",VA
+252,fJ5WwKzYcmOLuwtNjEi2JQ,Ruffino's Spaghetti House,192,['Italian'],3.5,$$,"['4763 Lee Hwy', 'Arlington, VA 22207']",VA
+253,FfOSM_zqeK-0H8GjUR1TiQ,Sicilian Pizza,200,"['Pizza', 'Chicken Wings', 'Sandwiches']",3.5,$$,"['923 S Walter Reed Dr', 'Arlington, VA 22204']",VA
+254,PUK1MV6DW5rzfTrf-oxSbA,The Club Burgers & Sandwiches,180,"['Burgers', 'Sandwiches', 'Chicken Wings']",4.5,$$,"['261 S Van Dorn St', 'Alexandria, VA 22304']",VA
+255,w5BYHE4FApQfgcW9WSnHmQ,Luzmary Bolivian Restaurant,101,"['Spanish', 'Latin American']",4.0,$$,"['7151 Lee Hwy', 'Falls Church, VA 22046']",VA
+256,I_MnBBuWIQOU9NkPeWFXEg,Tarbouch Mediterranean Grill,282,['Mediterranean'],3.0,$$,"['3110 Lee Hwy', 'Arlington, VA 22201']",VA
+257,6W1tSAyoEfdJ7KEDc3Bh5g,Lebanese Taverna Pentagon,410,"['Mediterranean', 'Lebanese']",3.5,$$,"['1101 S Joyce St', 'Arlington, VA 22202']",VA
+258,M9MhHHorL39Gf-Mz7N9oEA,Happy Eatery,118,"['Vietnamese', 'Coffee & Tea', 'Noodles']",4.0,$$,"['1800 N Lynn St', 'Arlington, VA 22209']",VA
+260,cB-GAIplNve2e_Mcah_H-g,IHOP,192,"['Breakfast & Brunch', 'American (Traditional)', 'Burgers']",3.0,$$,"['935 N Stafford St', 'Arlington, VA 22203']",VA
+261,zZTPVtT9DvTcrXAfMTj97Q,Samuel Beckett's Irish Gastro Pub,340,"['Gastropubs', 'Irish', 'Breakfast & Brunch']",3.5,$$,"['2800 S Randolph St', 'Ste 110', 'Arlington, VA 22206']",VA
+262,lFywbO1smpW6FSUS_E-Rkg,Abunai Food Truck,80,"['Food Trucks', 'Hawaiian']",4.5,$$,"['Arlington, VA 22209']",VA
+263,7T_TFk-c9CYazGbxg4reJA,Matchbox - Pentagon City,507,"['Pizza', 'American (New)', 'Breakfast & Brunch']",3.5,$$,"['1100 South Hayes St', 'Ste 20', 'Arlington, VA 22202']",VA
+266,S5ZUrtBv6w9XXZ9vz-sw-g,The Athena Pallas Restaurant,237,['Greek'],4.0,$$,"['556 22nd St S', 'Arlington, VA 22202']",VA
+268,lQhXiFpO2EE4iYKHNgiphg,Takeshi Sushi,70,"['Sushi Bars', 'Ramen']",4.0,$$,"['2424 Wilson Blvd', 'Ste A', 'Arlington, VA 22201']",VA
+269,1h496BqDuea1-YyJGW4eRg,Rincome,130,['Thai'],3.5,$$,"['3030 Columbia Pike', 'Arlington, VA 22204']",VA
+270,eq08BnR_-mAHlvFyNx79hw,Extreme Pizza,74,"['Pizza', 'Sandwiches', 'Salad']",4.0,$$,"['3444 Fairfax Dr', 'Arlington, VA 22201']",VA
+271,UMls2aIMa4oaaiEQCHSFtA,Thai Thai Restaurant,112,['Thai'],3.5,$$,"['5123 Lee Hwy', 'Arlington, VA 22207']",VA
+272,bB4PHDPtJbWvCFukIL83OA,European Foods Import Export,36,"['International Grocery', 'Brazilian']",4.5,$$,"['2700 Pershing Dr', 'Arlington, VA 22201']",VA
+274,QhaYkyUU5s3qAku62TI2bw,Glory Days Grill,150,"['Sports Bars', 'American (Traditional)', 'Chicken Wings']",4.0,$$,"['6341 Columbia Pike', 'Falls Church, VA 22041']",VA
+275,_V5Tlh35LrufRxobCWluaw,Crystal City Sports Pub,564,"['Sports Bars', 'American (Traditional)', 'Breakfast & Brunch']",3.5,$$,"['529 23rd St S', 'Arlington, VA 22202']",VA
+277,EHNiVm5eaya-21uaq1y42g,Urban Thai Restaurant,387,"['Thai', 'Asian Fusion']",3.5,$$,"['561 23rd St S', 'Arlington, VA 22202']",VA
+278,zPrtrXXFivNSBtqMpro4Kg,Taqueria el Poblano,248,"['Mexican', 'Bars']",3.5,$$,"['2401 Columbia Pike', 'Arlington, VA 22204']",VA
+279,BjMBr1TeKdG0YQKf0kqHhw,Moby Dick House of Kabob,107,"['Persian/Iranian', 'Middle Eastern', 'Mediterranean']",4.0,$$,"['444 W Broad St', 'Falls Church, VA 22046']",VA
+280,HY_V8Nqgc9yYpsmDQZ_YcQ,la Madeleine French Bakery & Cafe,196,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",3.0,$$,"['5861 Crossroads Center Way', ""Bailey's Crossroads, VA 22041""]",VA
+281,T1p76InvVVmpjNogsnUCoQ,Thai Treasure,77,"['Thai', 'Asian Fusion']",4.0,$$,"['3811 Fairfax Dr', 'Ste 105', 'Arlington, VA 22203']",VA
+282,ig3oLr_FbG6dp0i_QPFXoQ,La Granja De Oro,167,"['Peruvian', 'Latin American', 'Seafood']",3.5,$$,"['2920 Annandale Rd', 'Falls Church, VA 22042']",VA
+283,yTFVXVN2eKZKfxj3CGCQEg,Mexicali Blues,478,"['Mexican', 'Bars']",2.5,$$,"['2933 Wilson Blvd', 'Arlington, VA 22201']",VA
+284,9aRS4gKH8WStSuenG4dCDQ,Golden Buffet & Grill,161,"['Buffets', 'Sushi Bars', 'American (Traditional)']",3.5,$$,"['3490 S Jefferson St', 'Baileys Crossroad, VA 22041']",VA
+286,ietdFIjqKIcaJpVAv-RNTQ,Namaste Everest,95,"['Himalayan/Nepalese', 'Indian', 'Bars']",4.5,$$,"['1201 South Joyce St', 'Ste C003', 'Arlington, VA 22202']",VA
+287,1DdcntbDDPTKp48pD44sqQ,BGR The Burger Joint,327,['Burgers'],3.0,$$,"['3129 Lee Hwy', 'Arlington, VA 22201']",VA
+288,KoAVUN8hT8K6qOwWn0bPEA,Duck Chang's Restaurant,195,['Chinese'],4.0,$$,"['4427 John Marr Dr', 'Annandale, VA 22003']",VA
+289,Zpnl0cYW4B5Z2HH8dWroVw,The Portofino Restaurant,390,"['Italian', 'Seafood', 'Pasta Shops']",4.0,$$,"['526 23rd St S', 'Arlington, VA 22202']",VA
+290,lXzNZkxjYTPnq0xzZggDYA,Celebrity Delly,295,"['Delis', 'American (Traditional)', 'Breakfast & Brunch']",3.5,$$,"['7263 Arlington Blvd', 'Ste A', 'Falls Church, VA 22042']",VA
+291,YzwZvv5NBV5SM4t9RsXkMA,Shooter McGee's,335,"['Bars', 'Burgers', 'Comfort Food']",3.5,$$,"['5239 Duke St', 'Alexandria, VA 22304']",VA
+292,C_MnLpBWMCf2mk7nyT720Q,Taqueria El Poblano,192,"['Mexican', 'Bars']",3.0,$$,"['2503 N Harrison St', 'Arlington, VA 22207']",VA
+293,fQTFKXraQ25cVQakluo8Vg,Kyoto Japanese Restaurant,244,"['Sushi Bars', 'Japanese', 'Seafood']",4.0,$$,"['3676 King St', 'Alexandria, VA 22302']",VA
+296,usyxcAb8n-vF7Chm-K3ysg,Federico Ristorante Italiano,160,"['Bars', 'Italian']",4.5,$$,"['519 23rd St S', 'Arlington, VA 22202']",VA
+297,RYWCyp2ovDktgSwnR5Qmxw,Kabobistan,163,['Afghan'],4.5,$$,"['6920 Braddock Rd', 'Ste G', 'Annandale, VA 22003']",VA
+300,XvwfqkhqKPvkxiX7aSGcAA,Kimen Ramen Izakaya,172,"['Ramen', 'Izakaya']",4.0,$$,"['4217 John Marr Dr', 'Annandale, VA 22003']",VA
+301,uRFqL_zAnc0BfKv7pVHrMw,May Island,211,"['Japanese', 'Chinese', 'Sushi Bars']",4.0,$$,"['1669 N Quaker Ln', 'Alexandria, VA 22302']",VA
+302,YUheeff0UNbAgaJtZB7Nyw,Peking Pavilion Chinese Restaurant,87,['Chinese'],4.0,$$,"['2912 N Sycamore St', 'Arlington, VA 22207']",VA
+303,mLSAhqqaU1otru0XKa_CBg,Courthouse Kabob,50,"['Afghan', 'Halal']",4.5,$$,"['2045 Wilson Blvd', 'Arlington, VA 22201']",VA
+304,0YXk9EDAmqzicZTNPNdj3g,Anthony's Restaurant,151,"['Italian', 'Greek', 'Pizza']",3.5,$$,"['3000 Annandale Rd', 'Falls Church, VA 22042']",VA
+307,nHeldHOLQZ_WG7k_VwP8CA,Choong Man Chicken,153,"['Chicken Wings', 'Korean', 'Chicken Shop']",4.0,$$,"['7133 B Columbia Pike', 'Annandale, VA 22003']",VA
+310,jVCb5hgLxyYc1ocQUqSf5g,Bep Viet,51,['Vietnamese'],4.0,$$,"['3000 Annandale Rd', 'Falls Church, VA 22042']",VA
+311,aOk-D4bmvh7ADTeqrrgm4g,Masala Indian Cuisine,223,"['Indian', 'Himalayan/Nepalese', 'Buffets']",4.0,$$,"['1394 Chain Bridge Rd', 'McLean, VA 22101']",VA
+312,yUF0YS4BZakJX2SvmdfLZg,The Sushi Bar,318,['Sushi Bars'],4.0,$$,"['2312 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+313,Y-5oQPvctznCxMnKgZIlCg,Thai Food,205,['Thai'],4.0,$$,"['7031 Little River Tpke', 'Ste 2A', 'Annandale, VA 22003']",VA
+315,8S-qxX9ueCDR-dfeMfRQSw,Kazan Restaurant,180,"['Turkish', 'Mediterranean']",4.0,$$,"['6813 Redmond Dr', 'McLean, VA 22101']",VA
+317,5G8RyeiMpcyTPPu8PPSnEA,Ramparts,239,['American (Traditional)'],4.0,$$,"['1700 Fern St', 'Alexandria, VA 22302']",VA
+319,2y7lpW89nyosnANzDKFJ_Q,McNamara's Pub & Restaurant,68,"['American (Traditional)', 'Pubs', 'Irish']",5.0,$$,"['567 23rd St  South', 'Arlington, VA 22202']",VA
+320,ae4UYCb0Q0-h8OsRRdNrKw,Stone Hot Pizza,158,"['Pizza', 'Italian', 'Sandwiches']",3.5,$$,"['3829 S George Mason Dr', 'Falls Church, VA 22041']",VA
+321,irgFBxzwQSdzlKPLkOskBg,Poke It Up,78,"['Hawaiian', 'Poke']",4.5,$$,"['1100 S Hayes St', 'Arlington, VA 22202']",VA
+322,6gMLqYt0XKPdmQdDuvaEFA,Gom Ba Woo,163,['Korean'],4.0,$$,"['7133 Columbia Pike', 'Annandale, VA 22003']",VA
+323,0PRr2fENVx2m1rxETdWzvA,Gallery Cafe Ballston,13,"['Sandwiches', 'Salad', 'Coffee & Tea']",5.0,$$,"['1005 N Glebe Rd', 'Arlington, VA 22201']",VA
+324,1KhF30Xg244OQoiJY2emaQ,Olive Garden Italian Restaurant,266,"['Italian', 'Salad', 'Soup']",3.0,$$,"['3548 S Jefferson St', 'Falls Church, VA 22041']",VA
+325,DMaHvLsbAMOjp0WrttTriw,Filipino Global Supermarket,95,"['Grocery', 'Filipino', 'Imported Food']",3.5,$$,"['5509 Leesburg Pike', 'Falls Church, VA 22041']",VA
+326,nVINpydtT9CpQuUan2JU0g,Curry N Tandoori,65,"['Indian', 'Himalayan/Nepalese']",4.0,$$,"['6347-A Columbia Pike', 'Falls Church, VA 22041']",VA
+327,C89jH7R9eB0JlWewgKAGvQ,Evening Star Cafe,538,"['American (New)', 'Breakfast & Brunch']",3.5,$$,"['2000 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+328,CMWCxdVCMMffNG66FTeOYw,Copa Kitchen & Bar,91,"['Spanish', 'Sports Bars', 'American (New)']",3.5,$$,"['4238 Wilson Blvd', 'Ste 150', 'Arlington, VA 22203']",VA
+331,I21d0n07ca5sDcOrado3FQ,Mom's Pizza Restaurant,183,"['Pizza', 'Italian', 'Greek']",3.0,$$,"['3255 Columbia Pike', 'Arlington, VA 22204']",VA
+332,RRa4mm1ar_SGX1hQIn1Jtg,JV's Restaurant,69,"['American (Traditional)', 'Music Venues', 'Dive Bars']",4.0,$$,"['6666 Arlington Blvd', 'Falls Church, VA 22042']",VA
+333,46yMTo1kXCVFMYK3OuIxTg,Pho Deluxe Arlington,153,"['Vietnamese', 'Chinese', 'Salad']",3.5,$$,"['2300 Clarendon Blvd', 'Ste Rest', 'Arlington, VA 22201']",VA
+335,hJoBd1waeEXxHD2D0Ak4Ew,Nak Won Restaurant,209,['Korean'],4.0,$$,"['7315 Little River Tpke', 'Annandale, VA 22003']",VA
+336,kLzD0f8bH7QkfiP89b7tyA,Tanpopo Ramen House,373,"['Sushi Bars', 'Ramen']",3.5,$$,"['4316 Markham St', 'Annandale, VA 22003']",VA
+337,xn0lH5-C1FydaovrBp_M9w,Taqueria el Poblano,452,['Mexican'],3.5,$$,"['2400 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+339,b5lo5iWGRpqm3FopCKl_jA,Aroma Indian Cuisine,333,"['Indian', 'Halal']",3.5,$$,"['4044 Campbell Ave', 'Arlington, VA 22206']",VA
+340,2rBAHcTjWNUDdSpM3naVkg,Sweet Rice Thai Cuisine,179,['Thai'],3.5,$$,"['1113 W Broad St', 'Falls Church, VA 22046']",VA
+341,NG40ta9H5sV4rChMX5B4Mg,Essy's Carriage House,71,"['American (New)', 'Seafood', 'American (Traditional)']",4.0,$$,"['4030 Lee Hwy', 'Arlington, VA 22207']",VA
+342,HmGVvnY9PgAcGNsL-aARKg,Shake Shack,268,"['Burgers', 'Hot Dogs', 'Ice Cream & Frozen Yogurt']",3.5,$$,"['1100 S Hayes St', 'Space H25', 'Arlington, VA 22202']",VA
+343,FGcARBr3ngd8kGiuPY2nUw,Arlington Rooftop Bar and Grill,284,['American (Traditional)'],3.0,$$,"['2424 Wilson Blvd', 'Arlington, VA 22201']",VA
+344,1W5lv--XZhZ77yiERbyyLw,Fahrenheit Asian,421,"['Asian Fusion', 'Chinese', 'Ramen']",3.5,$$,"['1313 Dolley Madison Blvd', 'Ste 103', 'McLean, VA 22101']",VA
+346,gFEgqF_NExcOZ4iuVtwXvA,All About Burger,143,"['Cheesesteaks', 'Fast Food', 'Burgers']",3.0,$$,"['3325 Wilson Blvd', 'Arlington, VA 22201']",VA
+348,GqJUvn0QVfh1jHugQf1o4Q,Miyagi,312,['Sushi Bars'],3.5,$$,"['6719 Curran St', 'McLean, VA 22101']",VA
+350,vYscvV8AHW9V70WMznKOVQ,LongHorn Steakhouse,176,"['Steakhouses', 'Barbeque', 'American (Traditional)']",3.0,$$,"['3562 S Jefferson St', 'Falls Church, VA 22041']",VA
+351,zAJU6f3fI6lGm8EagA1vUA,Outback Steakhouse,173,['Steakhouses'],2.5,$$,"['4821 N 1st St', 'Arlington, VA 22203']",VA
+352,9v_T__0RkbrMMaIdbGnKkA,Hoa Vien Quán,24,['Vietnamese'],4.0,$$,"['6757 Wilson Blvd', 'Ste 17', 'Falls Church, VA 22044']",VA
+353,G4u2Yj8dFfvkoAcuyjTxrA,Bread & Kabob,75,"['Middle Eastern', 'Halal']",3.5,$$,"['3407 Payne St', 'Ste B', 'Falls Church, VA 22041']",VA
+354,VyXl3B9oAAlW2coWwFimjQ,Rice & Spice Thai Cuisine,222,"['Thai', 'Noodles', 'Soup']",3.5,$$,"['6244-K Little River Tpke', 'Alexandria, VA 22312']",VA
+355,qYt89GRyEBBEP29J4wF2Zw,Vinh Kee Restaurant,207,"['Dim Sum', 'Cantonese', 'Seafood']",3.5,$$,"['3103 Graham Rd', 'Ste D', 'Falls Church, VA 22042']",VA
+356,pPpLXPScdJZCvJPaoYgJog,Live Oak Restaurant,213,"['Southern', 'Bars', 'American (Traditional)']",4.0,$$,"['1603 Commonwealth Ave', 'Alexandria, VA 22301']",VA
+357,JYsSarQ2doiP8prkYum8rg,La Estancia Churrasqueria,118,"['Steakhouses', 'Argentine', 'Latin American']",4.0,$$,"['7810 Lee Hwy', 'Ste F', 'Falls Church, VA 22042']",VA
+358,ycZ-D5NwVAEw3xnQECkAVQ,Souvlaki Bar,258,"['Mediterranean', 'Greek']",4.0,$$,"['2732 Richmond Hwy', 'Alexandria, VA 22301']",VA
+360,bYUuoS5yTop77Ypbzius8Q,Shake Shack,61,"['American (Traditional)', 'Fast Food', 'Burgers']",3.5,$$,"['4201 Wilson Blvd', 'Ste 0180', 'Arlington, VA 22203']",VA
+362,jMGOQ8D2juwVNLxi8-twxw,L.A. Bar and Grill,105,"['American (Traditional)', 'Sports Bars', 'Tapas/Small Plates']",3.5,$$,"['2530 Columbia Pike', 'Arlington, VA 22204']",VA
+364,2mUvQB4aSk6P3S4l4prepg,CAVA,195,"['Mediterranean', 'Salad']",4.0,$$,"['4513 Duke St', 'Alexandria, VA 22304']",VA
+365,c_jX9LaXVOYIW7Q912mCow,Mylo's Grill,104,"['Greek', 'American (Traditional)']",4.0,$$,"['6238 Old Dominion Dr', 'McLean, VA 22101']",VA
+368,FRYVpxrGCZPQIGUy-qI_ZA,Pelicana Chicken,213,"['Korean', 'Chicken Wings']",3.5,$$,"['4219 John Marr Dr', 'Annandale, VA 22003']",VA
+369,ucuM3pG0FgyycdniKzsDxg,CAVA,41,"['Mediterranean', 'Salad']",4.0,$$,"['4121 Wilson Blvd', 'Arlington, VA 22203']",VA
+372,5bmoK5VHcw8ztvC1K0NeBg,Skyline Cafe,59,['Ethiopian'],4.0,$$,"['3821 S George Mason Dr', 'Falls Church, VA 22041']",VA
+373,PnPo-CuJ_y95FjiXGUUlNw,Italian Cafe,129,['Italian'],3.5,$$,"['7161 Lee Hwy', 'Falls Church, VA 22046']",VA
+375,U-bHA5hTKhpy6EPSMoNgiQ,Sora Ethiopian Market,55,"['Ethiopian', 'Breakfast & Brunch']",5.0,$$,"['5145-C Duke St', 'Alexandria, VA 22304']",VA
+377,LouNvrVzTA2eb68nIj-H5g,Caspi Restaurant and Lounge,75,"['Hookah Bars', 'Mediterranean', 'Turkish']",3.5,$$,"['2901 Columbia Pk', 'Arlington, VA 22204']",VA
+379,pI32DkXT3Y7hANGrRqP3bA,Bentley's Restaurant,126,"['Diners', 'American (Traditional)', 'Breakfast & Brunch']",3.0,$$,"['6654 Arlington Blvd', 'Falls Church, VA 22042']",VA
+380,eNnWo3f67SMUCO1WBNcsQg,Emessa Restaurant & Lounge,39,"['Hookah Bars', 'Mediterranean', 'Sports Bars']",4.0,$$,"['6315 Lessburg Pike', 'Falls Church, VA 22044']",VA
+381,XMTUhdNzl8wlcuHpNgJgzw,Fyve Restaurant Lounge,141,"['Breakfast & Brunch', 'American (Traditional)', 'Cocktail Bars']",4.0,$$$,"['1250 South Hayes St', 'Arlington, VA 22202']",VA
+384,mKMUqyrCuqzzDgXdI_Ttuw,Nua Haus,107,"['Sushi Bars', 'Thai']",4.0,$$,"['7203 Columbia Pike', 'Annandale, VA 22003']",VA
+386,mrOL91MP7oQUFUxBS5Uf3Q,Meggrolls,262,"['Food Trucks', 'Caterers', 'American (New)']",4.0,$$,"['107 N Fayette St', 'Alexandria, VA 22314']",VA
+387,cbQIfEwjj_XoD2akHJYyow,Thaiphoon at Pentagon Row,381,['Thai'],3.0,$$,"['1301 S Joyce St', 'Arlington, VA 22202']",VA
+388,HR8eAPKfc91VF3gJurp7bg,Bun’d Up,64,"['Taiwanese', 'Asian Fusion', 'Korean']",4.5,$$,"['1201 S Joyce St', 'Arlington, VA 22202']",VA
+389,OW7mNdPNDw0io3pSTp4k-A,San Miguel Cafe,59,['Salvadoran'],3.5,$$,"['5900 B Leesburg Pike', 'Falls Church, VA 22041']",VA
+390,Y8X4-X7l_fNQ4VIVTqeBjg,Bonefish Grill,261,['Seafood'],3.5,$$,"['1101 S Joyce St', 'Arlington, VA 22202']",VA
+391,AbvlM4YUKAZkUbvYLPAxiw,The Casual Pint,33,"['American (Traditional)', 'Gastropubs']",4.0,$$,"['6410 Arlington Blvd', 'Ste E', 'Falls Church, VA 22042']",VA
+392,7c8d-J4Uanf_1wDLu1fABA,Pike,58,['Latin American'],3.5,$$,"['4111 Columbia Pike', 'Arlington, VA 22204']",VA
+393,rVlo0etXlf9bSUSnHzhmWg,Saigon 1975 Vietnamese Restaurant,104,"['Vietnamese', 'Dim Sum', 'Noodles']",4.0,$$,"['7395-A Lee Hwy', 'Falls Church, VA 22042']",VA
+394,moYgvv0LXK6umAP6V9Ftrg,Taste of Eurasia,59,"['Bakeries', 'Pizza', 'Vegetarian']",5.0,$$,"['428 A Hume Ave', 'Alexandria, VA 22301']",VA
+396,uBWkmHJuf-HvxhEk00vNDQ,Portabellos An American Cafe,68,['American (New)'],3.5,$$,"['2109 N Pollard St', 'Arlington, VA 22207']",VA
+397,8ezHSFrtN2_msT-GiiNr_A,Chevys Fresh Mex,395,"['Mexican', 'Bars', 'Breakfast & Brunch']",3.5,$$,"['1201 S Hayes St', 'Arlington, VA 22202']",VA
+398,0y2nA6n5SD57j_w9bsJNIQ,Kovi Asian Street Food Kitchen,122,"['Food Trucks', 'Asian Fusion']",4.0,$$,"['2921 S Glebe Rd', 'Arlington, VA 22206']",VA
+399,UHyLjqhA1zjDTSzE-fEtIQ,Thirsty Bernie,187,"['American (Traditional)', 'Sports Bars', 'German']",3.0,$$,"['2163 N Glebe Rd', 'Arlington, VA 22207']",VA
+401,mL3kirxDpVPMq_tH2LFFPQ,Continental Modern Pool Lounge,251,"['Pool Halls', 'Sports Bars', 'American (Traditional)']",3.5,$$,"['1911 N Fort Myer Dr', 'Arlington, VA 22209']",VA
+402,NWfQ7TcRRgL4oMhmIA_ZfQ,Checheho Ethiopian Restaurant,45,['Ethiopian'],4.0,$$,"['5820 Seminary Rd', 'Falls Church, VA 22041']",VA
+403,GZM_uk3Gw7jM-UYKq9n0Lw,Ichi Ban Sushi Restaurant,210,['Sushi Bars'],4.0,$$,"['6821A Old Dominion Dr', 'McLean, VA 22101']",VA
+404,wtNS0dESG5nK-qln45a_yQ,Rien Tong Sushi & Asian,204,"['Thai', 'Chinese', 'Sushi Bars']",3.0,$$,"['3131 Wilson Blvd', 'Arlington, VA 22201']",VA
+407,DDvUaLqH1UrC4d9iljGsZg,Pork Barrel BBQ,507,['Barbeque'],3.5,$$,"['2312 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+410,xtHuX8YebKYJQwEWpzEi4A,Tasteful Delight Chinese Cafe,232,['Chinese'],3.5,$$,"['1301 S Joyce St', 'Arlington, VA 22202']",VA
+411,3GKU7INk1pPFovMlygIQXA,Ga Bo Ja,147,"['Sushi Bars', 'Korean', 'Japanese']",4.0,$$,"['7119 Columbia Pike', 'Annandale, VA 22003']",VA
+412,4lzyNwhyU4DeZsnNJBJqrg,Ethio Cafe,25,"['Coffee & Tea', 'Ethiopian']",4.5,$$,"['3045 Columbia Pike', 'Ste A', 'Arlington, VA 22204']",VA
+413,BK-qZTEqJ0f8-As3pVsD0Q,Pho 95's,113,"['Vietnamese', 'Soup', 'Noodles']",4.0,$$,"['265 S Van Dorn St', 'Alexandria, VA 22304']",VA
+414,HW-gpOQZtkZ2y-1xn-76Tw,Chiang Mai Thai Cookhouse,79,['Thai'],4.5,$$,"['6813 Elm St', 'McLean, VA 22101']",VA
+415,WuRzdGAqDXI18BVT_54Uqw,Simply Fresh,111,"['Mediterranean', 'Breakfast & Brunch', 'American (Traditional)']",4.0,$$,"['6811 Elm St', 'McLean, VA 22101']",VA
+416,thhvcUzF1Y3o8TKzbIvbAg,Cafe Aurora,119,"['Breakfast & Brunch', 'African', 'Italian']",4.0,$$,"['50 S Pickett St', 'Ste 24', 'Alexandria, VA 22304']",VA
+417,T-aPLxSPZq0ju-GtJ2jgTA,Dos Amigos,246,"['Tex-Mex', 'Latin American', 'Mexican']",4.0,$$,"['535 E Braddock Rd', 'Alexandria, VA 22314']",VA
+419,07NB7vLf_z9Sm4VW1Xx2KQ,Asia Bistro,251,"['Asian Fusion', 'Sushi Bars', 'Bars']",3.5,$$,"['1301 S Joyce St', 'Ste D7', 'Arlington, VA 22202']",VA
+420,5QyQ0dLhXzKLaGhzUDQbqg,Bastille Brasserie and Bar,317,"['French', 'American (New)', 'Cocktail Bars']",4.0,$$$,"['606 N Fayette St', 'Alexandria, VA 22314']",VA
+422,uTkqqhj5JBIdkrPqWiCUzg,Hibachi Grill & Supreme Buffet,76,"['Asian Fusion', 'Buffets']",3.0,$$,"['5900 Leesburg Pike', 'Falls Church, VA 22041']",VA
+423,6dd27ChtFwUuPNj5BhPizg,Del Ray Pizzeria,366,"['Pizza', 'Sports Bars', 'Breakfast & Brunch']",3.5,$$,"['2218 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+426,gxVJkK378ShwyDLSoCCNlQ,DC Steakholder and 1950s Creamery,53,"['Burgers', 'Cheesesteaks', 'Chicken Wings']",3.5,$$,"['6641 Arlington Blvd', 'Falls Church, VA 22042']",VA
+427,_XqCndSJYjJSW5cjZ3-EoQ,Maneki Neko Express,55,"['Japanese', 'Sushi Bars']",3.5,$$,"['3813 Lee Hwy Arlington', 'Arlington, VA 22207']",VA
+428,xrjyatj0DpaPRZX2BcFm4Q,Pizza Walay,34,"['Pizza', 'Chicken Wings', 'Sandwiches']",4.0,$$,"['5505 Leesburg Pike', 'Falls Church, VA 22041']",VA
+430,NGDCNhin4mVZTqBzU1cQuQ,The Commentary,23,"['Bars', 'Breakfast & Brunch', 'Desserts']",4.0,$$,"['801 N Glebe Rd', 'The Westin Arlington Gateway', 'Arlington, VA 22203']",VA
+431,IGik05PPfYSBMur7K09N9Q,Pho Huy,118,['Vietnamese'],4.0,$$,"['4527 Duke St', 'Alexandria, VA 22304']",VA
+432,3dHA4KX8_5Mz3VM3_0UjmQ,Red Holic,221,"['Korean', 'Chicken Wings']",3.5,$$,"['7123 Little River Tpke', 'Annandale, VA 22003']",VA
+433,xjogbem2t1LFniZ4Qq8OrQ,Sushi Garden,100,['Sushi Bars'],4.0,$$,"['1680 Crystal Sq Arc', 'Arlington, VA 22202']",VA
+434,HnieWXrwCa7fyZ259x7OFg,Taj Of India,219,"['Indian', 'Seafood']",3.5,$$,"['509 S 23rd St', 'Arlington, VA 22202']",VA
+435,UYJYh271waRBov_I3j0rUQ,Lost Dog Cafe,346,"['Pizza', 'Sandwiches', 'Cafes']",3.5,$$,"['1690 Anderson Rd', 'McLean, VA 22102']",VA
+437,TAokp6D04Hb0ikRmod17Lg,Fatouche,80,"['Middle Eastern', 'Mediterranean', 'Sandwiches']",4.0,$$,"['1109 W Broad St', 'Falls Church, VA 22046']",VA
+438,rB4oPbl4NX5Z5X9BhFhyxw,Zoes Kitchen,149,"['Mediterranean', 'Greek', 'Sandwiches']",3.5,$$,"['3644 King St', 'Alexandria, VA 22302']",VA
+439,eNm7X2_n3pkfV52MvxgJvA,Los Toltecos,367,['Mexican'],3.5,$$,"['4111 Duke St', 'Alexandria, VA 22304']",VA
+441,CTl1LgjVqXaADGmBToI6Dg,Bread & Water Company,280,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",4.0,$$,"['1512 Belle View Blvd', 'Alexandria, VA 22307']",VA
+443,irNaK7wXiwKn493_6XfTCA,Dama Ethiopian Restaurant Pastry & Cafe,73,"['Ethiopian', 'Bakeries', 'Cafes']",4.0,$$,"['6669 Little River Tpke', 'Annandale, VA 22003']",VA
+444,ZXQS5aP1uWIOELg-xviPPw,Silpancho’s House,45,['Latin American'],4.5,$$,"['3401 Mt Vernon Ave', 'Alexandria, VA 22305']",VA
+445,YRbOIMa1Xsl9quY1YVDYtQ,Junction Bakery & Bistro,290,"['Bakeries', 'Cafes']",3.5,$$,"['1508 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+448,GOzbZMHNBOlr8uIXCjmEqA,Buffalo Wild Wings,418,"['Chicken Wings', 'Sports Bars', 'American (Traditional)']",2.0,$$,"['950 N Glebe Rd', 'Ste 130', 'Arlington, VA 22203']",VA
+449,4BCrQEcU98J-iRUyE3x7Tg,California Pizza Kitchen at Pentagon Center,250,"['Pizza', 'American (New)', 'Salad']",3.5,$$,"['1201 S Hayes St', 'Ste F', 'Arlington, VA 22202']",VA
+450,DFFNcdDOpxVxLqz0vwN4_g,Five Guys,37,"['Burgers', 'Fast Food']",3.5,$$,"['6134 Arlington Blvd', 'Ste A', 'Falls Church, VA 22044']",VA
+451,2XLb692Q4OEjKE-VvJdoZg,Foxfire Grill,205,"['Wine Bars', 'American (Traditional)']",3.5,$$,"['6550 Little River Tpke', 'Alexandria, VA 22312']",VA
+452,fFaslXsd-W5sWFNUib0Q5g,Thai Select,76,"['Thai', 'Seafood', 'Noodles']",4.0,$$,"['1713 Wilson Blvd', 'Arlington, VA 22209']",VA
+453,lNAwP-C_KalCGTlvIErmGA,Kaizen Tavern,153,"['Sushi Bars', 'Tacos', 'Asian Fusion']",4.0,$$,"['1909 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+455,Zyo-u22jJzDmKmuCEBSaNA,Hops N Shine,96,"['American (Traditional)', 'Beer Bar']",4.0,$$,"['3410 Mt Vernon Ave', 'Alexandria, VA 22305']",VA
+457,WqMCacZUMYXU_sKsxeisQQ,&pizza - Potomac Yard,117,"['Pizza', 'Vegan', 'Vegetarian']",4.0,$$,"['3525 Jefferson Davis Hwy', 'Alexandria, VA 22305']",VA
+458,ovHz_mrYSL6FYp1_1gb5Ow,Rosemarino D'Italia,171,"['Italian', 'Salad', 'Seafood']",4.0,$$,"['1905 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+459,VQX70I5uYCCv1VAFbmM2TQ,Al's Steak House,287,"['Sandwiches', 'Steakhouses', 'Pizza']",3.5,$$,"['1504 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+461,h7zHYM8LbPWmXx0ZEqOOAw,Seoul Soondae Restaurant,144,['Korean'],3.5,$$,"['4231 Markham St', 'Ste L', 'Annandale, VA 22003']",VA
+462,pCMTgw8vV5d7pObigutzxw,sweetgreen,53,"['Salad', 'Vegetarian']",3.5,$$,"['3100 Clarendon Blvd', 'Arlington, VA 22201']",VA
+463,Pk6tdh-nyLfSeloTHwhhRQ,Assaggi Pizzeria,195,"['Pizza', 'Italian', 'Wine Bars']",3.5,$$$,"['6641 Old Dominion Dr', 'McLean, VA 22101']",VA
+466,3GvNa-Cw5ItkDkBYXkv2yA,Fairouz Mediterranean Cafe,98,"['Middle Eastern', 'Mediterranean', 'Hookah Bars']",3.0,$$,"['3815 S George Mason Dr', 'Ste A', 'Falls Church, VA 22041']",VA
+467,YOoOOlKOvaj-EUIK7X0dtw,Skydome Lounge,334,"['Lounges', 'American (New)']",3.0,$$$,"['300 Army Navy Dr', 'Arlington, VA 22202']",VA
+469,_CrMNI8OC9trgBIsRZWG7w,Los Tios Grill,189,"['Salvadoran', 'Mexican', 'Tex-Mex']",3.5,$$,"['241 S Van Dorn St', 'Alexandria, VA 22304']",VA
+470,zn8qToXPwUlq0NmXPGcxIw,Mason Social,357,"['American (New)', 'Breakfast & Brunch', 'Cocktail Bars']",3.5,$$,"['728 N Henry St', 'Alexandria, VA 22314']",VA
+471,fOyFkyK6JVx3QrIVXZaVCw,Kanpai,221,"['Sushi Bars', 'Japanese']",3.0,$$,"['1401 Wilson Blvd', 'Arlington, VA 22209']",VA
+472,z_R_yycwLPD79_7Sx75iIg,Annangol Restaurant,117,"['Korean', 'Barbeque']",3.5,$$,"['4215 Tom Davis Dr', 'Annandale, VA 22003']",VA
+476,yzfE1NLzzlkcM_yrRZHyzg,Top Thai Restaurant And Sushi Bar,266,"['Thai', 'Desserts', 'Noodles']",3.5,$$,"['523 23rd St S', 'Arlington, VA 22202']",VA
+477,q0jxCB5XyLztdETdyXk7Xg,Fanny's Restaurant,22,['Latin American'],4.0,$$,"['436 S Washington St', 'Falls Church, VA 22046']",VA
+478,PY9Jht6G3g2l-cte-Uu08g,SOCCi,144,"['Bars', 'Italian', 'Breakfast & Brunch']",3.5,$$,"['2800 S Potomac Ave', 'Arlington, VA 22202']",VA
+479,DUTwIMBrsWeYIBcevLuf5A,Abay Market,19,['Ethiopian'],4.5,$$,"['3811 S George Mason Dr', 'Falls Church, VA 22041']",VA
+480,0Hj563er51egDGws86bsaA,Streets Market & Cafe,88,"['Grocery', 'Fruits & Veggies', 'Asian Fusion']",4.0,$$,"['3108 Mt Vernon Ave', 'Alexandria, VA 22305']",VA
+481,RPaHteIm3y2m1TefQ6qfcg,Release the Craycken,90,"['Chicken Shop', 'Seafood', 'Korean']",4.0,$$,"['4231-R Markham St', 'Annandale, VA 22003']",VA
+483,qacsmIcFzSFknjf3TWoTRw,La Casa Pizzeria Restaurant,154,"['Italian', 'Greek', 'Mediterranean']",3.5,$$,"['4551 Duke St', 'Alexandria, VA 22304']",VA
+485,HlXOf95kOhnjjgZtGd5H1w,Huascaran,65,"['Latin American', 'Breakfast & Brunch']",4.0,$$,"['3606 Mount Vernon Ave', 'Alexandria, VA 22305']",VA
+486,SAhVZNr1BPRL7etO88oXkw,Pho Cong Ly Noodle & Grill,220,"['Vietnamese', 'Noodles']",3.5,$$,"['6920-I Braddock Rd', 'Annandale, VA 22003']",VA
+487,mzw-hyEjODeq_PzxQ1hCXQ,Crystal Bonsai Sushi,195,"['Sushi Bars', 'Japanese']",3.5,$$,"['553 23rd St S', 'Arlington, VA 22202']",VA
+488,YZAPpxw3DBCMttP4jYJ62g,Han Gang Korean Restaurant,189,['Korean'],3.5,$$,"['7243 Little River Tpke', 'Annandale, VA 22003']",VA
+490,VO1jnrYSGFCGXxYHdu1r8w,Royal Palace Kabob,158,['Pakistani'],3.5,$$,"['6301 Little River Tpke', 'Ste 140', 'Alexandria, VA 22312']",VA
+491,bAwpBpDPLPmnMbGah56D7Q,Luzmila's Cuisine,80,['Latin American'],3.0,$$,"['809 W Broad St', 'Falls Church, VA 22046']",VA
+492,SGWppzSw4AG2S9KIO1U_uw,Bowl America - Falls Church,142,"['Bowling', 'Fast Food', 'Arcades']",2.5,$$,"['140 S Maple Ave', 'Falls Church, VA 22046']",VA
+494,Tx9GMUeOhBRorXPnDdqX4g,Dudley’s Sport And Ale,135,"['Sports Bars', 'American (Traditional)', 'Pizza']",3.5,$$,"['2766 S Arlington Mill Dr', 'Arlington, VA 22206']",VA
+496,gCeneucuyT1dhVQIaZL7cw,Z Kabob,109,['Middle Eastern'],3.0,$$,"['3531 S Jefferson St', 'Falls Church, VA 22041']",VA
+497,cEvKCWsiFHeKfeHXd0kXoA,DaMoim,110,['Korean'],3.5,$$,"['7106 Columbia Pike', 'Annandale, VA 22003']",VA
+500,SImt36ZuSsFj_DkRODrT9w,Zen Bistro & Wine Bar,170,"['Wine Bars', 'Asian Fusion', 'Sushi Bars']",3.0,$$,"['1301 S Joyce St', 'Ste D9', 'Arlington, VA 22202']",VA
+502,tsZ3vMfruhyV093Q4xOrbw,BBQ Chicken Falls Church,114,"['Chicken Wings', 'Korean', 'Beer Bar']",3.5,$$,"['7115 Leesburg Pike', 'Ste 107', 'Falls Church, VA 22043']",VA
+503,WwH4ze5vmhv7BbMP6hvQkw,Victor's Grill,175,"['Argentine', 'Steakhouses', 'Latin American']",3.5,$$,"['7634 Lee Hwy', 'Falls Church, VA 22042']",VA
+504,0As7hVpP5ZbVhmh8SKqYpQ,Ledo Pizza,166,"['Pizza', 'Chicken Wings', 'Italian']",3.5,$$,"['7510 Leesburg Pike', 'Falls Church, VA 22043']",VA
+505,IoECU8BMorDtuTvRjydE5w,Capriotti's Sandwich Shop,114,['Sandwiches'],3.5,$$,"['1500 Wilson Blvd', 'Rosslyn, VA 22209']",VA
+506,5ElzoNKMf9IC-0BGVuGdjA,El Tio Tex Mex Grill,167,['Tex-Mex'],3.5,$$,"['1433 Center St', 'McLean, VA 22101']",VA
+507,_QFi5D2gwVoL3CL8WjcLbQ,Khan Japanese Kitchen & Bar,67,"['Japanese', 'Korean', 'Bars']",4.0,$$,"['4231 Markham St', 'Ste A', 'Annandale, VA 22003']",VA
+509,JSVn1Jo1RJ2TY8RgqY7Ycw,Jang Won Ban Jum - Annandale,189,"['Chinese', 'Korean']",3.0,$$,"['4210 John Marr Dr', 'Annandale, VA 22003']",VA
+510,DAZ5EXSUzsV8Zkc6rcGYKg,Open Road - Rosslyn,33,"['American (Traditional)', 'Breakfast & Brunch', 'Desserts']",4.5,$$,"['1201 Wilson Blvd', 'Ste 213', 'Arlington, VA 22209']",VA
+511,f13HXS7iGr-0oOKXEP63LQ,Dain Cafe & Karaoke,104,"['Karaoke', 'Cafes']",3.5,$$,"['7220-B Columbia Pike', 'Annandale, VA 22003']",VA
+512,uOBwCbJuFsFynqw68OJcJQ,La Bettola Italiano,207,"['Italian', 'Pizza', 'Salad']",3.5,$$,"['558 23rd St S', 'Arlington, VA 22202']",VA
+514,LyA773Nb0MYa_SquUpd_gg,Kabab King,45,"['Indian', 'Chinese', 'Halal']",3.5,$$,"['5701 Columbia Pike', 'Falls Church, VA 22042']",VA
+517,JzWuQeo2vkta9uW8rsUEqw,McLean Family Restaurant,165,"['Greek', 'Breakfast & Brunch', 'American (Traditional)']",3.5,$$,"['1321 Chain Bridge Rd', 'McLean, VA 22101']",VA
+518,uHJIAwR5t_SJ3tsNUKY4Jg,Nando's Peri-Peri,72,"['Chicken Shop', 'South African', 'Portuguese']",3.5,$$,"['1800 N Lynn St', 'Ste 100', 'Arlington, VA 22209']",VA
+521,gC8P69Fd4rBd4M1iwGuoyw,China Express,86,"['Chinese', 'Soup', 'Vegetarian']",3.0,$$,"['3303 Lee Hwy', 'Arlington, VA 22207']",VA
+522,urZFh5k2lTbbbteLcAdHzw,New Star Asian Bistro,99,['Asian Fusion'],3.5,$$,"['6222 Old Dominion Dr', 'McLean, VA 22101']",VA
+523,ObrKy9g0O-Ga-CVbesYJ3w,The Greek Taverna,105,"['Greek', 'Mediterranean']",4.0,$$,"['6828 Old Dominion Dr', 'Ste C', 'McLean, VA 22101']",VA
+524,1pxkg3o9fRPDDYtWIXEpyQ,Dunya Banquet & Restaurant,171,"['Afghan', 'Venues & Event Spaces']",3.5,$$,"['5951 Stevenson Ave', 'Alexandria, VA 22304']",VA
+525,3Qd1At4B4DGnz242YVdOWg,Los Tios Grill,76,"['Salvadoran', 'Mexican']",4.0,$$,"['515 23rd St S', 'Arlington, VA 22202']",VA
+526,289_Y_bV6p_Ej1bfBOKvow,Halalco Supermarket,49,"['Meat Shops', 'Halal', 'International Grocery']",3.0,$$,"['5918B Leesburg Pike', 'Falls Church, VA 22041']",VA
+527,HIloo3tfo-tymoif_izzPg,Burger 7,257,"['Burgers', 'American (Traditional)', 'Hot Dogs']",3.0,$$,"['4533 Duke St', 'Alexandria, VA 22304']",VA
+529,Bmko0huhiKxzZ0qL6EnJ3Q,Thai Peppers,190,['Thai'],3.5,$$,"['2018 Mount Vernon Ave', 'Alexandria, VA 22301']",VA
+530,tm_K_lwLp7ejq5qOkkee4Q,Finn & Porter Restaurant,121,"['Sushi Bars', 'Seafood', 'Steakhouses']",3.0,$$,"['5000 Seminary Rd', 'Inside the Hilton', 'Alexandria, VA 22311']",VA
+531,omX1dAMKrnB-JKfMDq8AbA,Andalusia Hookah Bar & Lounge,132,"['Hookah Bars', 'Mediterranean', 'Cocktail Bars']",3.5,$$,"['525 23rd St S', 'Arlington, VA 22202']",VA
+532,okdX4HkfkEGDHFgPF1bh3w,Fillmore Pizza,32,"['Chicken Wings', 'Pizza', 'Sandwiches']",3.5,$$,"['5175 Lee Hwy', 'Arlington, VA 22207']",VA
+533,ZfsSyCt7q_1JUbYEE46PEw,Pasa Thai,155,['Thai'],3.5,$$,"['1315 Old Chain Bridge Rd', 'Mclean, VA 22101']",VA
+535,S_KX4pHfvJYIsf98FWQuUQ,Greenberry's Coffee,142,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",3.5,$$,"['6839 Redmond Dr', 'McLean, VA 22101']",VA
+536,rXvZSpiyC9eGkBIsCE-jiA,Yong Kang Street - Dumpling & Noodle House,106,"['Chinese', 'Taiwanese', 'Noodles']",3.5,$$,"['1100 S Hayes St', 'Arlington, VA 22202']",VA
+537,168vYKa25HDg160s8aE0Iw,Moby Dick House of Kabob,178,"['Middle Eastern', 'Persian/Iranian', 'Mediterranean']",3.5,$$,"['6854 Old Dominion Dr', 'McLean, VA 22101']",VA
+538,jFEeT8PLB7Vv9Xdh7hgimw,Grand Hunan,63,['Chinese'],3.0,$$,"['5845 Washington Blvd', 'Arlington, VA 22205']",VA
+539,LTz29cvKS7jbtANpcstI9w,Tasty Dumpling,53,['Chinese'],4.0,$$,"['1112 W Broad St', 'Falls Church, VA 22046']",VA
+540,rnOzcG7h1qgLSeTEeCDcpg,Tempo Restaurant,107,"['French', 'Italian']",3.5,$$,"['4231 Duke St', 'Alexandria, VA 22304']",VA
+541,8Ki7ZhhJZqFTUGcPmLutUA,Tara Thai,268,"['Thai', 'Noodles', 'Soup']",3.0,$$,"['7501 Leesburg Pike', 'Falls Church, VA 22043']",VA
+542,f1OmNnWqwVxERhZoLSTGpg,Lacay Cholon,27,"['Vietnamese', 'Seafood']",3.5,$$,"['6793 Wilson Blvd', 'Falls Church, VA 22044']",VA
+543,s3EwnVaXYWBGPE-vRDsBqg,Rocco's Italian Restaurant,141,['Italian'],3.5,$$,"['1357 Chain Bridge Rd', 'McLean, VA 22101']",VA
+544,eAHsK58qGKMefgcaJYvHiQ,Starnut Gourmet,70,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",4.0,$$,"['1445 Laughlin Ave', 'McLean, VA 22101']",VA
+545,TqqEbI19SmUEWo_tnZslIA,Iron Age,182,"['Korean', 'Barbeque']",3.0,$$,"['7031 Little River Turnpike', 'Ste 3A', 'Annandale, VA 22003']",VA
+546,8p4dKn4ar0nmWf7DqHVNCw,Listrani's McLean,104,"['Italian', 'Pizza']",4.0,$$,"['6808 Old Dominion Dr', 'Mc Lean, VA 22101']",VA
+549,B1VdsSx3RyZ6IL5Ybjdv6w,Buffalo Wild Wings,235,"['Chicken Wings', 'Sports Bars', 'American (Traditional)']",2.0,$$,"['5275 Leesburg Pike', 'B', ""Bailey's Crossroads, VA 22041""]",VA
+551,GgGkgLmiZ8xx4fqXtTYttg,Citipizza,38,['Pizza'],3.5,$$,"['5127 Lee Hwy', 'Arlington, VA 22207']",VA
+552,tAlktE7ydFLrtOesY_jC3Q,Szechuan Star,88,['Chinese'],4.0,$$,"['6960-H Braddock Rd', 'Annandale, VA 22003']",VA
+555,GkeAIHinPtJ82J6U9uNKww,H Mart - Annandale,124,"['Grocery', 'Korean', 'Seafood Markets']",3.5,$$,"['7885 Heritage Dr', 'Annandale, VA 22003']",VA
+556,U3mRaQMoQDzCogLB3hIDEA,Halal Kabab House,112,['Middle Eastern'],3.5,$$,"['6245 Little River Tpke', 'Alexandria, VA 22312']",VA
+558,6RY_CJETYZK7ZZHK7YQ7iQ,Five Guys,72,"['Fast Food', 'Burgers']",3.5,$$,"['6546 Little River Tpke', 'Annandale, VA 22312']",VA
+559,Zxt_F8I9zWh1YofN3Pl1Rw,Pulcinella Italian Host,171,['Italian'],3.5,$$,"['6852 Old Dominion Dr', 'McLean, VA 22101']",VA
+560,k3GbLvsOYBDIob0vasYpVg,Punch Bowl Social Arlington,403,"['American (New)', 'Gastropubs', 'Eatertainment']",3.5,$$,"['4238 Wilson Blvd', 'Ste 1180', 'Arlington, VA 22203']",VA
+561,HJmUFmzfnZhzsy3vptQJSg,Justa's Chicken,113,"['Peruvian', 'Latin American', 'Seafood']",3.5,$$,"['4711 N Chambliss St', 'Alexandria, VA 22312']",VA
+562,osOzhaYfAHtiacbeBJOutQ,Sardis Pollo A La Brasa,38,"['Peruvian', 'Salad', 'American (Traditional)']",3.5,$$,"['1480 N Beauregard St', 'Alexandria, VA 22311']",VA
+563,bepNpGqITi-1A90Se6DkqA,Shanghai Peking,270,['Chinese'],3.5,$$,"['506 N Henry St', 'Alexandria, VA 22314']",VA
+564,G6KPSbdaVNFPyJZN_MyAkA,Bonchon Annandale,334,"['Korean', 'Chicken Wings', 'Asian Fusion']",2.5,$$,"['7215 Columbia Pike', 'Annandale, VA 22003']",VA
+565,gJHZ1Ze-iioIubaiz_NyLA,Samurai Hibachi and Sushi Bar,179,"['Japanese', 'Sushi Bars']",3.0,$$,"['4603 Duke St', 'Alexandria, VA 22304']",VA
+567,_VowG86LD5yDayijhZHf2Q,Cafe Pizzaiolo,224,"['Pizza', 'Breakfast & Brunch', 'Cafes']",3.0,$$,"['1623 Fern St', 'Alexandria, VA 22302']",VA
+568,vRg9QAxXgMaB3Q-55_DFBQ,Alley Cat,117,"['Karaoke', 'Sports Bars', 'American (Traditional)']",3.5,$$,"['2 S Whiting St', 'Alexandria, VA 22304']",VA
+570,_DfnQWpl6cAKkYh4DzDkuw,TGI Fridays,259,['American (Traditional)'],2.0,$$,"['4650 King St', 'Alexandria, VA 22302']",VA
+571,q9ciiCbkr5KQQal26G87BA,Panera Bread,84,"['Sandwiches', 'Salad', 'Soup']",2.5,$$,"['450 W Broad St', 'Falls Church, VA 22046']",VA
+572,D8xj3nfxeWKLINwoSzy-vA,Monterey's Pizza,212,"['Pizza', 'Salad']",3.5,$$,"['1000 N Fayette St', 'Alexandria, VA 22314']",VA
+573,9cnH99ZmhWDXsrulLr1-ew,Bella Napoli,137,['Italian'],3.5,$$,"['1310 Mt Vernon Ave', 'Alexandria, VA 22301']",VA
+574,kg9hZyx9nfx6ahzy_mtaOw,Jangteo 7080,55,['Korean'],3.5,$$,"['7118 Columbia Pike', 'Annandale, VA 22003']",VA
+577,R_KQM8h4T6_xFz2UA5MfYQ,Moby Dick House of Kabob,67,"['Persian/Iranian', 'Mediterranean', 'Middle Eastern']",3.5,$$,"['4037 Campbell Ave', 'Arlington, VA 22206']",VA
+578,x49PumZbjzkPWgg7MCrOjQ,Ambasel Ethiopian Restaurant and lounge,15,['Ethiopian'],4.0,$$,"['5820 Seminary Rd', 'Unit D', 'Falls Church, VA 22041']",VA
+579,F00k6FdB46IvJBJHjGrTXw,Red Tomato Pizzeria,86,['Pizza'],3.5,$$,"['1327 Chain Bridge Rd', 'McLean, VA 22101']",VA
+580,DuHd8WHs2FLb9slr-9rm0w,Wing Zone,152,"['Chicken Wings', 'Sandwiches', 'Burgers']",3.0,$$,"['4110 Mt Vernon Ave', 'Alexandria, VA 22305']",VA
+581,8Mgg9SUs-V-TKc878bNI8Q,Cafe Tatti,56,"['French', 'Modern European']",4.0,$$,"['6627 Old Dominion Dr', 'McLean, VA 22101']",VA
+582,KQdcYbU15uqELEDzDXnR-w,Sorak Garden Restaurant,197,['Korean'],3.0,$$,"['4308 Backlick Rd', 'Annandale, VA 22003']",VA
+584,6m_HXdnRc2txKD_QDEp_Mw,Pizza Pie Me,61,"['Pizza', 'Sandwiches', 'Salad']",3.5,$$,"['2249 S Shirlington Rd', 'Arlington, VA 22206']",VA
+586,NgvRug38THRYkl-5lfFrGg,Wingstop,92,['Chicken Wings'],2.5,$$,"['3521 S Jefferson St', ""Bailey's Crossroads, VA 22041""]",VA
+587,qWiso6-BDyKn8MmIv7EoQg,sweetgreen,81,"['Salad', 'Vegetarian']",3.5,$$,"['575 12th Rd S', 'Ste B2', 'Arlington, VA 22202']",VA
+590,cLYbCGYelKwc9PbyFufw3g,Vocelli Pizza,94,"['Pizza', 'Italian']",2.5,$$,"['2626 N Pershing Dr', 'Arlington, VA 22201']",VA
+591,YjTvFQbryT_ceXVsIuH6zg,Toppers Pizza,72,"['Pizza', 'Chicken Wings']",3.5,$$,"['3827 Mount Vernon Ave', 'Alexandria, VA 22305']",VA
+592,1gMAZ6IQfJv09Q6V5Rvxog,Marketplace Cafe,68,"['American (New)', 'Cafes']",3.5,$$,"['1400 S Hayes St', 'Arlington, VA 22202']",VA
+594,YNfvjZ8_W0GR2g72ijhUCw,CAVA,58,"['Mediterranean', 'Salad']",3.5,$$,"['1445 Chain Bridge Rd', 'McLean, VA 22101']",VA
+597,S1McIXJNoyuKP6gwmsbr0w,Mark's Pub,66,"['Pubs', 'American (Traditional)']",3.5,$$,"['2190 Pimmit Dr', 'Falls Church, VA 22043']",VA
+598,Yw4J6YfYJu6JDq37DlEE_g,sweetgreen,33,"['Salad', 'Vegetarian']",4.0,$$,"['1800 N Lynn St', 'Arlington, VA 22209']",VA
+599,x6yZc3A_981UmRTVwMAa9w,CAVA,84,"['Mediterranean', 'Salad']",3.5,$$,"['3525 Jefferson Davis Hwy', 'Alexandria, VA 22305']",VA
+600,_6zGdL87MIAvkjsiGoM8vQ,Joong Banjum,95,['Korean'],3.5,$$,"['7630 Little River Tpke', 'Annandale, VA 22003']",VA
+601,wToePr5zAnT40Ml5drZiyw,"Fairouz Lounge, Sports Bar & Restaurant",31,"['Sports Bars', 'Hookah Bars', 'Middle Eastern']",3.5,$$,"['3815 S George Mason Dr', 'Unit A', 'Falls Church, VA 22041']",VA
+602,3lGCvzifJOhRalan2tw-OA,Good Fortune Chinese Restaurant,88,['Chinese'],2.5,$$,"['3209 Columbia Pike', 'Arlington, VA 22204']",VA
+603,58bq4gGkB8YdBVo_kEtTEg,Cafe Oggi,66,['Italian'],3.5,$$$,"['6671 Old Dominion Dr', 'McLean, VA 22101']",VA
+604,k69DRM5aepfZNF4w6EpJ3w,Young Chow,170,['Chinese'],3.0,$$,"['420 23rd St S', 'Arlington, VA 22202']",VA
+605,s8wKMExrpD7qbnhpg6czCg,Capri Ristorante Italiano,68,['Italian'],3.5,$$$,"['6825 Redmond Dr', 'McLean, VA 22101']",VA
+608,VUfflugAZa3MxbtzDTGnEA,HammerDown BBQ,272,"['Barbeque', 'Food Trucks']",4.0,$$,"['41153 John Mosby Hwy', 'Aldie, VA 20105']",VA
+610,po0em9SD6Fd9K-F-O_QFSA,Pho Anh Duong,100,"['Vietnamese', 'Sandwiches']",3.5,$$,"['7899 Heritage Dr', 'Annandale, VA 22003']",VA
+611,ZrwU301C6uI59ynOpjcSmQ,Reynolds Street Bar and Grill,77,"['American (Traditional)', 'Sports Bars']",3.5,$$,"['34 S Reynolds St', 'Alexandria, VA 22304']",VA
+612,f0dZPMJXwENOt_P-KUTMGQ,Balagger Ethiopian Restaurant & Bar,17,"['Ethiopian', 'Bars']",4.0,$$,"['3813E - F S George Mason Dr', 'Falls Church, VA 22041']",VA
+613,gLCUe6FeopOimakz2ur2MA,San Antonio Bar & Grill,144,"['Mexican', 'Pubs']",3.0,$$,"['1664 Crystal Square Arc', 'Arlington, VA 22202']",VA
+614,BQBaNKGW6EPaFul70BlyiQ,GRAPE + BEAN Rosemont,54,"['Beer, Wine & Spirits', 'Cheese Shops', 'American (New)']",4.0,$$,"['2 E Walnut St', 'Alexandria, VA 22301']",VA
+616,Fh10Ch15xXgNtbX6EDBEag,Amuse,94,['American (New)'],3.0,$$,"['1121 N 19th St', 'Le Meridien', 'Arlington, VA 22209']",VA
+618,2oeR4G6x7EXWlz6PrKuN6g,McLean Pizza Restaurant,84,"['Pizza', 'Italian', 'Sandwiches']",3.5,$$,"['1434 Center St', 'McLean, VA 22101']",VA
+619,HqoZlI7wHR7qXtyvUdTq4Q,Buffalo Wild Wings,506,"['Chicken Wings', 'Sports Bars', 'American (Traditional)']",2.0,$$,"['2450 Crystal Dr', 'Arlington, VA 22202']",VA
+621,rh_qVLhS2Aq6gmCCdWHrtw,Roti Modern Mediterranean,59,"['Mediterranean', 'Salad', 'Caterers']",3.5,$$,"['1211 S Fern St', 'Arlington, VA 22202']",VA
+622,miYD0_zsQv2_nawuHR2mEg,Ju Mak Jib,51,['Korean'],3.5,$$,"['6531 Little River Tpke', 'Alexandria, VA 22312']",VA
+623,F-zNvddgmDMw-2iVo_YthQ,Big Bite Pizza,81,"['Pizza', 'Chicken Wings', 'Burgers']",3.5,$$,"['7125 Columbia Pike', 'Annandale, VA 22003']",VA
+625,fdRi8qRpZ7uuCH3Y2Gu2kA,Village Kabob Restaurant,23,"['Middle Eastern', 'Latin American']",3.5,$$,"['3013 Annandale Rd', 'Falls Church, VA 22042']",VA
+626,xzRYlVVhx4XqlFD6WRdmDg,El Puerto Restaurant,44,"['Latin American', 'Peruvian']",3.0,$$,"['3007 Columbia Pike', 'Arlington, VA 22204']",VA
+627,JftqrcGTmr0890imQT76HA,Vantage Point Rooftop Restaurant,93,"['Seafood', 'Lounges']",2.5,$$,"['1900 Fort Myer Dr', 'Holiday Inn', 'Arlington, VA 22216']",VA
+628,RH2ACZMTv6ZOI26Qs6h3zA,IHOP,158,"['Breakfast & Brunch', 'American (Traditional)', 'Burgers']",3.0,$$,"['3425-A Jefferson Davis Hwy', 'Alexandria, VA 22305']",VA
+629,tTrrB_Q31lPEBak_zXdATA,Ho's Chinese Carryout,80,['Chinese'],3.0,$$,"['1707 Centre Plz', 'Alexandria, VA 22302']",VA
+631,oGRY0V73G_aD_9t0Wp6Ddg,Baden Baden,29,"['Korean', 'Bars', 'Karaoke']",4.0,$$,"['7358 Little River Tpke', 'Annandale, VA 22003']",VA
+632,IL50vaWPfDk2xjfTww6viQ,JK Seafood Korean Restaurant,51,"['Japanese', 'Korean', 'Sushi Bars']",3.5,$$,"['7123 Columbia Pike', 'Annandale, VA 22003']",VA
+634,Spzf2JZXfBdDvcy5QwNz6w,Wok 'N Roll Chinese Cafe,84,['Chinese'],3.0,$$,"['1371 Beverly Rd', 'McLean, VA 22101']",VA
+635,tW52AED-JqStdTmWeqKUPg,Cafe Tu Ah,53,"['Korean', 'Karaoke', 'Bars']",3.0,$$,"['7117 Columbia Pike', 'Annandale, VA 22003']",VA
+639,P6Js3m60KU_gQa_u38kQJw,Denny's,26,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",3.0,$$,"['5501 Leesburg Pike', 'Falls Church, VA 22041']",VA
+640,In2R3GlTfjfHVRJA13jIQg,Hong Kong Express,45,"['Chinese', 'Fast Food']",3.0,$$,"['6343-E Columbia Pike', 'Falls Church, VA 22041']",VA
+642,K667JDL8fVE4EKfkbzlhww,Cafe Chocolate,34,"['Korean', 'Karaoke', 'Lounges']",3.5,$$,"['7129 Little River Tpke', 'Annandale, VA 22003']",VA
+643,x9nyoLn4OOlNmLvpZDpkAg,Front Porch,62,"['American (Traditional)', 'Bars']",3.5,$$,"['2006 Mount Vernon', 'Alexandria, VA 22301']",VA
+646,G6qC8cENezVAAAF6wgHySw,Campfire,15,"['Cheesesteaks', 'Food Trucks', 'Burgers']",4.0,$$,"['5507 Holmes Run Pkwy', 'Alexandria, VA 22304']",VA
+648,9ORWlp6YIIUKR-Ui4Ej6hQ,Reservoir,122,['French'],2.5,$$,"['2605 S Clark St', 'Terminal A', 'Arlington, VA 22202']",VA
+650,DuMUkbjDb-aUDcsWZIBLDg,Famille,52,"['Cafes', 'Breakfast & Brunch', 'Venues & Event Spaces']",4.0,$$,"['700A W Broad St', 'Falls Church, VA 22046']",VA
+651,dVHMyrVUBEYgS3RTac2pbQ,Garden Grille and Bar,11,['American (New)'],3.5,$$,"['706 W Broad St', 'The Hilton Garden Inn', 'Falls Church, VA 22046']",VA
+652,b5vpawIp5qstMoQa60-p7w,Honey Baked Ham Company,33,"['Delis', 'Meat Shops', 'Sandwiches']",2.5,$$,"['360 West Broad St', 'Falls Church, VA 22046']",VA
+653,nHVgQaG0XX3zSKtDvYT-qw,15th & Eads,28,['American (New)'],3.5,$$,"['1700 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+656,1BwcKru3L19LzDVc7uh5TA,Luna Nueva Restaurant,13,"['Chinese', 'Latin American']",3.0,$$,"['6621 Wilson Blvd', 'Falls Church, VA 22044']",VA
+657,9BFqgIMpqPjWikrV_mHfig,Fort Myer Officers' Club,11,"['Lounges', 'American (Traditional)']",4.0,$$$,"['214 Jackson Ave', 'Arlington, VA 22211']",VA
+658,4vg3yCav9P26AqWRpNR5sQ,The Potomac Restaurant & Lounge,46,"['American (New)', 'Lounges']",3.0,$$,"['900 South Orme St', 'Arlington, VA 22204']",VA
+660,LIIzAFsMuU1wnedRzHX-qg,New York Pizza Factory Plus,75,"['Chicken Wings', 'Pizza', 'Sandwiches']",3.0,$$,"['7254 Columbia Pike', 'Annandale, VA 22003']",VA
+661,EWoIFuHWU3kFWn8WgQhEeQ,Ngoc Thuy,7,['Vietnamese'],3.5,$$,"['6757 Wilson Blvd', 'Ste 21', 'Falls Church, VA 22044']",VA
+662,he5lVUKgvlGmjMeWjLnO8A,Poké-Man Truck,42,"['Food Trucks', 'Hawaiian']",4.0,$$,"['Sterling, VA 20164']",VA
+663,HZI8Qo6FJxDVomQaBNAXNA,Key Bridge Terrace,11,"['American (Traditional)', 'Cocktail Bars', 'Coffee & Tea']",4.0,$$,"['1325 Wilson Blvd', 'Arlington, VA 22209']",VA
+664,qt1VHzTnZ5RExFNwT4x1ag,Pizza Boli's,90,"['Pizza', 'Italian', 'Sandwiches']",2.5,$$,"['6303 Little River Tpke', 'Alexandria, VA 22312']",VA
+665,dT3lgP3pfSR45TX7td-JOA,Connexion,24,"['American (New)', 'Lounges']",3.5,$$,"['1401 Lee Hwy', 'Key Bridge Marriott', 'Arlington, VA 22209']",VA
+667,gjudnhHfed5xYhi-K1f5nw,Restaurante El Salvador,6,"['Mexican', 'Latin American']",4.0,$$,"['4805 Columbia Pike', 'Arlington, VA 22204']",VA
+669,zoasIdKx1k4-U9lhZt5QDQ,Safeway,82,"['Grocery', 'Delis']",2.5,$$,"['3526 King St', 'Alexandria, VA 22302']",VA
+670,bqdqZSwejOnpz7sYdruzLg,Cityhouse,53,"['American (New)', 'Steakhouses', 'Bars']",2.5,$$,"['1325 Wilson Blvd', 'Arlington, VA 22209']",VA
+671,WLff-YWczPHQyW8HxclpNA,Five Guys,24,"['Burgers', 'Fast Food']",4.0,$$,"['3525 Jefferson Davis Hwy', 'Alexandria, VA 22305']",VA
+672,Swm15xIBu5duBwudN4sMLQ,Win Buffet,99,"['Chinese', 'Buffets', 'Japanese']",2.0,$$,"['6244 Little River Tpke', 'Alexandria, VA 22312']",VA
+673,CW59Vd9CLC6atVHkK-aHUQ,Sfoglina Rosslyn,90,"['Italian', 'Desserts', 'Coffee & Tea']",4.0,$$$,"['1100 Wilson Blvd', 'Arlington, VA 22209']",VA
+674,XahEiJm2uDQrzj_pzbqnRQ,Sarita's Restaurant,28,"['Mexican', 'Bars', 'Salvadoran']",3.0,$$,"['2794 Graham Rd', 'Falls Church, VA 22042']",VA
+675,nx6EevRxNHH7Rfk1bFuoXw,Cinnabar,47,['American (New)'],3.0,$$,"['2799 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+676,pzL2lv--06ykk3BVh0naHA,El Gran Palenque,17,['Mexican'],2.5,$$,"['5863 Columbia Pike', 'Falls Church, VA 22041']",VA
+677,Mmxx3xsFxEPGpoWYnLcbsA,Williamsburg Deli,8,"['Delis', 'Sandwiches']",3.5,$$,"['2900 N Sycamore St', 'Arlington, VA 22207']",VA
+678,o04b8Rytap3dPj53z_tOfw,O'Malley's Pub - Arlington,36,"['Pubs', 'Sports Bars', 'American (Traditional)']",3.0,$$,"['2650 Richmond Hwy', 'Arlington, VA 22202']",VA
+680,F5-x-VXm_qtLVuwCQtyYZw,La Cochabambina Restaurant,18,['Latin American'],3.5,$$,"['6653-E Little River Turnpike', 'Annandale, VA 22003']",VA
+681,lCeIkdU-UA9ixssF9dmXSQ,Lesly Restaurant Bar & Grill,13,"['Bars', 'Salvadoran', 'Mexican']",3.0,$$,"['306 Hillwood Ave', 'Falls Church, VA 22046']",VA
+683,ka6ryiUqnjuqm9jkHW5BgQ,&Pizza,8,['Pizza'],4.5,$$,"['2605 S Clark St', 'Space C-07', 'Ronald Reagan Washington National Airport,Terminal C', 'Arlington, VA 20001']",VA
+686,3RXq4HWss9kBwq-EnY4RTw,Vocelli Pizza,58,['Pizza'],2.5,$$,"['7393-J Lee Hwy', 'Falls Church, VA 22042']",VA
+687,IeMyG7HJgQuWdkOuqEI9dQ,The Gourmet Basket,12,"['Lebanese', 'Caterers']",4.0,$$,"['6829 Tennyson Dr', 'McLean, VA 22101']",VA
+689,ot88ZZqnFbg0Y0-yg4FzTg,Hanshin Pocha,17,"['Korean', 'Chicken Wings', 'Ramen']",3.5,$$,"['4316 Markham St', 'Ste F', 'Annandale, VA 22003']",VA
+690,yzaZmKBhjhqCXkBZtTTXmw,Super A Market,6,"['Grocery', 'Bakeries', 'Delis']",4.0,$$,"['2800 Graham Rd', 'Falls Church, VA 22042']",VA
+691,rDtgZ0LeCoOckm85_GlTyg,Dan & Brad's,12,['American (New)'],2.5,$$$,"['950 N Stafford St', 'Hilton Arlington', 'Arlington, VA 22203']",VA
+694,e4nZqxBboXZd688asmOJMg,4 Seasons Cafe,10,['Ethiopian'],4.0,$$,"['50 S Pickett St', 'Ste 23', 'Alexandria, VA 22304']",VA
+695,_0gpuxlD7E5ZWk3F7kyN7g,La Paz Restaurant,9,['Mexican'],3.0,$$,"['5900 Columbia Pike', 'Falls Church, VA 22041']",VA
+697,aGdjD7RexNRrCIqhSeHEwA,Panda Express,4,"['Chinese', 'Fast Food']",4.0,$$,"['931 Pershing Dr', 'Bldg 441', 'Ft Myer, VA 22211']",VA
+698,ALueUzEhNyauoOZv_YUjnA,Kabob Palace Family Restaurant,37,"['Afghan', 'Mediterranean', 'Halal']",3.0,$$,"['2333 S Eads St', 'Arlington, VA 22202']",VA
+699,uJ6SB0uzEK1EnOXPvlX60Q,Nak Won Catering,8,"['Barbeque', 'Imported Food']",4.0,$$,"['7317 Little River Tpke', 'Annandale, VA 22003']",VA
+700,CNATPQgruDWBVRjXfzT8KQ,The Frenchman,44,"['Food Trucks', 'French']",4.0,$$,"['Manassas, VA 20110']",VA
+701,Auap_o2xPJvWDcmFRdAb9Q,Binh Dan Pho,3,['Vietnamese'],3.5,$$,"['6763 Wilson Blvd', '12B', 'Eden Mall at Eden Center', 'Falls Church, VA 22042']",VA
+702,XdaOQxlu9YYB6ow_njn1mQ,Bell20,29,"['Bars', 'American (Traditional)']",2.5,$$,"['1999 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+703,0GBEKwJvQrvzx9ivBw81SA,Vocelli Pizza,40,"['Pizza', 'Italian']",2.5,$$,"['3406 Commonwealth Ave', 'Alexandria, VA 22305']",VA
+704,Lo9ew50oVsl7NZwOPN4FiA,SoHo Cafe,20,['Sandwiches'],2.5,$$,"['1225 S Clark St', 'Arlington, VA 22202']",VA
+706,OQivXrJb5AmKxGW33bifIg,Chopsticks,20,"['Thai', 'Chinese']",2.5,$$,"['7810A Lee Hwy', 'Falls Church, VA 22042']",VA
+707,0RuSiuidEEAmUrC8WxEY3g,Social Haus Biergarten & Restaurant,6,"['German', 'American (New)', 'Gluten-Free']",3.0,$$,"['2300 Clarendon Blvd', 'Arlington, VA 22201']",VA
+708,-K2eWMSxttOqfC_e1jRrNQ,Cristis Deli & Bakery,5,"['Delis', 'Bakeries']",4.0,$$$$,"['7812 Lee Hwy', 'Falls Church, VA 22042']",VA
+709,Wj9z-uuvQoPMyoDabb0kvQ,Veranda Cafe,8,"['Cafes', 'Breakfast & Brunch', 'Buffets']",3.5,$$,"['1480 Crystal Dr', 'Arlington, VA 22202']",VA
+711,3x297NojX-_Ttf7FnwuL3g,Blue Fire Lounge,11,['American (Traditional)'],3.5,$$$,"['Westin Tysons Corner', '7801 Leesburg Pike', 'Falls Church, VA 22043']",VA
+712,EYtSM7AZbJQrJCLHlL_0-Q,Hunan Heritage,39,['Chinese'],2.5,$$,"['7869 Heritage Dr', 'Annandale, VA 22003']",VA
+715,PlcT2nuTHKLOYsOJixaeXg,Cedar Deli,7,"['Delis', 'Sandwiches']",3.5,$$,"['2341 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+716,tyPe9kScaCo1658JwHZsZg,Uptown Cafe,8,['Cafes'],2.5,$$,"['6400 Arlington Blvd', 'Falls Church, VA 22042']",VA
+718,437lOH8urylFCBadaDXQGA,Atia Kabob Place,17,['Asian Fusion'],2.5,$$,"['251 18th St', 'Arlington, VA 22202']",VA
+719,9FI-qQTt-KvA1s6qQnwDCQ,Custom Burger,41,['Burgers'],1.5,$$,"['2605 S Clark St', 'Gates 1-9', 'Terminal A', 'Arlington, VA 22202']",VA
+720,26dTT6brRVAvLMr8qQP5HA,Nutrio Bar and Restaurant,3,"['Bars', 'American (New)']",4.5,$$,"['1800 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+722,-8TkrTNeebNwFGcfDKJgRQ,Viva Tequila,32,"['Bars', 'Mexican']",2.0,$$,"['6244 Little River Tpke', 'Ste C', 'Alexandria, VA 22312']",VA
+724,7IkbQpf5qq2KJTvU1E0whA,Bada Story,7,"['Sushi Bars', 'Asian Fusion']",3.0,$$,"['4231 Markham St', 'Ste E', 'Annandale, VA 22003']",VA
+725,fEFIjJTOkgwTy4Xe7zAihQ,Hong Kong Restaurant,3,['Chinese'],2.5,$$,"['6795 Wilson Blvd', 'Ste 3', 'Falls Church, VA 22044']",VA
+726,iiFsCZCArcxd4CIfxSsVuA,Akmal's Kitchen,2,"['Indian', 'Afghan']",3.0,$$,"['5171 Lee Hwy', 'Arlington, VA 22207']",VA
+727,DoDldVxPzgc9zON_8il39g,Uptown Cafe,13,['Cafes'],2.5,$$,"['2800 Crystal Dr', 'Arlington, VA 22202']",VA
+728,uTcB8RoWdE1W9ffAqlRLWQ,El Rancho Migueleno,8,"['Peruvian', 'Salvadoran', 'Tex-Mex']",2.5,$$,"['3709 Columbia Pike', 'Ste 1', 'Arlington, VA 22204']",VA
+729,hd_Nw--kHY_b93a5lOPcAA,Lilian's Restaurant,12,"['Bars', 'Mexican']",2.5,$$,"['3901 Mount Vernon Ave', 'Alexandria, VA 22305']",VA
+730,el2yfaCjs1vHoJK4PYKkcw,Basin Barroom,8,"['Cocktail Bars', 'Sandwiches']",3.0,$$,"['520 12th St S', 'Ste 100', 'Whole Foods Market', 'Arlington, VA 22202']",VA
+732,iKAut08RKmnAZdP_IuosUg,Fresh Kitchen,8,"['American (Traditional)', 'Breakfast & Brunch']",2.5,$$,"['2650 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+734,JnSM_7s8i8lgosD9zQ5W3A,Cafe Sequoia,4,['Delis'],2.0,$$$,"['2100 Washington Blvd', 'Arlington, VA 22204']",VA
+735,pEq6qVhqslcBLODA60KKaw,Santa Ana Restaurant,1,['Restaurants'],4.0,$$,"['2599 Columbia Pike', 'Arlington, VA 22204']",VA
+737,viefkSMd3_zTS_obYdFu3A,Taso's Restaurant,7,['Restaurants'],2.5,$$,"['1041 W Glebe Rd', 'Alexandria, VA 22305']",VA
+738,eV0BrV_UKwavPSfm7GS9Xw,Crystal Grill,4,['American (New)'],3.5,$$,"['1300 Jefferson Davis Hwy', 'Arlington, VA 22243']",VA
+739,BW8rgMX2J_doLnCgH78oxg,Universal Gourmet,7,"['Delis', 'Buffets', 'Sandwiches']",2.5,$$,"['2733 Crystal Dr', 'Arlington, VA 22216']",VA
+740,wvPMnl_cxAYlVKReGvcFYg,Cafe 59,2,['Delis'],4.0,$$,"['2450 Crystal Dr', 'Ste 114', 'Arlington, VA 22202']",VA
+741,gJA3U5sfSSzEoFMrcwD8Uw,2020 Bistro,4,['American (Traditional)'],3.0,$$,"['2020 Jefferson Davis Hwy', 'Arlington, VA 22202']",VA
+742,uyb16BDD41-4CPm4OV2oBg,Kumkang Delicioso,6,"['Mexican', 'Salvadoran']",3.0,$$,"['7863 Heritage Dr', 'Annandale, VA 22003']",VA
+743,qG1aCxPFn8ihqgpOZjjkug,Casa Fiesta,6,['Mexican'],2.5,$$,"['6244 Little River Tpke', 'Alexandria, VA 22312']",VA
+745,NAz7Hs-1Pdv0sLOWC3AUaQ,Sombrero Restaurant,4,['Latin American'],2.5,$$,"['513 23rd South St', 'Arlington, VA 22202']",VA
+746,BHDWXktcVZyGLb0rvr52zg,New Dynasty Restaurant Carryout,1,['Restaurants'],4.0,$$,"['7511 Leesburg Pike', 'Falls Church, VA 22043']",VA
+747,626QtedNFFwJZ9XwztrWUg,Organic To Go,2,['American (New)'],2.5,$$,"['1100 Wilson Blvd', 'Arlington, VA 22209']",VA
+748,f6Yp7u16mwe8_cUH2AGVOw,Farm Credit Administration Building Cafeteria,1,"['Fast Food', 'Cafeteria', 'Sandwiches']",4.0,$$,"['1501 Farm Credit Dr', 'McLean, VA 22102']",VA
+749,msC64xuXjejENTeZE9FB8w,Venezia's Gourmet Pizzeria,1,"['Italian', 'Pizza']",2.0,$$,"['446 Calvert Ave', 'Alexandria, VA 22301']",VA
